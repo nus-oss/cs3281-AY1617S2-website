@@ -1,2 +1,3 @@
-# cs3281-website
-CS3281&amp;2 Module Website
+# CS3281&2-Thematic Systems Project
+
+[AY2016/17 Sem II - Call for Applications](docs/CfA-2017.md)
