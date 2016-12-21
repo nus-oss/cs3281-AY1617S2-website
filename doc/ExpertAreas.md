@@ -1,6 +1,6 @@
 # Expert Areas
 
-If you are not sure which expert areas to pick, given below are some areas that have overlaps with internal projects.
+Given below are some areas that have overlaps with internal projects.
 Picking these will have the advantage that your work in the internal projects can increase your expertise in the 
 chosen areas (i.e. your work in CS3282 can help you earn more credit in CS3281).
 
@@ -10,13 +10,13 @@ Here are the main languages used in the three projects.
 
 Language   | Projects
 -----------|-----
-Java       | `S`, `T`
-HTML       | `T`
-CSS        | `T`
-JavaScript | `T`
-C#         | `P`
+Java       | `SE`, `TM`
+HTML       | `TM`
+CSS        | `TM`
+JavaScript | `TM`
+C#         | `PL`
 
-Projects: `P` : PowerPointLabs, `S` : SE-EDU, `T` : TEAMMATES
+Projects: `PL` : PowerPointLabs, `SE` : SE-EDU, `TM` : TEAMMATES
 
 ## Tools, Tech Topics
 
@@ -24,99 +24,98 @@ The aspects, tools, topics given below can help you to pick an aspect and a topi
 
 ### Code Quality
 * Static analysis 
-  * Checkstyle
-  * Codacy
-  * FindBugs
-  * PMD
-  * ESLint
-  * Stylelint
+  * Checkstyle `TM`
+  * Codacy `SE`
+  * FindBugs `TM` `SE` 
+  * PMD `TM` `SE`
+  * ESLint `TM`
+  * Stylelint `TM`
 
 ## Dev Ops
 * Build 
-  * Gradle
-  * npm
+  * Gradle `TM` `SE`
+  * npm `TM`
 * CI
-  * AppVeyor
-  * Travis
+  * AppVeyor `SE` `PL`
+  * Travis `TM` `SE`
 * Process 
-  * Workflow
-  * Dev community management
-  * Release management
+  * Workflow `TM` `SE` `PL`
+  * Dev community management `TM` `SE` `PL`
+  * Release management `TM` `SE` `PL`
 
 
 ### Desktop
 
 * GUI
-  * JavaFx, ControlsFx
-* Installers
-* Portability
+  * JavaFx, ControlsFx `SE`
+* Installers `SE` `PL`
+* Portability `SE`
 
 ### Documentation
 
-* UML
-* Document generation
+* UML `TM` `SE` `PL`
+* Document generation `TM` `SE` `PL`
 
 ### Fault Tolerance
 
-* Logging
-* Error reporting
-* Backup and restore
+* Logging `TM` `SE` `PL`
+* Error reporting `TM` `SE` `PL`
+* Backup and restore `TM`
 
 ### Performance and scalability
 
-* Threading
-* Profiling
-* Scalability testing
+* Threading `TM` `SE`
+* Profiling `TM` `SE` `PL`
+* Scalability testing `TM` `SE`
 
 ### Security
 
-* Vulnerabilities: SQL injection, cross site scripting
-* Access control
+* Vulnerabilities `TM`: SQL injection, cross site scripting
+* Access control `TM`
 
 ### Testing
 
 * Coverage 
-  * Blanket.js
-  * EclEmma
-  * JaCoCo
-  * Coveralls 
+  * Blanket.js `TM`
+  * EclEmma `TM` `SE`
+  * JaCoCo `TM`
+  * Coveralls `TM` `SE`
 
 * Testing frameworks
-  * JUnit
-  * TestNG
-  * QUnit
+  * JUnit `SE`
+  * TestNG `TM`
+  * QUnit `TM`
 
 * UI testing
-  * Selenium
-  * TestFx
+  * Selenium `TM`
+  * TestFx `SE`
   
 * Mocking
-  * Mockito, PowerMock 
+  * Mockito, PowerMock `SE`
 
 ### UIX
 
-* Usability
-* Accessibility
-* Responsiveness
+* Usability `TM` `SE` `PL`
+* Accessibility `TM`
+* Responsiveness `TM`
 
 ### Web (Frontend)
 
 * Front End frameworks: 
-  * Bootstrap
-  * JQuery
+  * Bootstrap `TM`
+  * JQuery `TM`
 
 * Static page generation
- * Jekyll
+ * Jekyll `PL`
 
 * Dynamic page generation
-  * JSP
-  * JSTL
+  * JSP `TM`
+  * JSTL `TM`
 
 ### Web (Backend)
 
-* Google App Engine
-* Servlets
+* Google App Engine `TM`
+* Servlets `TM`
 * Persistence
-  * JDO 
-  * JPA 
-  * GAE Datastore
+  * JDO, JPA, GAE DataStore `TM`
+  * SQLite `SE`
