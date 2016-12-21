@@ -1,6 +1,6 @@
 # Expert Areas
 
-Given below are some areas that have overlaps with internal projects.
+Given below are some areas that have overlaps with internal projects that you'll be working in CS3282.
 Picking these will have the advantage that your work in the internal projects can increase your expertise in the 
 chosen areas (i.e. your work in CS3282 can help you earn more credit in CS3281).
 
