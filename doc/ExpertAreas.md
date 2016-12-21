@@ -26,15 +26,17 @@ The aspects, tools, topics given below can help you to pick an aspect and a topi
 * Static analysis 
   * Checkstyle `TM` `SE`
   * Codacy `SE`
+  * ESLint `TM`
   * FindBugs `TM` `SE` 
   * PMD `TM` `SE`
-  * ESLint `TM`
   * Stylelint `TM`
+  * StyleCop `PL`
 
 ## Dev Ops
 
 * Build 
   * Gradle `TM` `SE`
+  * MSBuild `PL`
   * npm `TM`
 
 * CI
@@ -51,6 +53,7 @@ The aspects, tools, topics given below can help you to pick an aspect and a topi
 
 * GUI
   * JavaFx, ControlsFx `SE`
+  * Windows Presentation Foundation (WPF), Winform `PL`
 
 * Installers `SE` `PL`
 
@@ -97,21 +100,25 @@ Sub areas:
 
 * Code coverage 
   * Blanket.js `TM`
+  * Coveralls `TM` `SE`
   * EclEmma `TM` `SE`
   * JaCoCo `TM`
-  * Coveralls `TM` `SE`
+  * MSTest code coverage `PL`
 
 * Testing frameworks
   * JUnit `SE`
+  * MS Test `PL`
   * TestNG `TM`
   * QUnit `TM`
 
 * UI testing
+  * MS Test `PL`
   * Selenium `TM`
   * TestFx `SE`
   
 * Mocking
   * Mockito, PowerMock `SE`
+  * Moq `PL`
 
 ### UIX
 
