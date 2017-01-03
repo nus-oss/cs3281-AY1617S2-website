@@ -14,7 +14,7 @@
         in the same folder.
       * Length 1-1.5 pages. You may want to read up some online advice on writing good tech resumes. Write it as if
         you will use it for internship/job applications in the near future.
-    * Your details in this page [this file](students/AY1617S2/StudentList.md). 
+    * Your details in this page [this file](../students/AY1617S2/StudentList.md). 
   * The PR name can be something like `Add Details: John Doe`.
 
 ## Week 2
