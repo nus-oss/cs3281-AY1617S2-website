@@ -1,14 +1,16 @@
 # AY1617-S2 Batch
 
-#### John Doe
-<img src="johnDoe/JohnDoe.png" width="100" /><br>
-[[Resume](johnDoe/JohnDoe-Resume.md)]
-[[Website]()]
-[[Github Profile]()]
-[[Progress](johnDoe/JohnDoe-Progress.md)]
+Example: 
 
-* Expert areas: JavaScript, Node.js, Website Performance 
-* Projects: Node.js, TEAMMATES
+> #### John Doe
+> <img src="johnDoe/JohnDoe.png" width="100" /><br>
+> [[Resume](johnDoe/JohnDoe-Resume.md)]
+> [[Website]()]
+> [[Github Profile]()]
+> [[Progress](johnDoe/JohnDoe-Progress.md)]
+> 
+> * Expert areas: JavaScript, Node.js, Website Performance 
+> * Projects: Node.js, TEAMMATES
 
 ------------------------------------------------
 
