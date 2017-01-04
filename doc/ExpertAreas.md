@@ -81,12 +81,14 @@ in an inconsistent state.
 ### Performance and scalability
 
 This affects all three projects:
+
 * `PL` : Users don't like their PowerPoint to slow down due to our plugin
 * `SE` : We want the app to be very fast and to be able to handle lot of data (especially when connected to 
   third party backends such as Google calendar) 
 * `TM` : 1. It has to deal with spikes in load. 2. Every CPU cycle or byte of data transfer costs us money.
 
 Sub areas: 
+
 * Multi-threading `TM` `SE`  
 * Profiling `TM` `SE` `PL` : To find performance bottlenecks
 * Scalability testing `TM` `SE`

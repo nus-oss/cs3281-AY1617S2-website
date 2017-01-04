@@ -2,7 +2,7 @@
 
 ---
 
-#Stage 1 : Learning
+# Stage 1 : Learning
 
 ## Week 1
 
@@ -32,7 +32,7 @@
 
 ---
 
-#Stage 2 : Contributing
+# Stage 2 : Contributing
 
 ## Week 4
 
@@ -46,11 +46,7 @@
 
 * Lecture : Project specific discussions
 
----
-
-**Recess** 
-
----
+======================== RECESS ==============================
 
 ## Week 7
 
@@ -66,7 +62,7 @@
 
 ---
 
-#Stage 3 : Managing
+# Stage 3 : Managing
 
 ## Week 10
 

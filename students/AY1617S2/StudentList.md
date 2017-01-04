@@ -1,8 +1,6 @@
-# AY1617-S2 Batch
-
 Example: 
 
-> #### John Doe
+> ## John Doe
 > <img src="johnDoe/JohnDoe.png" width="100" /><br>
 > [[Resume](johnDoe/JohnDoe-Resume.md)]
 > [[Website]()]
@@ -14,9 +12,9 @@ Example:
 
 ------------------------------------------------
 
-## PowerPointLabs
+# PowerPointLabs
 
-#### ANG SHI YA
+## ANG SHI YA
 <img src="" width="100" /><br>
 [[Resume]()]
 [[Website]()]
@@ -26,19 +24,7 @@ Example:
 * Expert areas:  
 * Projects: 
 
-#### JAMOS TAY
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
-
-#### IAN TEO ZHI WEN
+## JAMOS TAY
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -50,7 +36,7 @@ Example:
 * Projects: 
 
 
-#### LOH JIA SHUN KENNETH
+## IAN TEO ZHI WEN
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -62,7 +48,7 @@ Example:
 * Projects: 
 
 
-#### ONG HENG LE
+## LOH JIA SHUN KENNETH
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -74,22 +60,7 @@ Example:
 * Projects: 
 
 
-#### SYED ABDULLAH B SYED SHEIKH
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
-------------------------------------------------
-
-## SE-EDU
-
-#### CHUA KA YI ONG
+## ONG HENG LE
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -101,67 +72,7 @@ Example:
 * Projects: 
 
 
-#### GOH YI DA JEREMY
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
-
-#### HUANG CHAO
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
-
-#### PIERCE ANDERSON FU
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
-
-#### SONG ZHIWEN
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
-
-#### TAN MIN RONG SAMSON
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
-
-#### TAN WANG LENG
+## SYED ABDULLAH B SYED SHEIKH
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -174,21 +85,9 @@ Example:
 
 ------------------------------------------------
 
-## TEAMMATES
+# SE-EDU
 
-#### CH'NG MING SHIN
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
-
-#### LEE YI MIN
+## CHUA KA YI ONG
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -200,7 +99,7 @@ Example:
 * Projects: 
 
 
-#### LI KAI
+## GOH YI DA JEREMY
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -212,7 +111,7 @@ Example:
 * Projects: 
 
 
-#### TAN BOON KEONG DICKSON
+## HUANG CHAO
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -224,7 +123,7 @@ Example:
 * Projects: 
 
 
-#### THENAESH S/O N ELANGO
+## PIERCE ANDERSON FU
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -236,7 +135,7 @@ Example:
 * Projects: 
 
 
-#### WILSON KURNIAWAN
+## SONG ZHIWEN
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -248,7 +147,7 @@ Example:
 * Projects: 
 
 
-#### XIAO PU
+## TAN MIN RONG SAMSON
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -260,7 +159,22 @@ Example:
 * Projects: 
 
 
-#### YANG BOXIN
+## TAN WANG LENG
+
+<img src="" width="100" /><br>
+[[Resume]()]
+[[Website]()]
+[[Github Profile]()]
+[[Progress]()]
+
+* Expert areas:  
+* Projects: 
+
+------------------------------------------------
+
+# TEAMMATES
+
+## CH'NG MING SHIN
 
 <img src="" width="100" /><br>
 [[Resume]()]
@@ -272,7 +186,91 @@ Example:
 * Projects: 
 
 
-#### YONG YOONG JIE JOHN
+## LEE YI MIN
+
+<img src="" width="100" /><br>
+[[Resume]()]
+[[Website]()]
+[[Github Profile]()]
+[[Progress]()]
+
+* Expert areas:  
+* Projects: 
+
+
+## LI KAI
+
+<img src="" width="100" /><br>
+[[Resume]()]
+[[Website]()]
+[[Github Profile]()]
+[[Progress]()]
+
+* Expert areas:  
+* Projects: 
+
+
+## TAN BOON KEONG DICKSON
+
+<img src="" width="100" /><br>
+[[Resume]()]
+[[Website]()]
+[[Github Profile]()]
+[[Progress]()]
+
+* Expert areas:  
+* Projects: 
+
+
+## THENAESH S/O N ELANGO
+
+<img src="" width="100" /><br>
+[[Resume]()]
+[[Website]()]
+[[Github Profile]()]
+[[Progress]()]
+
+* Expert areas:  
+* Projects: 
+
+
+## WILSON KURNIAWAN
+
+<img src="" width="100" /><br>
+[[Resume]()]
+[[Website]()]
+[[Github Profile]()]
+[[Progress]()]
+
+* Expert areas:  
+* Projects: 
+
+
+## XIAO PU
+
+<img src="" width="100" /><br>
+[[Resume]()]
+[[Website]()]
+[[Github Profile]()]
+[[Progress]()]
+
+* Expert areas:  
+* Projects: 
+
+
+## YANG BOXIN
+
+<img src="" width="100" /><br>
+[[Resume]()]
+[[Website]()]
+[[Github Profile]()]
+[[Progress]()]
+
+* Expert areas:  
+* Projects: 
+
+
+## YONG YOONG JIE JOHN
 
 <img src="" width="100" /><br>
 [[Resume]()]

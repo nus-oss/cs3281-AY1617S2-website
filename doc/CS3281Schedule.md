@@ -43,6 +43,7 @@
   * Peer evaluations
   * Some progress expected on external project 
   * Some progress expected on book chapter (counts for 5%)
+
 ---
 
 **Recess** [Mid-term grading for book chapter]
