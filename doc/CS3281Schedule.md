@@ -9,12 +9,14 @@
 * Add your details to the module website [Deadline: Friday]
   * Create a pull request to adding following to this repo.
     * Your Resume:
-      * Follow the folder/file convention used by this placeholder file `students/AY1617S2/johnDoe/JohnDoe.md`.
+      * Follow the folder/file convention used by this placeholder file `students/AY1617S2/johnDoe/JohnDoe-Resume.md`.
       * It can be in markdown format or html. Place any additional files you need (e.g. css, images) 
         in the same folder.
       * Length 1-1.5 pages. You may want to read up some online advice on writing good tech resumes. Write it as if
         you will use it for internship/job applications in the near future.
     * Your details in this page [this file](../students/AY1617S2/StudentList.md). 
+      * The project assignment in the above file is based on your first preference given in the application form. 
+        A project change is still possible within week 1, subject to approval.
   * The PR name can be something like `Add Details: John Doe`.
 
 ## Week 2
