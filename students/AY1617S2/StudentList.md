@@ -147,18 +147,6 @@ Example:
 * Projects: 
 
 
-## TAN MIN RONG SAMSON
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
-
 ## TAN WANG LENG
 
 <img src="" width="100" /><br>
@@ -220,6 +208,18 @@ Example:
 
 * Expert areas:  
 * Projects: 
+
+
+## TAN MIN RONG SAMSON
+
+<img src="TanMinRongSamson/TanMinRongSamson.jpg" width="100" /><br>
+[[Resume](TanMinRongSamson/TanMinRongSamson-Resume.md)]
+[[Website](samsontmr.github.io)]
+[[Github Profile](https://github.com/samsontmr)]
+[[Progress]()]
+
+* Expert areas:  Python, Scalability Testing, Static Analysis
+* Projects: scikit-learn, TEAMMATES
 
 
 ## THENAESH S/O N ELANGO
