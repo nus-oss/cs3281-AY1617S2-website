@@ -212,8 +212,8 @@ Example:
 
 ## TAN MIN RONG SAMSON
 
-<img src="TanMinRongSamson/TanMinRongSamson.jpg" width="100" /><br>
-[[Resume](TanMinRongSamson/TanMinRongSamson-Resume.md)]
+<img src="tanMinRongSamson/TanMinRongSamson.jpg" width="100" /><br>
+[[Resume](tanMinRongSamson/TanMinRongSamson-Resume.md)]
 [[Website](samsontmr.github.io)]
 [[Github Profile](https://github.com/samsontmr)]
 [[Progress]()]
