@@ -18,6 +18,9 @@
       * The project assignment in the above file is based on your first preference given in the application form. 
         A project change is still possible within week 1, subject to approval.
   * The PR name can be something like `Add Details: John Doe`.
+   
+  > Note: **If you are using markdown**, please pay attention to 
+  > [this advice on making your markdown code compatible with GitHub Pages](https://github.com/oss-generic/process/blob/master/codingStandards/CodingStandard-Gfmd.md#follow-strict-gfmd-syntax-to-be-compatible-with-github-pages).
 
 ## Week 2
 
