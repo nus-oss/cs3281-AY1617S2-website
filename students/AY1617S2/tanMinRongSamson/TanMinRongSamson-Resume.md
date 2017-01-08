@@ -24,6 +24,7 @@ Experience
 National University of Singapore | Singapore <br>
 January 2017 - Present <br>
 ***Responsibilities***
+
 *   Conduct research analysis such as computerized topical/sentiment/semantic network analysis
 *   Supervise machine learning in Python
 *   Write academic papers based on above data analyses
@@ -34,10 +35,12 @@ January 2017 - Present <br>
 Centre for Quantum Technologies | Singapore <br>
 May 2016 - August 2016 (3 months) <br>
 ***Responsibilities***
+
 *   Design and develop an interactive exhibit to visualize a quantum wavefunction in real-time
-*    Create visual effects for short film for the International Conference on Quantum Communication, Measurement and Computing (QCMC) 2016
+*   Create visual effects for short film for the International Conference on Quantum Communication, Measurement and Computing (QCMC) 2016
 
 *Technologies learnt*
+
 *   Microsoft Kinect for Windows v2
 *   C++, openCV 3.1.0, armadillo
 
@@ -45,6 +48,7 @@ May 2016 - August 2016 (3 months) <br>
 Lighthouse Media International | Singapore <br>
 April 2013 - August 2013 (5 months) <br>
 ***Responsibilities***
+
 *   Research & Development of Digital Assets in Houdini
 
 **Visual Effects Intern** <br>
@@ -56,10 +60,12 @@ Self-directed learning of Houdini and completing a Houdini-based project (Proced
 Skills
 --------
 **Programming**
+
 *   **Proficient:** Object Oriented
 *   **Familiar:** Functional
 
 **Languages**
+
 *   **Proficient:** Java
 *   **Familiar:** Python, C++
 
@@ -67,16 +73,19 @@ Skills
 scikit-learn, openCV
 
 **Tools**
+
 *   **Proficient:** Atom, SourceTree, git
 *   **Familiar:** Eclipse, VS14, Xcode, JUnit, Travis, Coveralls
 
 **Other Skills**
+
 *   Quantitative Reasoning
 *   Academic Writing
 *   Artistic Direction
 
 Hackathons
 ----------
+
 *   Facebook Singapore Hackathon 2016 (Winner)
 *   Facebook Global Hackathon Finals 2016 (Top 8 Placing)
 *   Hack&Roll 2016
