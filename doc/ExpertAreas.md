@@ -32,7 +32,7 @@ The aspects, tools, topics given below can help you to pick an aspect and a topi
   * Stylelint `TM`
   * StyleCop `PL`
 
-## Dev Ops
+### Dev Ops
 
 * Build 
   * Gradle `TM` `SE`
