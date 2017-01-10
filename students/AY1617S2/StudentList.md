@@ -218,8 +218,8 @@ Example:
 [[Github Profile](https://github.com/samsontmr)]
 [[Progress]()]
 
-* Expert areas:  Python, Scalability Testing, Static Analysis
-* Projects: scikit-learn, TEAMMATES
+* Expert areas:  Python, Scalability Testing & DevOps, Data Science & Artificial Intelligence
+* Projects: matplotlib, scikit-learn, TEAMMATES
 
 
 ## THENAESH S/O N ELANGO
