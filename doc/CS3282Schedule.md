@@ -6,9 +6,20 @@
 
 ## Week 1
 
+* Set up the dev environment in your Computer. Follow instructions provided by the project for new contributors.
+
 * Lecture : Module Intro
 
 * Saturday: Code Sprint 0900- 1600 (SR10)
+
+  > The code sprint is an opportunity for you to spend an extended amount of time on the project so that you get a solid start to the
+  > coding activities. Some project mentors may be available during this time for you to discuss project related matters with them.
+  
+  * 0930 - 1200 : Project work, mock interviews
+  * 1200 - 1300 : Lunch break (lunch not provided)
+  * 1300 - 1500 : Project work, mock interviews
+  * 1500 - 1530 : Pizza! :pizza: 
+  * 1530 - 1700 : Project work, mock interviews
 
 ## Week 2
 
