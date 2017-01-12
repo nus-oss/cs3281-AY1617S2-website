@@ -38,7 +38,7 @@ Example:
 
 ## IAN TEO ZHI WEN
 
-<img src="" width="100" /><br>
+<img src="ianTeo/IanTeo.png" width="100" /><br>
 [[Resume](ianTeo/IanTeo-Resume.md)]
 [[Website]()]
 [[Github Profile](https://github.com/IanTeo)]
