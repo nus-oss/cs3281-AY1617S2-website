@@ -15,14 +15,14 @@ Example:
 # PowerPointLabs
 
 ## ANG SHI YA
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="shiYa/ShiYa.png" width="100" /><br>
+[[Resume](shiYa/ShiYa-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/AngShiYa)]
+[[Progress](shiYa/ShiYa-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C#, UIX, Testing
+* Projects: freeCodeCamp, NUnit, PowerPointLabs
 
 ## JAMOS TAY
 
