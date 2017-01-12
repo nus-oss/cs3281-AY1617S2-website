@@ -113,15 +113,14 @@ Example:
 
 ## HUANG CHAO
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="huangChao/HuangChao.png" width="100" /><br>
+[[Resume](huangChao/HuangChao-Resume.html)]
+[[Website](https://chao1995.github.io/blog/)]
+[[Github Profile](https://github.com/chao1995)]
+[[Progress](huangChao/HuangChao-Progress.md)]
 
-* Expert areas:  
-* Projects: 
-
+* Expert areas: Java, DevOps (Build, CI), Testing (Mocking)
+* Projects: [zulip](https://github.com/zulip/zulip), [SE-EDU](https://github.com/se-edu)
 
 ## PIERCE ANDERSON FU
 
