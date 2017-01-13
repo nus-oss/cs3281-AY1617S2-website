@@ -7,12 +7,12 @@ _[Address]_
 
 ## EDUCATION
 
-##### National University of Singapore (Aug 2015 - May 2019)
+#### National University of Singapore (Aug 2015 - May 2019)
 - Bachelor of Computing (Honours).
 - GPA of 4.83 (Year 2).
 - Awarded the National Infocomm Scholarship (NIS) by IDA.
 
-##### NUS High School of Mathematics and Science (Jan 2009 - Nov 2012)
+#### NUS High School of Mathematics and Science (Jan 2009 - Nov 2012)
 - NUS High School Diploma (Distinction) with Honours in Mathematics, and Majors in Chemistry and Physics.
 - A-level equivalent.
 - Graduated with a CAP of 4.2.
@@ -20,6 +20,7 @@ _[Address]_
 ---
 
 ## WORK EXPERIENCE
+
 #### Lomotif (Nov 2016 – Present)
 Lomotif develops an app by the same name. The app is an editor for making music montages for social media, as well as a platform for sharing these videos. It has 4.5 million downloads as of end 2016.
 - Introduced various machine learning concepts as well as recommender systems to the engineering team.
