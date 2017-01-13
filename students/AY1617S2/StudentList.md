@@ -62,14 +62,14 @@ Example:
 
 ## ONG HENG LE
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="ongHengLe/OngHengLe.png" width="100" /><br>
+[[Resume](ongHengLe/OngHengLe-Resume.md)]
+[[Website](https://initialshl.github.io/)]
+[[Github Profile](https://github.com/initialshl)]
+[[Progress](ongHengLe/OngHengLe-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C#, Performance, Visual Studio Profiling Tools 
+* Projects: PowerPointLabs, Visual Studio Code
 
 
 ## SYED ABDULLAH B SYED SHEIKH
