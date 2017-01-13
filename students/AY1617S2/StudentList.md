@@ -161,14 +161,14 @@ Example:
 
 ## TAN WANG LENG
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="tanWangLeng/TanWangLeng.png" width="100" /><br>
+[[Resume](tanWangLeng/TanWangLeng-Resume.md)]
+[[Website](http://yamgent.github.io/)]
+[[Github Profile](https://github.com/yamgent)]
+[[Progress](tanWangLeng/TanWangLeng-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Testing (JUnit), Java, Security
+* Projects: GitHub's Electron, Addressbook
 
 ------------------------------------------------
 
