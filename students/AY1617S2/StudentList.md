@@ -101,11 +101,11 @@ Example:
 
 ## GOH YI DA JEREMY
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="jeremyGoh/JeremyGoh.png" width="100" /><br>
+[[Resume](jeremyGoh/JeremyGoh-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/MightyCupcakes)]
+[[Progress](jeremyGoh/JeremyGoh-Progress.md)]
 
 * Expert areas:  
 * Projects: 
