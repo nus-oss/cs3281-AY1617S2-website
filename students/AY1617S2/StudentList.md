@@ -52,8 +52,8 @@ Example:
 
 <img src="lohJiaShunKenneth/lohJiaShunKenneth.jpg" width="100" /><br>
 [[Resume](lohJiaShunKenneth/lohJiaShunKenneth-Resume.md)]
-[[Website]()]
-[[Github Profile]()]
+[[Website](https://github.com/Kenneth-LJS)]
+[[Github Profile](https://github.com/Kenneth-LJS)]
 [[Progress](lohJiaShunKenneth/lohJiaShunKenneth-Progress.md)]
 
 * Expert areas: C#, Parallel, AI
