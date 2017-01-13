@@ -36,10 +36,6 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
   * Languages: _SQL_
   * RDBMS: _SQLite_
 
-#### Linux
-
-  * Distributions: _Gentoo, Debian-derived (Debian, Ubuntu, Mint, etc)_
-
 
 ## Work Experience
 
