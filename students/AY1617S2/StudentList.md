@@ -27,7 +27,7 @@ Example:
 ## JAMOS TAY
 
 <img src="jamosTay/JamosTay.png" width="100" /><br>
-[[Resume](jamosTay/JamosTay-resume.md)]
+[[Resume](jamosTay/JamosTay-Resume.md)]
 [[Website](https://github.com/jamos-tay)]
 [[Github Profile](https://github.com/jamos-tay)]
 [[Progress](jamosTay/JamosTay-Progress.md)]
