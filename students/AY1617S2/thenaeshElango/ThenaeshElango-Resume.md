@@ -72,7 +72,7 @@ Responsibilities:
 _August 2015 - September 2016_
 
 
-### Director of Academic Liaison, _National University of Singapore Students' Computing Club_
+#### Director of Academic Liaison, _National University of Singapore Students' Computing Club_
 
 August 2014 - September 2015
 
