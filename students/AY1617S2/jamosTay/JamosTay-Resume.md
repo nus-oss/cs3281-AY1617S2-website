@@ -1,8 +1,8 @@
 Jamos Tay
 =========
-<img src="JamosTay.png" width="100" /><br>
-Address: --- <br>
-Mobile: --- <br>
+<img src="JamosTay.png" width="200" /><br>
+Address: [Redacted] <br>
+Mobile: [Redacted] <br>
 Email: jamostay@gmail.com
 
 Academic Experience
