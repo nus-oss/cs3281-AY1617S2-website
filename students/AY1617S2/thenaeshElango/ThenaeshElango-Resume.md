@@ -12,6 +12,7 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 * Turing Programme
 * Focus Areas: _Algorithms & Theory, Artificial Intelligence, Information Security_
 
+
 #### [In Progress] Bachelor of Science, _National University of Singapore_
 
 * Major: **Mathematics**
@@ -39,11 +40,11 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 ## Work Experience
 
+
 #### Teaching Assistant for CS1101S Programming Methodology, __National University of Singapore_
 
-_August 2015 - December 2015_
-
-_August 2016 - December 2016_
+* _August 2015 - December 2015_
+* _August 2016 - December 2016_
 
 Responsibilities:
 
@@ -55,7 +56,7 @@ Responsibilities:
 
 #### Teaching Assistant for CS1231 Discrete Structures, _National University of Singapore_
 
-_August 2015 - December 2015_
+* _August 2015 - December 2015_
 
 Responsibilities:
 
@@ -63,14 +64,20 @@ Responsibilities:
 * Graded written assignments.
 
 
+#### Software Engineer & System Administrator, _National University of Singapore Students' Computing Club_
+
+* _August 2016 - September 2017_
+
+
 #### Vice-President (Human Resource and Development), _National University of Singapore Students' Computing Club_
 
-_August 2015 - September 2016_
+* _August 2015 - September 2016_
 
 
 #### Director of Academic Liaison, _National University of Singapore Students' Computing Club_
 
-August 2014 - September 2015
+* August 2014 - September 2015
+
 
 ## Talks
 
