@@ -176,14 +176,14 @@ Example:
 
 ## LEE YI MIN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="leeYiMin/leeYiMin.jpg" width="100" /><br>
+[[Resume](leeYiMin/leeYiMin-Resume.md)]
+[[Website](https://github.com/leeyimin)]
+[[Github Profile](https://github.com/leeyimin)]
+[[Progress](leeYiMin/leeYiMin-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Java, Dev Ops (Gradle), Optimization
+* Projects: TEAMMATES
 
 
 ## LI KAI
