@@ -50,14 +50,14 @@ Example:
 
 ## LOH JIA SHUN KENNETH
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="lohJiaShunKenneth/lohJiaShunKenneth.jpg" width="100" /><br>
+[[Resume](lohJiaShunKenneth/lohJiaShunKenneth-Resume.md)]
 [[Website]()]
 [[Github Profile]()]
-[[Progress]()]
+[[Progress](lohJiaShunKenneth/lohJiaShunKenneth-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C#, Parallel, AI
+* Projects: PowerPointLabs
 
 
 ## ONG HENG LE
