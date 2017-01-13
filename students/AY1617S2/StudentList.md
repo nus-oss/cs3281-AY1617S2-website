@@ -223,14 +223,14 @@ Example:
 
 ## THENAESH S/O N ELANGO
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="thenaeshElango/ThenaeshElango.jpg" width="100" /><br>
+[[Resume](thenaeshElango/ThenaeshElango-Resume.md)]
+[[Website](https://github.com/thenaesh)]
+[[Github Profile](https://github.com/thenaesh)]
+[[Progress](thenaeshElango/ThenaeshElango-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Functional Programming, Machine Learning
+* Projects: TEAMMATES
 
 
 ## WILSON KURNIAWAN
