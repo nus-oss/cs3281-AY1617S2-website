@@ -178,12 +178,12 @@ Example:
 
 <img src="" width="100" /><br>
 [[Resume]()]
-[[Website]()]
-[[Github Profile]()]
+[[Website](https://github.com/leeyimin)]
+[[Github Profile](https://github.com/leeyimin)]
 [[Progress]()]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Java, Dev Ops (Gradle), Optimization
+* Projects: TEAMMATES
 
 
 ## LI KAI
