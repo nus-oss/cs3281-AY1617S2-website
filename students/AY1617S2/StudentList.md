@@ -277,8 +277,8 @@ Example:
 [[Github Profile](https://github.com/whipermr5)]
 [[Progress](johnYong/JohnYong-Progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: Python, DevOps, Google App Engine
+* Projects: TEAMMATES
 
 
 
