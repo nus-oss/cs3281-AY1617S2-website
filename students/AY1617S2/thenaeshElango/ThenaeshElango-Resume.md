@@ -6,17 +6,12 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 ## Education
 
-### Bachelor of Computing (Computer Science), _National University of Singapore_
+### [In Progress] Bachelor of Computing (Computer Science), _National University of Singapore_
 
 * Turing Programme
 * Focus Areas: Algorithms & Theory, Artificial Intelligence, Security
 
-(In Progress, Expected Graduation: 2019)
-
-
-**Bachelor of Science (Mathematics)**, _National University of Singapore_
-
-(In Progress, Expected Graduation: 2019)
+### [In Progress] Bachelor of Science (Mathematics), _National University of Singapore_
 
 ## Skills
 
