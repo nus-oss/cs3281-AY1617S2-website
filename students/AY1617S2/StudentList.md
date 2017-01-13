@@ -74,14 +74,14 @@ Example:
 
 ## SYED ABDULLAH B SYED SHEIKH
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="syedAbdullah/SyedAbdullah.jpg" width="100" /><br>
+[[Resume](syedAbdullah/SyedAbdullah-Resume.md)]
+[[Website](syedabdullah.net)]
+[[Github Profile](https://github.com/Skaty)]
+[[Progress](syedAbdullah/SyedAbdullah-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: JavaScript, Data/Content Transfer & Processing
+* Projects: pdf.js, PowerPointLabs
 
 ------------------------------------------------
 
