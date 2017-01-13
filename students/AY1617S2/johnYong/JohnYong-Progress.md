@@ -6,7 +6,7 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-4 | D | [`#225`](se-edu/addresbook-level2#225) | Make `GuiHandle::getNode()` return a `<T extends Node> T`
+1 | D | [`#6342`](https://github.com/TEAMMATES/teammates/pull/6342) | Invalid JSON in userMapData.json
 
 ---
 ### Week 3
