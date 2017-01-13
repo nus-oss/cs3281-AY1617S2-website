@@ -15,7 +15,7 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 #### [In Progress] Bachelor of Science, _National University of Singapore_
 
-* Major: **Mathematics**
+* Major: Mathematics
 
 
 ## Skills
@@ -46,12 +46,12 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 * _August 2015 - December 2015_
 * _August 2016 - December 2016_
 
-Responsibilities:
-
-* Led a discussion group of 8 students, teaching them programming initially from a functional perspective and later from an imperative perspective.
-* Graded programming assignments and midterm examinations.
-* Created and maintained teaching materials for the course.
-* Handled administrative work for various aspects of the course.
+> Responsibilities:
+>
+> * Led a discussion group of 8 students, teaching them programming initially from a functional perspective and later from an imperative perspective.
+> * Graded programming assignments and midterm examinations.
+> * Created and maintained teaching materials for the course.
+> * Handled administrative work for various aspects of the course.
 
 
 #### Teaching Assistant for CS1231 Discrete Structures, _National University of Singapore_
