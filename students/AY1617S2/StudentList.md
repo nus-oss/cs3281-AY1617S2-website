@@ -259,7 +259,7 @@ Example:
 
 ## YANG BOXIN
 
-<img src="yangBoxin/yangBoxin.png" width="100" /><br>
+<img src="yangBoxin/YangBoxin.png" width="100" /><br>
 [[Resume](yangBoxin/YangBoxin-Resume.md)]
 [[Website](https://github.com/greed-is-good)]
 [[Github Profile](https://github.com/greed-is-good)]
