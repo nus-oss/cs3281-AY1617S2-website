@@ -41,7 +41,7 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 ## Work Experience
 
 
-#### (August 2015 - December 2015, August 2016 - December 2016) Teaching Assistant for CS1101S Programming Methodology, __National University of Singapore__
+#### _(August 2015 - December 2015, August 2016 - December 2016)_ Teaching Assistant for CS1101S Programming Methodology, _National University of Singapore_
 
 * Led a discussion group of 8 students, teaching them programming initially from a functional perspective and later from an imperative perspective.
 * Graded programming assignments and midterm examinations.
