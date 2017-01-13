@@ -66,7 +66,7 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 #### Software Engineer & System Administrator, _National University of Singapore Students' Computing Club_
 
-* _August 2016 - September 2017_
+* _August 2016 - September 2017_ (19th IT Subcommittee)
 
 > Accomplishments:
 > 
@@ -88,7 +88,16 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 #### Director of Academic Liaison, _National University of Singapore Students' Computing Club_
 
-* August 2014 - September 2015
+* _August 2014 - September 2015_ (17th Management Committee)
+
+> Accomplishments:
+> 
+> * Organised several workshops to help students acquire practical computing skills
+>   * Java Confidence Course
+>   * Unix Workshop
+>   * Introduction to Hybrid Mobile Apps (sponsored by JetBrains)
+> * Organised a day-long sharing session for incoming freshmen with the objective of giving them a clear picture of academic life and career prospects after graduation
+
 
 
 ## Talks
