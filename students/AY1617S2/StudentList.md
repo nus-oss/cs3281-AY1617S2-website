@@ -271,14 +271,14 @@ Example:
 
 ## YONG YOONG JIE JOHN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="johnYong/JohnYong.png" width="100" /><br>
+[[Resume](johnYong/JohnYong-Resume.md)]
+[[Website](https://whipermr5.com)]
+[[Github Profile](https://github.com/whipermr5)]
+[[Progress](johnYong/JohnYong-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Python, DevOps, Google App Engine
+* Projects: TEAMMATES
 
 
 
