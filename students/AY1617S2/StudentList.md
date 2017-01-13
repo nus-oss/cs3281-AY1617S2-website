@@ -89,14 +89,14 @@ Example:
 
 ## CHUA KA YI ONG
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="kaYi/KaYi.jpg" width="100" /><br>
+[[Resume](kaYi/KaYi-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/kychua)]
+[[Progress](kaYi/KaYi-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Python, Testing, Data Science
+* Projects: SymPy, se-edu
 
 
 ## GOH YI DA JEREMY
