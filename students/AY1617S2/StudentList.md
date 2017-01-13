@@ -176,11 +176,11 @@ Example:
 
 ## LEE YI MIN
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="leeYiMin/leeYiMin.jpg" width="100" /><br>
+[[Resume](leeYiMin/leeYiMin-Resume.md)]
 [[Website](https://github.com/leeyimin)]
 [[Github Profile](https://github.com/leeyimin)]
-[[Progress]()]
+[[Progress](leeYiMin/leeYiMin-Progress.md)]
 
 * Expert areas: Java, Dev Ops (Gradle), Optimization
 * Projects: TEAMMATES
