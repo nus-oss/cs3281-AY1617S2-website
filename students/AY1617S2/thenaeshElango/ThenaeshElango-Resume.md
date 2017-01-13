@@ -22,11 +22,11 @@ National University of Singapore
 
 ## Work Experience
 
-### Teaching Assistant for CS1101S Programming Methodology, National University of Singapore
+**Teaching Assistant for CS1101S Programming Methodology, National University of Singapore**
 
-**August 2015 - December 2015**
+_August 2015 - December 2015_
 
-**August 2016 - December 2016**
+_August 2016 - December 2016_
 
 Responsibilities:
 
@@ -36,9 +36,9 @@ Responsibilities:
 * Handled administrative work for various aspects of the course.
 
 
-### Teaching Assistant for CS1231 Discrete Structures, National University of Singapore
+**Teaching Assistant for CS1231 Discrete Structures, National University of Singapore**
 
-**August 2015 - December 2015**
+_August 2015 - December 2015_
 
 Responsibilities:
 
@@ -46,23 +46,23 @@ Responsibilities:
 * Graded written assignments.
 
 
-### Vice-President (Human Resource and Development), National University of Singapore Students' Computing Club
+**Vice-President (Human Resource and Development), National University of Singapore Students' Computing Club**
 
-**August 2015 - September 2016**
+_August 2015 - September 2016_
 
 
-### Director of Academic Liaison, National University of Singapore Students' Computing Club
+**Director of Academic Liaison, National University of Singapore Students' Computing Club**
 
 August 2014 - September 2015
 
 ## Talks
 
-**(July 2015)**
+_(July 2015)_
 
 Gave an introduction to Haskell in a seminar series conducted in the NUS School of Computing
 
 
-**(January 2015, January 2016)**
+_(January 2015, January 2016)_
 
 Lectured at a workshop on the Java language
 
@@ -71,7 +71,7 @@ Lectured at a workshop on the Java language
 * Introduced static typing to students who were mostly familiar with dynamically-typed languages
 
 
-**(January 2015, August 2015)**
+_(January 2015, August 2015)_
 
 Lectured at a workshop on Unix
 
