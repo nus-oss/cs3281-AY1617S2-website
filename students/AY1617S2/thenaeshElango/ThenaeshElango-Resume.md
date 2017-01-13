@@ -47,7 +47,7 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 * _August 2016 - December 2016_
 
 > Responsibilities:
->
+> 
 > * Led a discussion group of 8 students, teaching them programming initially from a functional perspective and later from an imperative perspective.
 > * Graded programming assignments and midterm examinations.
 > * Created and maintained teaching materials for the course.
@@ -58,10 +58,10 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 * _August 2015 - December 2015_
 
-Responsibilities:
-
-* Taught a tutorial of 20+ students, teaching them mathematics fundamentals, including set theory, functions, relations, mathematical induction, basic number theory, combinatorics and graph theory.
-* Graded written assignments.
+> Responsibilities:
+> 
+> * Taught a tutorial of 20+ students, teaching them mathematics fundamentals, including set theory, functions, relations, mathematical induction, basic number theory, combinatorics and graph theory.
+> * Graded written assignments.
 
 
 #### Software Engineer & System Administrator, _National University of Singapore Students' Computing Club_
