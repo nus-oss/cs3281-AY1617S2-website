@@ -248,14 +248,14 @@ Example:
 
 ## XIAO PU
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="xiaoPu/xiaoPu.jpg" width="100" /><br>
+[[Resume](xiaoPu/xiaoPu-Resume.md)]
+[[Website](https://github.com/xpdavid)]
+[[Github Profile](https://github.com/xpdavid)]
+[[Progress](xiaoPu/xiaoPu-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Java, Static analysis
+* Projects: JUnit, phpmyadmin, Teammates
 
 
 ## YANG BOXIN
