@@ -188,14 +188,14 @@ Example:
 
 ## LI KAI
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="liKai/LiKai.png" width="100" /><br>
+[[Resume](liKai/LiKai-Resume.md)]
+[[Website](li-kai.github.io)]
+[[Github Profile](github.com/li-kai)]
+[[Progress](liKai/LiKai-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Javascript, Dev Ops (build), GraphQL
+* Projects: Webpack, TEAMMATES
 
 
 ## TAN BOON KEONG DICKSON
