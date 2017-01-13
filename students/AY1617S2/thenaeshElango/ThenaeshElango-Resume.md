@@ -11,7 +11,9 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 * Turing Programme
 * Focus Areas: _Algorithms & Theory, Artificial Intelligence, Information Security_
 
-### [In Progress] Bachelor of Science (Mathematics), _National University of Singapore_
+### [In Progress] Bachelor of Science, _National University of Singapore_
+
+* Major: **Mathematics**
 
 ## Skills
 
