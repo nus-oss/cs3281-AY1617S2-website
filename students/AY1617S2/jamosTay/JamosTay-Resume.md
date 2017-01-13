@@ -1,8 +1,8 @@
 Jamos Tay
 =========
-<img src="jamosTay/JamosTay.png" width="100" /><br>
-Address: ---
-Mobile: ---
+<img src="JamosTay.png" width="100" /><br>
+Address: --- <br>
+Mobile: --- <br>
 Email: jamostay@gmail.com
 
 Academic Experience
@@ -25,7 +25,7 @@ Work Experience
 
 ## DSO National Laboratories, Intern (2011 May – 2011 Jun)
 
-* part of an Advanced Research Project (ARP) spanning a year
+* Part of an Advanced Research Project (ARP) spanning a year
 * Worked with DSO Engineer to implement a programming language sensitive to dimensional units based off C
 * Presented at YDSP Congress and awarded Merit Grade
 
