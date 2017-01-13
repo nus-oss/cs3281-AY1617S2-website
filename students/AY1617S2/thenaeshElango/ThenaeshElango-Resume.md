@@ -106,17 +106,17 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 ## Talks
 
-**July 2015** Gave a short introduction to Haskell in a seminar series conducted in the NUS School of Computing
+**_July 2015_ Gave a short introduction to Haskell in a seminar series conducted in the NUS School of Computing**
 
 
-**January 2015, January 2016** Lectured at a workshop on the Java language
+**_January 2015, January 2016_ Lectured at a workshop on the Java language**
 
 * Aimed at giving students a headstart in modules/courses requiring knowledge of the language
 * Covered object-oriented programming concepts
 * Introduced static typing to students who were mostly familiar with dynamically-typed languages
 
 
-**January 2015, August 2015** Lectured at a workshop on Unix
+**_January 2015, August 2015_ Lectured at a workshop on Unix**
 
 * Aimed at introducing students to software development and deployment on Unix-like operating systems like Linux
 * Covered Unix filesystem concepts and bash scripting, going into significant detail regarding pipes and I/O redirection
