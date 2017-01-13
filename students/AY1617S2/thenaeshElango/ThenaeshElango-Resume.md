@@ -46,8 +46,6 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 * _August 2015 - December 2015_
 * _August 2016 - December 2016_
 
-> Accomplishments:
-> 
 > * Led a discussion group of 8 students, teaching them programming initially from a functional perspective and later from an imperative perspective.
 > * Graded programming assignments and midterm examinations.
 > * Created and maintained teaching materials for the course.
@@ -58,8 +56,6 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 * _August 2015 - December 2015_
 
-> Accomplishments:
-> 
 > * Taught a tutorial of 20+ students, teaching them mathematics fundamentals, including set theory, functions, relations, mathematical induction, basic number theory, combinatorics and graph theory.
 > * Graded written assignments.
 
@@ -71,8 +67,6 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 * _August 2016 - September 2017_ (19th IT Subcommittee)
 
-> Accomplishments:
-> 
 > * Simplified the creation of the Club's weekly email blasts:
 >   * Created an Electron app that allows entry of email blast parameters (title, image, text) in a simple, intuitive format.
 >   * Great advancement over the old command-line interface that was difficult to use for anyone untrained in command-line usage.
@@ -82,8 +76,6 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 * _August 2015 - September 2016_ (18th Management Committee)
 
-> Accomplishments:
-> 
 > * Oversaw a portfolio of 3 cells (academic liaison, student welfare, sports), helping to maximise the impact of their activities while also staying within NUS regulations
 > * Facilitated the expansion of student welfare with significantly more welfare packs and additional events such as during Halloween
 > * Facilitated and supervised the NUS Data Science Student Challenge organised by the Academic Liaison Cell together with Microsoft, the first ever hackathon organised by the Club
@@ -93,8 +85,6 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 * _August 2014 - September 2015_ (17th Management Committee)
 
-> Accomplishments:
-> 
 > * Spearheaded several workshops to help students acquire practical computing skills
 >   * Java Confidence Course
 >   * Unix Workshop
