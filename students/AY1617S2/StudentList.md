@@ -163,14 +163,14 @@ Example:
 
 ## CH'NG MING SHIN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="ch'ngMingShin/Ch'ngMingShin.jpg" width="100" /><br>
+[[Resume](ch'ngMingShin/Ch'ngMingShin-Resume.md)]
+[[Website](https://github.com/ablyx)]
+[[Github Profile](https://github.com/ablyx)]
+[[Progress](ch'ngMingShin/Ch'ngMingShin-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Swift, Performance, Multi-threading
+* Projects: TEAMMATES, WordPress-iOS
 
 
 ## LEE YI MIN
