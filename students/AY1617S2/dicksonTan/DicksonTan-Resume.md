@@ -26,4 +26,5 @@ Email: [dickson@u.nus.edu](dickson@u.nus.edu)<br>
 ## Technical Skills
 
 Proficient in C++, Java, Lua, Regex
+
 Familiar with LaTeX, Python
