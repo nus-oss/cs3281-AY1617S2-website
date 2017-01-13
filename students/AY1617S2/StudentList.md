@@ -38,14 +38,14 @@ Example:
 
 ## IAN TEO ZHI WEN
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="ianTeo/IanTeo.png" width="100" /><br>
+[[Resume](ianTeo/IanTeo-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/IanTeo)]
+[[Progress](ianTeo/IanTeo-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C#, Performance, Profilers
+* Projects: PowerPointLabs, Electron, Duality
 
 
 ## LOH JIA SHUN KENNETH
