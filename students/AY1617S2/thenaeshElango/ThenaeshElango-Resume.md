@@ -30,7 +30,7 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
   * Markup: _HTML, CSS, Jade/Pug_
   * Libraries: _jQuery, Bootstrap_
-  * Frameworks: _Node.js, Flask, Rails_
+  * Frameworks: _Node.js, Flask, Rails, Electron_
 
 #### Databases
 
