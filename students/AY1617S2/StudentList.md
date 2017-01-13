@@ -26,14 +26,14 @@ Example:
 
 ## JAMOS TAY
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="jamosTay/JamosTay.png" width="100" /><br>
+[[Resume](jamosTay/JamosTay-resume.md)]
+[[Website](https://github.com/jamos-tay)]
+[[Github Profile](https://github.com/jamos-tay)]
+[[Progress](jamosTay/JamosTay-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C#, Databases, Regex
+* Projects: PowerPointLabs
 
 
 ## IAN TEO ZHI WEN
