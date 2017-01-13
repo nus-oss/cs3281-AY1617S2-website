@@ -223,14 +223,14 @@ Example:
 
 ## THENAESH S/O N ELANGO
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="thenaeshElango/ThenaeshElango.jpg" width="100" /><br>
+[[Resume](thenaeshElango/ThenaeshElango-Resume.md)]
+[[Website](https://github.com/thenaesh)]
+[[Github Profile](https://github.com/thenaesh)]
+[[Progress](thenaeshElango/ThenaeshElango-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Functional Programming, Machine Learning
+* Projects: TEAMMATES
 
 
 ## WILSON KURNIAWAN
@@ -259,14 +259,14 @@ Example:
 
 ## YANG BOXIN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="yangBoxin/yangBoxin.png" width="100" /><br>
+[[Resume](yangBoxin/YangBoxin-Resume.md)]
+[[Website](https://github.com/greed-is-good)]
+[[Github Profile](https://github.com/greed-is-good)]
+[[Progress](yangBoxin/YangBoxin-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Java, Security, Machine Learning
+* Projects: [zulip](https://github.com/zulip/zulip), [TEAMMATES](https://github.com/TEAMMATES/teammates)
 
 
 ## YONG YOONG JIE JOHN
