@@ -26,14 +26,14 @@ Example:
 
 ## JAMOS TAY
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="jamosTay/JamosTay.png" width="100" /><br>
+[[Resume](jamosTay/JamosTay-Resume.md)]
+[[Website](https://github.com/jamos-tay)]
+[[Github Profile](https://github.com/jamos-tay)]
+[[Progress](jamosTay/JamosTay-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C#, Databases, Regex
+* Projects: PowerPointLabs
 
 
 ## IAN TEO ZHI WEN
@@ -50,14 +50,14 @@ Example:
 
 ## LOH JIA SHUN KENNETH
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="lohJiaShunKenneth/lohJiaShunKenneth.jpg" width="100" /><br>
+[[Resume](lohJiaShunKenneth/lohJiaShunKenneth-Resume.md)]
+[[Website](https://github.com/Kenneth-LJS)]
+[[Github Profile](https://github.com/Kenneth-LJS)]
+[[Progress](lohJiaShunKenneth/lohJiaShunKenneth-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C#, Parallel, AI
+* Projects: PowerPointLabs
 
 
 ## ONG HENG LE
@@ -89,23 +89,23 @@ Example:
 
 ## CHUA KA YI ONG
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="kaYi/KaYi.jpg" width="100" /><br>
+[[Resume](kaYi/KaYi-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/kychua)]
+[[Progress](kaYi/KaYi-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Python, Testing, Data Science
+* Projects: SymPy, se-edu
 
 
 ## GOH YI DA JEREMY
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="jeremyGoh/JeremyGoh.png" width="100" /><br>
+[[Resume](jeremyGoh/JeremyGoh-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/MightyCupcakes)]
+[[Progress](jeremyGoh/JeremyGoh-Progress.md)]
 
 * Expert areas:  
 * Projects: 
@@ -113,15 +113,14 @@ Example:
 
 ## HUANG CHAO
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="huangChao/HuangChao.png" width="100" /><br>
+[[Resume](huangChao/HuangChao-Resume.html)]
+[[Website](https://chao1995.github.io/blog/)]
+[[Github Profile](https://github.com/chao1995)]
+[[Progress](huangChao/HuangChao-Progress.md)]
 
-* Expert areas:  
-* Projects: 
-
+* Expert areas: Java, DevOps (Build, CI), Testing (Mocking)
+* Projects: [zulip](https://github.com/zulip/zulip), [SE-EDU](https://github.com/se-edu)
 
 ## PIERCE ANDERSON FU
 
@@ -176,38 +175,38 @@ Example:
 
 ## LEE YI MIN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="leeYiMin/leeYiMin.jpg" width="100" /><br>
+[[Resume](leeYiMin/leeYiMin-Resume.md)]
+[[Website](https://github.com/leeyimin)]
+[[Github Profile](https://github.com/leeyimin)]
+[[Progress](leeYiMin/leeYiMin-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Java, Dev Ops (Gradle), Optimization
+* Projects: TEAMMATES
 
 
 ## LI KAI
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="liKai/LiKai.png" width="100" /><br>
+[[Resume](liKai/LiKai-Resume.md)]
+[[Website](li-kai.github.io)]
+[[Github Profile](github.com/li-kai)]
+[[Progress](liKai/LiKai-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Javascript, Dev Ops (build), GraphQL
+* Projects: Webpack, TEAMMATES
 
 
 ## TAN BOON KEONG DICKSON
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="dicksonTan/DicksonTan.jpg" width="100" alt="Dickson's photo"/><br>
+[[Resume](dicksonTan/DicksonTan-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/Neurrone)]
+[[Progress](dicksonTan/DicksonTan-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: python, security, functional programming
+* Projects: TEAMMATES
 
 
 ## TAN MIN RONG SAMSON
@@ -272,14 +271,14 @@ Example:
 
 ## YONG YOONG JIE JOHN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="johnYong/JohnYong.png" width="100" /><br>
+[[Resume](johnYong/JohnYong-Resume.md)]
+[[Website](https://whipermr5.com)]
+[[Github Profile](https://github.com/whipermr5)]
+[[Progress](johnYong/JohnYong-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Python, DevOps, Google App Engine
+* Projects: TEAMMATES
 
 
 
