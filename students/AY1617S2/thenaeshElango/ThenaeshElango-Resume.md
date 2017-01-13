@@ -92,11 +92,12 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 > Accomplishments:
 > 
-> * Organised several workshops to help students acquire practical computing skills
+> * Spearheaded several workshops to help students acquire practical computing skills
 >   * Java Confidence Course
 >   * Unix Workshop
 >   * Introduction to Hybrid Mobile Apps (sponsored by JetBrains)
 > * Organised a day-long sharing session for incoming freshmen with the objective of giving them a clear picture of academic life and career prospects after graduation
+> * Organised mock practical examinations for freshmen to become acquainted with the actual environment of the practical examinations in the School of Computing
 
 
 
