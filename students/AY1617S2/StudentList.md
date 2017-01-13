@@ -200,14 +200,14 @@ Example:
 
 ## TAN BOON KEONG DICKSON
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="dicksonTan/DicksonTan.jpg" width="100" alt="Dickson's photo"/><br>
+[[Resume](dicksonTan/DicksonTan-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/Neurrone)]
+[[Progress](dicksonTan/DicksonTan-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: python, security, functional programming
+* Projects: TEAMMATES
 
 
 ## TAN MIN RONG SAMSON
