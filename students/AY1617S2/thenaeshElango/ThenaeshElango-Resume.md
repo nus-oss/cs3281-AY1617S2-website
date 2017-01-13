@@ -7,12 +7,12 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 ## Education
 
 
-### [In Progress] Bachelor of Computing (Computer Science), _National University of Singapore_
+#### [In Progress] Bachelor of Computing (Computer Science), _National University of Singapore_
 
 * Turing Programme
 * Focus Areas: _Algorithms & Theory, Artificial Intelligence, Information Security_
 
-### [In Progress] Bachelor of Science, _National University of Singapore_
+#### [In Progress] Bachelor of Science, _National University of Singapore_
 
 * Major: **Mathematics**
 
@@ -20,30 +20,30 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 ## Skills
 
 
-### Languages
+#### Languages
 
   * Proficient: _C, C++, Java, Python, JavaScript, Bash_
   * Familiar: _Haskell, Scheme, Ruby, JavaScript ES2015_
 
-### Web Development
+#### Web Development
 
   * Markup: _HTML, CSS, Jade/Pug_
   * Libraries: _jQuery, Bootstrap_
   * Frameworks: _Node.js, Flask, Rails_
 
-### Databases
+#### Databases
 
   * Languages: _SQL_
   * RDBMS: _SQLite_
 
-### Linux
+#### Linux
 
   * Distributions: _Gentoo, Debian-derived (Debian, Ubuntu, Mint, etc)_
 
 
 ## Work Experience
 
-### Teaching Assistant for CS1101S Programming Methodology, __National University of Singapore_
+#### Teaching Assistant for CS1101S Programming Methodology, __National University of Singapore_
 
 _August 2015 - December 2015_
 
@@ -57,7 +57,7 @@ Responsibilities:
 * Handled administrative work for various aspects of the course.
 
 
-### Teaching Assistant for CS1231 Discrete Structures, _National University of Singapore_
+#### Teaching Assistant for CS1231 Discrete Structures, _National University of Singapore_
 
 _August 2015 - December 2015_
 
@@ -67,7 +67,7 @@ Responsibilities:
 * Graded written assignments.
 
 
-### Vice-President (Human Resource and Development), _National University of Singapore Students' Computing Club_
+#### Vice-President (Human Resource and Development), _National University of Singapore Students' Computing Club_
 
 _August 2015 - September 2016_
 
