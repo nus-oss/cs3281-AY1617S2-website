@@ -21,10 +21,10 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 ## Skills
 
 
-#### Languages
+#### Programming Languages
 
-  * Proficient: _C, C++, Java, Python, JavaScript, Bash_
-  * Familiar: _Haskell, Scheme, Ruby, JavaScript ES2015_
+  * Proficient: _C, C++03, Java, JavaScript, Bash_
+  * Familiar: _Haskell, Scheme, Python, Ruby, JavaScript ES2015, C++11/14_
 
 #### Web Development
 
@@ -62,6 +62,9 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 > 
 > * Taught a tutorial of 20+ students, teaching them mathematics fundamentals, including set theory, functions, relations, mathematical induction, basic number theory, combinatorics and graph theory.
 > * Graded written assignments.
+
+
+## Community Service
 
 
 #### Software Engineer & System Administrator, _National University of Singapore Students' Computing Club_
@@ -103,27 +106,18 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 ## Talks
 
-_(July 2015)_
-
-Gave an introduction to Haskell in a seminar series conducted in the NUS School of Computing
+**July 2015** Gave a short introduction to Haskell in a seminar series conducted in the NUS School of Computing
 
 
-_(January 2015, January 2016)_
-
-Lectured at a workshop on the Java language
+**January 2015, January 2016** Lectured at a workshop on the Java language
 
 * Aimed at giving students a headstart in modules/courses requiring knowledge of the language
 * Covered object-oriented programming concepts
 * Introduced static typing to students who were mostly familiar with dynamically-typed languages
 
 
-_(January 2015, August 2015)_
-
-Lectured at a workshop on Unix
+**January 2015, August 2015** Lectured at a workshop on Unix
 
 * Aimed at introducing students to software development and deployment on Unix-like operating systems like Linux
 * Covered Unix filesystem concepts and bash scripting, going into significant detail regarding pipes and I/O redirection
 * Introduced students to the Unix philosophy of writing small, specialised programs
-
-
-## Personal Projects
