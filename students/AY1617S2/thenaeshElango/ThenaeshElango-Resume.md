@@ -13,12 +13,26 @@ National University of Singapore
 (In Progress, Expected Graduation: 2019)
 
 
-**Bachelor of Science, Major in Mathematics**
+**Bachelor of Science (Mathematics)**
 
 National University of Singapore
 
 (In Progress, Expected Graduation: 2019)
 
+## Skills
+
+* Languages
+  * Proficient: _C, C++, Java, Python, JavaScript, Bash_
+  * Familiar: _Haskell, Scheme, Ruby, JavaScript ES2015_
+* Web Development
+  * Markup: _HTML, CSS, Jade/Pug_
+  * Libraries: _jQuery, Bootstrap_
+  * Frameworks: _Node.js, Flask, Rails_
+* Databases
+  * Languages: _SQL_
+  * RDBMS: _SQLite_
+* Linux
+  * Distributions: _Gentoo, Debian-derived (Debian, Ubuntu, Mint, etc)_
 
 ## Work Experience
 
