@@ -163,7 +163,7 @@ Example:
 
 ## CH'NG MING SHIN
 
-<img src="ch'ngMingShin/Ch'ngMingShin.jpg" width="100" /><br>
+<img src="ch'ngMingShin/Ch'ngMingShin.png" width="100" /><br>
 [[Resume](ch'ngMingShin/Ch'ngMingShin-Resume.md)]
 [[Website](https://github.com/ablyx)]
 [[Github Profile](https://github.com/ablyx)]
