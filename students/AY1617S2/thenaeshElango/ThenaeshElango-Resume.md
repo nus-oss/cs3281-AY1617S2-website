@@ -18,6 +18,12 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 * Major: Mathematics
 
 
+### GCE 'A' Levels (4 Distinctions), _Raffles Institution_
+
+* H2: _Physics, Chemistry, Mathematics, Economics_
+* H3: _Physics_
+
+
 ## Skills
 
 
