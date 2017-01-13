@@ -8,13 +8,13 @@ Email: jamostay@gmail.com
 Academic Experience
 ---------
 
-## National University of Singapore (2015 - Present)
+### National University of Singapore (2015 - Present)
 
 * Bachelor of Computing (Honours) in Computer Science
 * GPA: 4.69 (Year 1)
 * Enrolled in ELITe programme by IDA
 
-## NUS High School of Mathematics and Science (2007 – 2012)
+### NUS High School of Mathematics and Science (2007 – 2012)
 
 * Graduated with the NUS High School Diploma, Distinction (A-Level Equivalent)
 * GPA: 4.2
@@ -23,25 +23,25 @@ Academic Experience
 Work Experience
 ----------
 
-## DSO National Laboratories, Intern (2011 May – 2011 Jun)
+### DSO National Laboratories, Intern (2011 May – 2011 Jun)
 
 * Part of an Advanced Research Project (ARP) spanning a year
 * Worked with DSO Engineer to implement a programming language sensitive to dimensional units based off C
 * Presented at YDSP Congress and awarded Merit Grade
 
-## ECS Holdings Limited, Intern (2015 May – 2015 Nov)
+### ECS Holdings Limited, Intern (2015 May – 2015 Nov)
 
 * Interned at IT Company that caters to IT infrastructure needs of other businesses
 * Tested and modified open-source software (CURA) to work with custom 3D printers
 * Designed and developed C# applications for ECS clients using Visual Studio and SQL Server
 * Proposed and implemented unique solutions regarding database systems, storage and manipulation
 
-## NUS, Research Assistant (2016 Jun – 2016 Dec)
+### NUS, Research Assistant (2016 Jun – 2016 Dec)
 
 * Collaborating with professor for a research project involving processing and analysing data of past soccer games
 * Developed and optimized SQL scripts to retrieve and display relevant sets of data from a large (3GB) dataset
 
-## NUS, Teaching Assistant (2016 Jun – Present)
+### NUS, Teaching Assistant (2016 Jun – Present)
 
 * Collaborating with professor to develop an E-Learning resource for an accountancy module
 * Creating an interactive website and game system to facilitate teaching of the module
@@ -49,7 +49,7 @@ Work Experience
 Organizational Experience
 --------
 
-## Boarding School Student Leader (2011 Jan – 2011 Nov)
+### Boarding School Student Leader (2011 Jan – 2011 Nov)
 
 * Managed a hostel cluster of over 20 people
 * Responsible for student welfare, such as safety issues, resident feedback and disseminating important information
@@ -58,13 +58,13 @@ Organizational Experience
 Skills
 --------
  
-## Programming
+### Programming
 
 * Fluent in Java, JavaScript, C#, VB .NET, SQL, experience in C, Python
 * Basic experience in web dev: HTML/CSS, jQuery, node.js, mongoDB
 * Experience with Visual Studio, Eclipse, Netbeans, SQL Server, Git
 
-## Projects
+### Projects
 
 * Participated in hackathons, such as Hack&Roll 2016 and Facebook Singapore Regional Hackathon
 * Finished several online courses on Coursera and Codecademy
