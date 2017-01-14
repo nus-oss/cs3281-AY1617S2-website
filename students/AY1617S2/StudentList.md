@@ -235,14 +235,14 @@ Example:
 
 ## WILSON KURNIAWAN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="wilsonKurniawan/WilsonKurniawan.png" width="100" /><br>
+[[Resume](wilsonKurniawan/WilsonKurniawan-Resume.md)]
+[[Website](https://github.com/wkurniawan07)]
+[[Github Profile](https://github.com/wkurniawan07)]
+[[Progress](wilsonKurniawan/WilsonKurniawan-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Software Maintenance, DevOps (Java and JavaScript), Node.js, Website performance
+* Projects: TEAMMATES, ESLint
 
 
 ## XIAO PU
