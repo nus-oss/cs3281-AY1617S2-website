@@ -26,14 +26,14 @@ Example:
 
 ## JAMOS TAY
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="jamosTay/JamosTay.png" width="100" /><br>
+[[Resume](jamosTay/JamosTay-Resume.md)]
+[[Website](https://github.com/jamos-tay)]
+[[Github Profile](https://github.com/jamos-tay)]
+[[Progress](jamosTay/JamosTay-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C#, Databases, Regex
+* Projects: PowerPointLabs
 
 
 ## IAN TEO ZHI WEN
@@ -50,14 +50,14 @@ Example:
 
 ## LOH JIA SHUN KENNETH
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="lohJiaShunKenneth/lohJiaShunKenneth.jpg" width="100" /><br>
+[[Resume](lohJiaShunKenneth/lohJiaShunKenneth-Resume.md)]
+[[Website](https://github.com/Kenneth-LJS)]
+[[Github Profile](https://github.com/Kenneth-LJS)]
+[[Progress](lohJiaShunKenneth/lohJiaShunKenneth-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C#, Parallel, AI
+* Projects: PowerPointLabs
 
 
 ## ONG HENG LE
@@ -89,14 +89,14 @@ Example:
 
 ## CHUA KA YI ONG
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="kaYi/KaYi.jpg" width="100" /><br>
+[[Resume](kaYi/KaYi-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/kychua)]
+[[Progress](kaYi/KaYi-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Python, Testing, Data Science
+* Projects: SymPy, se-edu
 
 
 ## GOH YI DA JEREMY
@@ -124,14 +124,14 @@ Example:
 
 ## PIERCE ANDERSON FU
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="pierceAndersonFu/PierceAndersonFu.png" width="100" /><br>
+[[Resume](pierceAndersonFu/PierceAndersonFu-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/PierceAndy)]
+[[Progress](pierceAndersonFu/PierceAndersonFu-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C++, GPGPU, CUDA
+* Projects: [SE-EDU](https://github.com/se-edu)
 
 
 ## SONG ZHIWEN
@@ -163,14 +163,14 @@ Example:
 
 ## CH'NG MING SHIN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="ch'ngMingShin/Ch'ngMingShin.png" width="100" /><br>
+[[Resume](ch'ngMingShin/Ch'ngMingShin-Resume.md)]
+[[Website](https://github.com/ablyx)]
+[[Github Profile](https://github.com/ablyx)]
+[[Progress](ch'ngMingShin/Ch'ngMingShin-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Swift, Performance, Multi-threading
+* Projects: TEAMMATES, WordPress-iOS
 
 
 ## LEE YI MIN
@@ -199,14 +199,14 @@ Example:
 
 ## TAN BOON KEONG DICKSON
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="dicksonTan/DicksonTan.jpg" width="100" alt="Dickson's photo"/><br>
+[[Resume](dicksonTan/DicksonTan-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/Neurrone)]
+[[Progress](dicksonTan/DicksonTan-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: python, security, functional programming
+* Projects: TEAMMATES
 
 
 ## TAN MIN RONG SAMSON
@@ -223,26 +223,26 @@ Example:
 
 ## THENAESH S/O N ELANGO
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="thenaeshElango/ThenaeshElango.jpg" width="100" /><br>
+[[Resume](thenaeshElango/ThenaeshElango-Resume.md)]
+[[Website](https://github.com/thenaesh)]
+[[Github Profile](https://github.com/thenaesh)]
+[[Progress](thenaeshElango/ThenaeshElango-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Functional Programming, Machine Learning
+* Projects: TEAMMATES
 
 
 ## WILSON KURNIAWAN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="wilsonKurniawan/WilsonKurniawan.png" width="100" /><br>
+[[Resume](wilsonKurniawan/WilsonKurniawan-Resume.md)]
+[[Website](https://github.com/wkurniawan07)]
+[[Github Profile](https://github.com/wkurniawan07)]
+[[Progress](wilsonKurniawan/WilsonKurniawan-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Software Maintenance, DevOps (Java and JavaScript), Node.js, Website performance
+* Projects: TEAMMATES, ESLint
 
 
 ## XIAO PU
@@ -271,14 +271,14 @@ Example:
 
 ## YONG YOONG JIE JOHN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="johnYong/JohnYong.png" width="100" /><br>
+[[Resume](johnYong/JohnYong-Resume.md)]
+[[Website](https://whipermr5.com)]
+[[Github Profile](https://github.com/whipermr5)]
+[[Progress](johnYong/JohnYong-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Python, DevOps, Google App Engine
+* Projects: TEAMMATES
 
 
 
