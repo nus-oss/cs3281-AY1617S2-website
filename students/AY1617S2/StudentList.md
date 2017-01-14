@@ -124,14 +124,14 @@ Example:
 
 ## PIERCE ANDERSON FU
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="pierceAndersonFu/PierceAndersonFu.png" width="100" /><br>
+[[Resume](pierceAndersonFu/PierceAndersonFu-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/PierceAndy)]
+[[Progress](pierceAndersonFu/PierceAndersonFu-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: C++, GPGPU, CUDA
+* Projects: [SE-EDU](https://github.com/se-edu)
 
 
 ## SONG ZHIWEN
