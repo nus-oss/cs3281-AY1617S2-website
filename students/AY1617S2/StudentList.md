@@ -213,9 +213,9 @@ Example:
 
 <img src="tanMinRongSamson/TanMinRongSamson.jpg" width="100" /><br>
 [[Resume](tanMinRongSamson/TanMinRongSamson-Resume.md)]
-[[Website](samsontmr.github.io)]
+[[Website](http://samsontmr.github.io)]
 [[Github Profile](https://github.com/samsontmr)]
-[[Progress]()]
+[[Progress](tanMinRongSamson/TanMinRongSamson-Progress.md)]
 
 * Expert areas:  Python, Scalability Testing & DevOps, Data Science & Artificial Intelligence
 * Projects: matplotlib, scikit-learn, TEAMMATES
