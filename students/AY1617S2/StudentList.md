@@ -76,7 +76,7 @@ Example:
 
 <img src="syedAbdullah/SyedAbdullah.jpg" width="100" /><br>
 [[Resume](syedAbdullah/SyedAbdullah-Resume.md)]
-[[Website](syedabdullah.net)]
+[[Website](http://syedabdullah.net)]
 [[Github Profile](https://github.com/Skaty)]
 [[Progress](syedAbdullah/SyedAbdullah-Progress.md)]
 
@@ -150,7 +150,7 @@ Example:
 
 <img src="tanWangLeng/TanWangLeng.png" width="100" /><br>
 [[Resume](tanWangLeng/TanWangLeng-Resume.md)]
-[[Website](http://yamgent.github.io/)]
+[[Website](https://yamgent.github.io/)]
 [[Github Profile](https://github.com/yamgent)]
 [[Progress](tanWangLeng/TanWangLeng-Progress.md)]
 
@@ -189,8 +189,8 @@ Example:
 
 <img src="liKai/LiKai.png" width="100" /><br>
 [[Resume](liKai/LiKai-Resume.md)]
-[[Website](li-kai.github.io)]
-[[Github Profile](github.com/li-kai)]
+[[Website](https://li-kai.github.io)]
+[[Github Profile](https://github.com/li-kai)]
 [[Progress](liKai/LiKai-Progress.md)]
 
 * Expert areas: Javascript, Dev Ops (build), GraphQL
@@ -213,7 +213,7 @@ Example:
 
 <img src="tanMinRongSamson/TanMinRongSamson.jpg" width="100" /><br>
 [[Resume](tanMinRongSamson/TanMinRongSamson-Resume.md)]
-[[Website](samsontmr.github.io)]
+[[Website](https://samsontmr.github.io)]
 [[Github Profile](https://github.com/samsontmr)]
 [[Progress]()]
 
