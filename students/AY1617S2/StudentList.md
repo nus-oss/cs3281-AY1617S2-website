@@ -1,4 +1,4 @@
-Example: 
+<!-- Example: 
 
 > ## John Doe
 > <img src="johnDoe/JohnDoe.png" width="100" /><br>
@@ -8,7 +8,7 @@ Example:
 > [[Progress](johnDoe/JohnDoe-Progress.md)]
 > 
 > * Expert areas: JavaScript, Node.js, Website Performance 
-> * Projects: Node.js, TEAMMATES
+> * Projects: Node.js, TEAMMATES -->
 
 ------------------------------------------------
 
@@ -132,19 +132,6 @@ Example:
 
 * Expert areas: C++, GPGPU, CUDA
 * Projects: [SE-EDU](https://github.com/se-edu)
-
-
-## SONG ZHIWEN
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
 
 ## TAN WANG LENG
 
