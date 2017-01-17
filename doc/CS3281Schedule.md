@@ -23,6 +23,8 @@
       * The project assignment in the above file is based on your first preference given in the application form. 
         A project change is still possible within week 1, subject to approval.
   * The PR name can be something like `Add Details: John Doe`.
+  * Use a different branch for your PR. The branch name can be something like `add-details-john-doe`. This way it
+      is easier to keep your master branch exactly same as upstream repo
    
   > Note: **If you are using markdown**, please pay attention to 
   > [this advice on making your markdown code compatible with GitHub Pages](https://github.com/oss-generic/process/blob/master/codingStandards/CodingStandard-Gfmd.md#follow-strict-gfmd-syntax-to-be-compatible-with-github-pages).
