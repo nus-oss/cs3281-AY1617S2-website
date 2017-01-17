@@ -29,7 +29,7 @@
   * Only merged PRs can be included. 
     A merged PR can be included in any future week (not restricted to the week it was merged). 
   * PRs done prior to the semester can be included in this week or in a future week.
-  * **Effort** : Your estimated _hours the work should have take in retrospect_. 
+  * **Effort** : Your estimated _number of hours the work should have taken in retrospect_. 
     Use only values `1`, `2`, `4`, `8`, `16`, `32` (rounded to the nearest number).
   * **Type** : Indicates whether you are the developer (`D`) or the reviewer (`R`).
   * Format for PR title `Week 2 Progress: John Doe`
