@@ -6,7 +6,9 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#137`](se-edu/addressbook-level2#122) | Add different levels of comparison to equality methods of Person class
+2 | D | [`#138`](se-edu/addressbook-level2#117) | Names with unicode characters are treated as invalid
+1 | D | [`#6362`](teammates/teammates#6353) | "magic" string in "InstructorFeedbackRemindParticularStudentsAction"
 
 ---
 ### Week 3
