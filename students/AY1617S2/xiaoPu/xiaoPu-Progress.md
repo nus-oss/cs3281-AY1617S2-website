@@ -6,8 +6,8 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-2|D|[#6324](https://github.com/TEAMMATES/teammates/pull/6324)|Show "Participants who have not responded to any question" panel in grey [#3328](https://github.com/TEAMMATES/teammates/issues/3328)
-4|D|[#6344](https://github.com/TEAMMATES/teammates/pull/6344)|Implement InstructorFeedbackRemind(ParticularStudents)ActionTest [#6329](https://github.com/TEAMMATES/teammates/issues/6329)
+2 | D | [#6324](https://github.com/TEAMMATES/teammates/pull/6324) | Show "Participants who have not responded to any question" panel in grey [#3328](https://github.com/TEAMMATES/teammates/issues/3328)
+4 | D | [#6344](https://github.com/TEAMMATES/teammates/pull/6344) | Implement InstructorFeedbackRemind(ParticularStudents)ActionTest [#6329](https://github.com/TEAMMATES/teammates/issues/6329)
 ---
 ### Week 3
 
