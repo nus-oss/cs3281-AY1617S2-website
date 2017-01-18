@@ -1,4 +1,4 @@
-Example: 
+<!-- Example: 
 
 > ## John Doe
 > <img src="johnDoe/JohnDoe.png" width="100" /><br>
@@ -8,7 +8,7 @@ Example:
 > [[Progress](johnDoe/JohnDoe-Progress.md)]
 > 
 > * Expert areas: JavaScript, Node.js, Website Performance 
-> * Projects: Node.js, TEAMMATES
+> * Projects: Node.js, TEAMMATES -->
 
 ------------------------------------------------
 
@@ -76,7 +76,7 @@ Example:
 
 <img src="syedAbdullah/SyedAbdullah.jpg" width="100" /><br>
 [[Resume](syedAbdullah/SyedAbdullah-Resume.md)]
-[[Website](syedabdullah.net)]
+[[Website](http://syedabdullah.net)]
 [[Github Profile](https://github.com/Skaty)]
 [[Progress](syedAbdullah/SyedAbdullah-Progress.md)]
 
@@ -107,8 +107,8 @@ Example:
 [[Github Profile](https://github.com/MightyCupcakes)]
 [[Progress](jeremyGoh/JeremyGoh-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Java, DevOps, Gradle
+* Projects: [SE-EDU](https://github.com/se-edu), [Tinker's Construct](https://github.com/SlimeKnights/TinkersConstruct)
 
 
 ## HUANG CHAO
@@ -124,33 +124,20 @@ Example:
 
 ## PIERCE ANDERSON FU
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="pierceAndersonFu/PierceAndersonFu.png" width="100" /><br>
+[[Resume](pierceAndersonFu/PierceAndersonFu-Resume.md)]
 [[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+[[Github Profile](https://github.com/PierceAndy)]
+[[Progress](pierceAndersonFu/PierceAndersonFu-Progress.md)]
 
-* Expert areas:  
-* Projects: 
-
-
-## SONG ZHIWEN
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
-
-* Expert areas:  
-* Projects: 
-
+* Expert areas: C++, GPGPU, CUDA
+* Projects: [SE-EDU](https://github.com/se-edu)
 
 ## TAN WANG LENG
 
 <img src="tanWangLeng/TanWangLeng.png" width="100" /><br>
 [[Resume](tanWangLeng/TanWangLeng-Resume.md)]
-[[Website](http://yamgent.github.io/)]
+[[Website](https://yamgent.github.io/)]
 [[Github Profile](https://github.com/yamgent)]
 [[Progress](tanWangLeng/TanWangLeng-Progress.md)]
 
@@ -189,8 +176,8 @@ Example:
 
 <img src="liKai/LiKai.png" width="100" /><br>
 [[Resume](liKai/LiKai-Resume.md)]
-[[Website](li-kai.github.io)]
-[[Github Profile](github.com/li-kai)]
+[[Website](https://li-kai.github.io)]
+[[Github Profile](https://github.com/li-kai)]
 [[Progress](liKai/LiKai-Progress.md)]
 
 * Expert areas: Javascript, Dev Ops (build), GraphQL
@@ -213,7 +200,7 @@ Example:
 
 <img src="tanMinRongSamson/TanMinRongSamson.jpg" width="100" /><br>
 [[Resume](tanMinRongSamson/TanMinRongSamson-Resume.md)]
-[[Website](samsontmr.github.io)]
+[[Website](https://samsontmr.github.io)]
 [[Github Profile](https://github.com/samsontmr)]
 [[Progress]()]
 
@@ -235,14 +222,14 @@ Example:
 
 ## WILSON KURNIAWAN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github Profile]()]
-[[Progress]()]
+<img src="wilsonKurniawan/WilsonKurniawan.png" width="100" /><br>
+[[Resume](wilsonKurniawan/WilsonKurniawan-Resume.md)]
+[[Website](https://github.com/wkurniawan07)]
+[[Github Profile](https://github.com/wkurniawan07)]
+[[Progress](wilsonKurniawan/WilsonKurniawan-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Software Maintenance, DevOps (Java and JavaScript), Node.js, Website performance
+* Projects: TEAMMATES, ESLint
 
 
 ## XIAO PU
@@ -259,7 +246,7 @@ Example:
 
 ## YANG BOXIN
 
-<img src="yangBoxin/yangBoxin.png" width="100" /><br>
+<img src="yangBoxin/YangBoxin.png" width="100" /><br>
 [[Resume](yangBoxin/YangBoxin-Resume.md)]
 [[Website](https://github.com/greed-is-good)]
 [[Github Profile](https://github.com/greed-is-good)]
