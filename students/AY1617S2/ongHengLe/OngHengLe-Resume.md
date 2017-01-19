@@ -10,12 +10,12 @@ Email: [onghl@u.nus.edu](onghl@u.nus.edu)
 August 2015 - Present: <br>
 **National University of Singapore** <br>
 **Bachelor of Computing (Honours) in Computer Science** <br>
+Concurrent Degree Programme in Grad Scientiae Magistri (Computer Science) in Brown University
 
 April 2010 - April 2013: <br>
 **Temasek Polytechnic** <br>
 **Diploma in Game & Entertainment Technology (with Merit)** <br>
-Director’s List (AY2011/2012 and AY2010/2011) <br>
-Diploma Plus Programme (Business Cluster Subjects) 
+Director’s List (AY2011/2012 and AY2010/2011)
 
 <br>
 
@@ -36,10 +36,9 @@ Tools gained: <br>
 
 ## Technical Skills
 
-Programming: C#, C++, Java, JavaScript, ActionScript <br>
-Software: Visual Studio 2015, Eclipse, git, Perforce <br>
-Libraries: Cocos2D-x, Microsoft XNA, Android SDK, Flixel <br>
-Game Engine: Unity3D
+Familiar with C#, C++ and Java <br>
+Worked with JavaScript and ActionScript <br>
+Software: Visual Studio 2015, Eclipse, Git, Perforce <br>
 
 <br>
 
