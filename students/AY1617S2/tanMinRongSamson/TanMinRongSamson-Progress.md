@@ -1,4 +1,4 @@
-# Li Kai - Weekly Progress
+# Tan Min Rong Samson - Weekly Progress
 
 ---
 
@@ -6,7 +6,8 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-2 | D | [`#6368`](https://github.com/TEAMMATES/teammates/pull/6368) | [Security vulnerability: target="_blank"](https://github.com/TEAMMATES/teammates/issues/6367)
+1 | D | [`#6334`](https://github.com/TEAMMATES/teammates/pull/6334) | Update feedback entry count to 5 million
+4 | D | [`#6338`](https://github.com/TEAMMATES/teammates/pull/6338) | Rename html files in InstructorFeedbackResultsPageUiTest
 
 ---
 ### Week 3
@@ -44,4 +45,3 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 13
-

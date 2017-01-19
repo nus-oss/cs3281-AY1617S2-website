@@ -6,7 +6,7 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | D | [`#6303`](https://github.com/TEAMMATES/teammates/pull/6303) | Rename 'Instructors' in courseEditAddInstructorPanel.tag to 'Instructor'
 
 ---
 ### Week 3

@@ -107,8 +107,8 @@
 [[Github Profile](https://github.com/MightyCupcakes)]
 [[Progress](jeremyGoh/JeremyGoh-Progress.md)]
 
-* Expert areas:  
-* Projects: 
+* Expert areas: Java, DevOps, Gradle
+* Projects: [SE-EDU](https://github.com/se-edu), [Tinker's Construct](https://github.com/SlimeKnights/TinkersConstruct)
 
 
 ## HUANG CHAO
@@ -202,7 +202,7 @@
 [[Resume](tanMinRongSamson/TanMinRongSamson-Resume.md)]
 [[Website](https://samsontmr.github.io)]
 [[Github Profile](https://github.com/samsontmr)]
-[[Progress]()]
+[[Progress](tanMinRongSamson/TanMinRongSamson-Progress.md)]
 
 * Expert areas:  Python, Scalability Testing & DevOps, Data Science & Artificial Intelligence
 * Projects: matplotlib, scikit-learn, TEAMMATES
