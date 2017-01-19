@@ -7,7 +7,7 @@
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 1 | D | [`#140`](se-edu/addressbook-level2#140) | Set up Travis CI
-1 | D | [`#124](se-edu/addressbook-level2#124) | Fix code style violation
+1 | D | [`#124`](se-edu/addressbook-level2#124) | Fix code style violation
 1 | D | [`#62`](se-edu/addressbook-level3#39) | executable jar file doesn't run
 2 | D | [`#119`](se-edu/addressbook-level2#119`) | Add unit tests for DeleteCommand class
 
