@@ -69,7 +69,7 @@
 [[Progress](ongHengLe/OngHengLe-Progress.md)]
 
 * Expert areas: C#, Performance, Visual Studio Profiling Tools 
-* Projects: PowerPointLabs, Visual Studio Code
+* Projects: [PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs), [Visual Studio Code](https://github.com/Microsoft/vscode)
 
 
 ## SYED ABDULLAH B SYED SHEIKH
