@@ -6,7 +6,7 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-| | |
+2 | D | 6380 | Remove unused methods in CoursesLogic
 
 ---
 

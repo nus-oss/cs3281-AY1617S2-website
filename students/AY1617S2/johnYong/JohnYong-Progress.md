@@ -4,16 +4,13 @@
 
 ### Week 2
 
-Effort| Type | PR | Issue
-:----:|:----:|:-----------|:------
-1 | D | [`#6342`](https://github.com/TEAMMATES/teammates/pull/6342) | Invalid JSON in userMapData.json
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  1   |  D   | [`#6342`](https://github.com/TEAMMATES/teammates/pull/6342) | Invalid JSON in userMapData.json |
+|  4   |  D   | [`#6359`](https://github.com/TEAMMATES/teammates/pull/6359) | TestNG misconfiguration does not cause build failure |
 
 ---
 ### Week 3
-
-Effort| Type | PR | Issue
-:----:|:----:|:-----------|:------
- |  |  |
 
 ---
 ### Week 4
