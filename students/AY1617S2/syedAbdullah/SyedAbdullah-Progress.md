@@ -6,7 +6,8 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  |
+2 | L | - | Highlight and Agenda Lab demo
+4 | L | - | Implementation of Paste to Fit Slide and Paste to Cursor
 
 ---
 ### Week 3

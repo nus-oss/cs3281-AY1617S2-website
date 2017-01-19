@@ -6,7 +6,7 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | D | [`#6350`](https://github.com/TEAMMATES/teammates/pull/6350) |  instructorHelp.jsp: Reorder entries in Table of Contents 
 
 ---
 ### Week 3
