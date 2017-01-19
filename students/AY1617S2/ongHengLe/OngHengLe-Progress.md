@@ -6,7 +6,8 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
++4 | L | - | Implement Crop-out-transparent-paddings
++2 | L | - | Shapes Lab and Effects Lab demo
 
 ---
 ### Week 3
