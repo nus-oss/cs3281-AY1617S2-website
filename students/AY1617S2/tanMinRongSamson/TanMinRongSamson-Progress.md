@@ -1,4 +1,4 @@
-# Jamos Tay - Weekly Progress
+# Tan Min Rong Samson - Weekly Progress
 
 ---
 
@@ -6,16 +6,15 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-2 | L | - | Crop and position lab demo
-1 | L | - | Moving crop lab to a menu
-3 | L | - | Implement Crop to slide
-1 | L | - | Fixing crop to slide for rotated pictures
+1 | D | [`#6334`](https://github.com/TEAMMATES/teammates/pull/6334) | Update feedback entry count to 5 million
+4 | D | [`#6338`](https://github.com/TEAMMATES/teammates/pull/6338) | Rename html files in InstructorFeedbackResultsPageUiTest
+
 ---
 ### Week 3
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+ |  |  |
 
 ---
 ### Week 4
@@ -46,4 +45,3 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 13
-
