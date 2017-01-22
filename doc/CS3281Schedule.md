@@ -37,6 +37,15 @@
 
 * Lecture : Lightning Talks Round A - Part 1
 
+* Remember to start the talk with a PUNCH, WIIFY, and the Promise. 
+* No laptops allowed during talks (except the speaker).
+* Noted down comments about the talk on paper (provided).
+* Within 24 hours of the talk,
+  * submit feedback to speakers (via TEAMMATES) for all seven talks within 24 hours. The quality of feedback is considered in grading.
+  * speakers should update the issue description of the talk by adding slides. 
+* Feel free to continue the discussion about each talk in the issue tracker.
+  
+
 ## Week 4
 
 * Lecture : No lecture (CNY)
