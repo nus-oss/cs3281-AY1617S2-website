@@ -6,8 +6,9 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  | | 
-
+2 | L | - | Familarize with PowerPointLabs features
+2 | L | - | Zoom Lab and Picture Slides Lab demo
+4 | L | - | Proof-of-Concept for reverse crop
 ---
 ### Week 3
 

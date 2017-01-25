@@ -6,7 +6,8 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-|||
+2 | D | [`#6324`](https://github.com/TEAMMATES/teammates/pull/6324) | Show "Participants who have not responded to any question" panel in grey
+4 | D | [`#6344`](https://github.com/TEAMMATES/teammates/pull/6344) | Implement InstructorFeedbackRemind(ParticularStudents)ActionTest
 
 ---
 ### Week 3

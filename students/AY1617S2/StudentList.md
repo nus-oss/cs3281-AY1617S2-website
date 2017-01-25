@@ -69,7 +69,7 @@
 [[Progress](ongHengLe/OngHengLe-Progress.md)]
 
 * Expert areas: C#, Performance, Visual Studio Profiling Tools 
-* Projects: PowerPointLabs, Visual Studio Code
+* Projects: [PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs), [Visual Studio Code](https://github.com/Microsoft/vscode)
 
 
 ## SYED ABDULLAH B SYED SHEIKH
@@ -202,7 +202,7 @@
 [[Resume](tanMinRongSamson/TanMinRongSamson-Resume.md)]
 [[Website](https://samsontmr.github.io)]
 [[Github Profile](https://github.com/samsontmr)]
-[[Progress]()]
+[[Progress](tanMinRongSamson/TanMinRongSamson-Progress.md)]
 
 * Expert areas:  Python, Scalability Testing & DevOps, Data Science & Artificial Intelligence
 * Projects: matplotlib, scikit-learn, TEAMMATES

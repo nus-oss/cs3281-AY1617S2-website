@@ -6,7 +6,7 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  |
+2 | D | [`#6368`](https://github.com/TEAMMATES/teammates/pull/6368) | [Security vulnerability: target="_blank"](https://github.com/TEAMMATES/teammates/issues/6367)
 
 ---
 ### Week 3
