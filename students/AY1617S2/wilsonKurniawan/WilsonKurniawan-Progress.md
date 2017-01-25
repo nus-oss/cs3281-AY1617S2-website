@@ -26,7 +26,23 @@ Effort| Type
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | 6447 | InstructorStudentListPageUiTest failing at dev server
+1 | R | 6432 | Do not trigger CI build for documentation-only changes
+1 | R | 6426 | README.md: Update users count badge to 140K
+1 | R | 6424 | Stray closing &lt;/span&gt; tag in questionFeedbackPathSettings.tag
+1 | R | 6422 | Move logic.publicresource classes to ui.controller
+1 | R | 6414 | Create another InstructorEditStudentFeedbackPage page objects for testing
+1 | R | 6408 | generateDemoCourseId generates invalid course ID if email address contains a +
+1 | R | 6405 | Change "Received Responses Statistics" to "Statistics for Received Responses"
+1 | R | 6389 | Instructor Student List Page: Properly display sanitised text for Section Filter
+1 | R | 6388 | User map: move 'last updated date' to userMapData.json
+
+Other works:
+
+Effort| Type 
+:----:|:----:
+3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+3 | Release V5.93 management
 
 ---
 ### Week 4
