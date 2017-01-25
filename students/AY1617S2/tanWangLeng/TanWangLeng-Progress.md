@@ -12,6 +12,7 @@ Effort| Type | PR | Issue
 2 | D | [`#119`](se-edu/addressbook-level2#119`) | Add unit tests for DeleteCommand class
 
 ---
+
 ### Week 3
 
 Effort| Type | PR | Issue
@@ -19,32 +20,71 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 6
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 7
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 8
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 12
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 13
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
