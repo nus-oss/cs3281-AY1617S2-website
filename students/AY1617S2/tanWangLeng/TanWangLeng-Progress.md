@@ -17,7 +17,9 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#250`](https://github.com/se-edu/addressbook-level4/pull/250) | checkstyle: check for star imports
+1 | R | [`#259`](https://github.com/se-edu/addressbook-level4/pull/259) | Update URL of help window #217
+1 | D | [`#258`](https://github.com/se-edu/addressbook-level4/pull/258) | Make Travis CI output less verbose #204
 
 ---
 
