@@ -27,7 +27,35 @@ xp.xiaopu@gmail.com
 
 ## Experience
 
-- **Project: Do-er List, a task manager application**
+- **Project: Teammates, an open-source project**
+	
+	_2017 January and onwards_
+	
+	Teammates is an online peer evaluation/feedback system used in
+1085 institutions from 78 countries. Github Page :
+https://github.com/TEAMMATES/teammates
+	
+	Accomplishments:
+	
+	- Contributed 200-300 lines Java, JavaScript and HTML code.
+
+- **Project: Teaching Assistant in Software Engineering Course**
+	
+	_National University of Singapore — 2016/2017 Semester 2_
+
+	Served as Teaching Assistant in CS2103 software engineering
+course.
+
+	Accomplishments:
+	
+	- Facilitate 8 students’ learning in software engineering
+
+- **Award: Dean’s List in School of Computing**
+
+	_National University of Singapore — 2016/2017 Semester 1_
+
+
+- **School Project: Do-er List, a task manager application**
 	
 	_National University of Singapore — 2016/2017 Semester 1_
 	
@@ -56,7 +84,7 @@ discussion group every week and graded student’s programmes
 	- Able to get along well with students
 	- Obtained teamwork experience
 
-- **Project: NUSDing - NUS SoC Orbital 2016, Apollo 11
+- **School Project: NUSDing - NUS SoC Orbital 2016, Apollo 11
 Achievement**
 	
 	_National University of Singapore — 2015/2016 Special Term II_
@@ -82,6 +110,3 @@ with the help of Laravel framework in a team of two. Github Page:
 	
 	_National University of Singapore — 2015/08_
 	
-- **Award: Dean’s List in School of Computing**
-
-	_National University of Singapore — 2016/2017 Semester 1_
