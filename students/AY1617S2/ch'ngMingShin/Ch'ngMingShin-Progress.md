@@ -12,6 +12,7 @@ Effort| Type | PR | Issue
 ### Week 3
 
 Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
 1 | D | [`#6374`](https://github.com/TEAMMATES/teammates/pull/6374) | Refactor FeedbackSessionsLogic.java
 1 | D | [`#6412`](https://github.com/TEAMMATES/teammates/pull/6412) | Refactor FeebackResponsesLogic.java
 
