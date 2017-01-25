@@ -6,7 +6,9 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | L | - | Animations and Colors lab demo
+4 | L | - | Proof of concept for Crop Slide
+1 | L | - | Experiment with PowerPointLabs ribbon
 
 ---
 ### Week 3

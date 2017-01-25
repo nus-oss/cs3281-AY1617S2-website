@@ -6,7 +6,10 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | L | - | Crop and position lab demo
+1 | L | - | Moving crop lab to a menu
+3 | L | - | Implement Crop to slide
+1 | L | - | Fixing crop to slide for rotated pictures
 ---
 ### Week 3
 
