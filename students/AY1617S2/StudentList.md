@@ -240,8 +240,8 @@
 [[Github Profile](https://github.com/xpdavid)]
 [[Progress](xiaoPu/xiaoPu-Progress.md)]
 
-* Expert areas: Java, Static analysis
-* Projects: JUnit, phpmyadmin, Teammates
+* Expert areas: Java, Static Analysis
+* Projects: Teammates, Checkstyle
 
 
 ## YANG BOXIN
