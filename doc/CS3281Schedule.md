@@ -37,12 +37,33 @@
 
 * Lecture : Lightning Talks Round A - Part 1
 
-* Remember to start the talk with a PUNCH, WIIFY, and the Promise. 
+* Some things to consider when preparing for the talk:
+  1. Remember to start the talk with a PUNCH, WIIFY, and the Promise.<br> 
+     The WIIFY can work better if it relates to the audience at a concrete level. 
+     For example, explaining ‘how Foo technology can benefit you right now’ is better than making a general claim that 
+     ‘Foo is a useful technology’. Sometimes realizing that ‘there is a cool technology out there benefitting many others, 
+     but it is not accessible to me right now’ can be a turn off.<br>
+     WIIFY can be revisited at the end of the talk too.
+  1. One common mistake is inadvertantly including big holes in the talk, for example, forgetting to explain some concept
+     that is vital to understanding the topic. This can be avoided if you rehearse the talk with a peer first.<br>
+     Peers reviewing a talk rehearsal: please listen to the talk as if you know nothing about the topic so that you can 
+     spot those holes.
+  1. Also show how the topic fits into the big picture. For example, let’s say your topic is a tool called X. 
+     _The ‘big picture’ view can be something like this: There are two categories of tools for doing Bar which is an essential
+     part in building apps. Category 1 tools work inside-out and Category 2 tools work outside-in. 
+     Tool X is the currently hot tool in category 2 because it is faster and more secure than other popular tools 
+     in that category, namely Y and Z._ 
+* Please limit the length to 7 minutes. The remaining 3 minutes is for Q&A.
+* Test your laptop connection to the projector in advance.
 * No laptops allowed during talks (except the speaker).
 * Note down comments about the talk on paper (provided).
-* Within 24 hours of the talk,
-  * submit feedback to speakers (via TEAMMATES) for all seven talks within 24 hours. The quality of feedback is considered in grading.
-  * speakers should update the issue description of the talk by adding slides. 
+* Before the end of Monday:
+  * Speakers should update the issue description of the talk by adding slides.
+  * Edit the issue description (rather than add as a new comment) to update the synopsys (if needed) and add the slides.
+    Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.
+* Before the end of Tuesday:
+  * All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
+   
 * Feel free to continue the discussion about each talk in the issue tracker.
   
 
