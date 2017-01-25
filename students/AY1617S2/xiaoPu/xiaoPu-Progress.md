@@ -14,7 +14,8 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-||| 
+2 | D | [`#6213`](https://github.com/TEAMMATES/teammates/pull/6213) | id="caption" in static pages should be class instead #6190
+8 | D | [`#6352`](https://github.com/TEAMMATES/teammates/pull/6352) | Instructor: moderate feedback: give message "Some questions may be hidden..." as a status message #2818 + Moderating responses/previewing sessions heading does not properly escape HTML characters #5932
 
 ---
 ### Week 4
