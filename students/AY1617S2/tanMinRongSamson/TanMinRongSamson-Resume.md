@@ -100,13 +100,15 @@ pandas, scikit-learn, openCV
 Hackathons
 ----------
 
+*   HacknRoll 2017
 *   Facebook Singapore Hackathon 2016 (Winner)
 *   Facebook Global Hackathon Finals 2016 (Top 8 Placing)
-*   Hack&Roll 2016
+*   HacknRoll 2016
 
 Projects
 --------
 
+*   moodify (Lead Hacker)
 *   Matplotlib (Contributor)
 *   TEAMMATES (Contributor)
 *   Interactive Schrödinger’s Equation Probability Density Visualizer (Designer & Developer)

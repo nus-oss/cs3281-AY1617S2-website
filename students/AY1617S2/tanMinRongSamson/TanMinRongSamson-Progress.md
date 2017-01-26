@@ -14,7 +14,9 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  |
+4 | D | [`#6358`](https://github.com/TEAMMATES/teammates/pull/6358) | instructorStudentComment: Give more informative status messages
+1 | D | [`#6405`](https://github.com/TEAMMATES/teammates/pull/6405) | Change "Received Responses Statistics" to "Statistics for Received Responses"
+1 | R | [`#6354 (cont. from #6407, #6357)`](https://github.com/TEAMMATES/teammates/pull/6357) | Move logic.publicresource classes to ui.controller
 
 ---
 ### Week 4
