@@ -13,7 +13,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+4 | D | [`#60`](https://github.com/se-edu/addressbook-level1/pull/60) | Convert coding best practices into a markdown document #4
 
 ---
 ### Week 4
