@@ -13,7 +13,8 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+4 | D | [`#6389`](https://github.com/TEAMMATES/teammates/pull/6389) | Instructor Student List Page: Properly display sanitised text for Section Filter #5923  
+1 | D | [`#6447`](https://github.com/TEAMMATES/teammates/pull/6447) | InstructorStudentListPageUiTest failing at dev server #6446 
 
 ---
 ### Week 4
