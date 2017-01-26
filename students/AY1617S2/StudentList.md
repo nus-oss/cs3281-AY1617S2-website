@@ -44,7 +44,7 @@
 [[Github Profile](https://github.com/IanTeo)]
 [[Progress](ianTeo/IanTeo-Progress.md)]
 
-* Expert areas: C#, Performance, Profilers
+* Expert areas: C#, Performance, Testing
 * Projects: PowerPointLabs, Electron, Duality
 
 

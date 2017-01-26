@@ -15,7 +15,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | D | [#44](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/44) | Add indezine blog post to reviews #1042
+4 | L | - | Experiment on resize lab
+2 | L | - | Experiment on PowerPointLabs automated Tests
+
 
 ---
 ### Week 4
