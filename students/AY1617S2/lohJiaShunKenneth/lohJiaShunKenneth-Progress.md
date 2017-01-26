@@ -14,7 +14,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-||| 
++16 | L | - | Progress on SyncLab (Worked on syncing fill and outlines)
 
 ---
 ### Week 4
