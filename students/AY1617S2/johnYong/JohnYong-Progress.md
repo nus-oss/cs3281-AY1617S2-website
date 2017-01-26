@@ -10,6 +10,7 @@
 |  4   |  D   | [`#6359`](https://github.com/TEAMMATES/teammates/pull/6359) | TestNG misconfiguration does not cause build failure |
 
 ---
+
 ### Week 3
 
 |Effort| Type | PR | Issue |
@@ -20,32 +21,42 @@
 |  1   |  D   | [`#6432`](https://github.com/TEAMMATES/teammates/pull/6432) | Do not trigger CI build for documentation-only changes |
 
 ---
+
 ### Week 4
 
 ---
+
 ### Week 5
 
 ---
+
 ### Week 6
 
 ---
+
 ### Week 7
 
 ---
+
 ### Week 8
 
 ---
+
 ### Week 9
 
 ---
+
 ### Week 10
 
 ---
+
 ### Week 11
 
 ---
+
 ### Week 12
 
 ---
+
 ### Week 13
 
