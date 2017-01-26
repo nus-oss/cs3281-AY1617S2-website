@@ -24,17 +24,6 @@
 * Expert areas: C#, UIX, Testing
 * Projects: freeCodeCamp, NUnit, PowerPointLabs
 
-## JAMOS TAY
-
-<img src="jamosTay/JamosTay.png" width="100" /><br>
-[[Resume](jamosTay/JamosTay-Resume.md)]
-[[Website](https://github.com/jamos-tay)]
-[[Github Profile](https://github.com/jamos-tay)]
-[[Progress](jamosTay/JamosTay-Progress.md)]
-
-* Expert areas: C#, Databases, Regex
-* Projects: PowerPointLabs
-
 
 ## IAN TEO ZHI WEN
 
@@ -46,6 +35,18 @@
 
 * Expert areas: C#, Performance, Testing
 * Projects: PowerPointLabs, Electron, Duality
+
+
+## JAMOS TAY
+
+<img src="jamosTay/JamosTay.png" width="100" /><br>
+[[Resume](jamosTay/JamosTay-Resume.md)]
+[[Website](https://github.com/jamos-tay)]
+[[Github Profile](https://github.com/jamos-tay)]
+[[Progress](jamosTay/JamosTay-Progress.md)]
+
+* Expert areas: C#, Databases, Regex
+* Projects: PowerPointLabs
 
 
 ## LOH JIA SHUN KENNETH
