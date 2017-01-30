@@ -24,6 +24,10 @@
 
 ### Week 4
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  2   |  D   | [`#6411`](https://github.com/TEAMMATES/teammates/pull/6411) | Instructor create question: New question does not copy 'recipient limit' from previous question |
+
 ---
 
 ### Week 5
