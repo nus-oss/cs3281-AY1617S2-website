@@ -72,9 +72,16 @@
 * Lecture : No lecture (CNY)
 
 * If you haven't done so already, do the following.
-  * Get started with contributing to the external project.
+  * Get started with contributing to the external project. If you don't make any progress by week 5, you need to find
+    another project.
   * Get started with adding content to the [learning resources repo](https://github.com/nus-oss/learningresources) 
     (aka 'book chapter' deliverable).
+    * While you have write access to the repo, use your own fork to submit PRs.
+    * You can create PRs without corresponding issues.
+    * Please get the PRs reviewed and approved by a peer before requesting prof's review.
+    * Aim to get some content merged before mid-semester break.
+    * If there are others in the class working on the same topic, coordinate among yourselves to avoid duplication 
+      of work.
 
 ## Week 5
 
