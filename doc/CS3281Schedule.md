@@ -71,6 +71,11 @@
 
 * Lecture : No lecture (CNY)
 
+* If you haven't done so already, do the following.
+  * Get started with contributing to the external project.
+  * Get started with adding content to the [learning resources repo](https://github.com/nus-oss/learningresources) 
+    (aka 'book chapter' deliverable).
+
 ## Week 5
 
 * Lecture : Lightning Talks Round A - Part 2
