@@ -59,7 +59,7 @@
 * Note down comments about the talk on paper (provided).
 * Before the end of Monday:
   * Speakers should update the issue description of the talk by adding slides.
-  * Edit the issue description (rather than add as a new comment) to update the synopsys (if needed) and add the slides.
+  * Edit the issue description (rather than add as a new comment) to update the synopsis (if needed) and add the slides.
     Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.
 * Before the end of Tuesday:
   * All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
