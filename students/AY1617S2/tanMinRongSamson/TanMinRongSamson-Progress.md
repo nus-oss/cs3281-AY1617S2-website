@@ -21,6 +21,14 @@ Effort| Type | PR | Issue
 ---
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6467`](https://github.com/TEAMMATES/teammates/pull/6467) | Instructions for enabling GodMode are outdated
+1 | R | [`#6449`](https://github.com/TEAMMATES/teammates/pull/6449) | ActivityLogEntry should not have dependency to GateKeeper
+1 | R | [`#6482`](https://github.com/TEAMMATES/teammates/pull/6482) | Duplicate "the" in jsp files
+1 | R | [`#6489`](https://github.com/TEAMMATES/teammates/pull/6489) | Remove unused parameter in InstructorCoursesDetailsPage.java
+4 | D | [`#2`](https://github.com/samsontmr/oss-bot/pull/2) | Set up bot skeleton code to listen to webhooks from GitHub
+
 ---
 ### Week 5
 
