@@ -32,6 +32,14 @@ Effort| Type | PR | Issue
 ---
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6497`](https://github.com/TEAMMATES/teammates/pull/6497) | Duplicate "the" in java files
+2 | R | [`#6496`](https://github.com/TEAMMATES/teammates/pull/6496) | Update design.md to reflect on the current application architecture
+8 | D | [`#3`](https://github.com/samsontmr/oss-bot-js/pull/3), [`#6`](https://github.com/samsontmr/oss-bot-js/pull/6) | Set up node.js environment on Heroku and GitHub; Validate PRs using regex specified in config variables; Comment on offending PRs
+4 | O | [`6536`](https://github.com/TEAMMATES/teammates/pull/6536) | Research and set up SonarQube for code quality check, unable to complete due to limitations of GAE
+
+
 ---
 ### Week 6
 
