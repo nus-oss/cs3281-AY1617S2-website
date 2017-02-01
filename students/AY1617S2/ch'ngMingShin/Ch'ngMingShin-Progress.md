@@ -21,7 +21,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#6435`](https://github.com/TEAMMATES/teammates/pull/6435) | Refactor FeedbackQuestionsLogic.java
 
 ---
 ### Week 5
