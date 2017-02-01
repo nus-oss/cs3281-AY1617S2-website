@@ -22,6 +22,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#1090`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1090) | Timer shows the record's length after stopping recording 
+8 | D | [`#1086`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1086) | Animation Lab: Animate does not take into account shape flipping #1075
+4 | L | - | Implementing crop to same dimensions
+
 ---
 ### Week 5
 
