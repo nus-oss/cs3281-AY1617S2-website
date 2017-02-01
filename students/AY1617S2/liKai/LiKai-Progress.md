@@ -18,6 +18,11 @@ Effort| Type | PR | Issue
 ---
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6444`](https://github.com/TEAMMATES/teammates/pull/6444) | [Instructor view session results: numeric scale question: sorting is incorrect #6437](https://github.com/TEAMMATES/teammates/issues/6437)
+1 | D | [`#6434`](https://github.com/TEAMMATES/teammates/pull/6434) | [Improve isWithinView in common.js #5937](https://github.com/TEAMMATES/teammates/issues/5937)
+
 ---
 ### Week 5
 
