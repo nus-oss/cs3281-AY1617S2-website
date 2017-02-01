@@ -14,7 +14,9 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#1084`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1084) | Message in the sidebar of Shapes Lab is out of alignment #912 
+4 | L | - | Implement Crop to aspect ratio
+2 | L | - | Add dialog box for custom crop aspect ratio
 
 ---
 ### Week 4

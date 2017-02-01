@@ -59,7 +59,7 @@
 * Note down comments about the talk on paper (provided).
 * Before the end of Monday:
   * Speakers should update the issue description of the talk by adding slides.
-  * Edit the issue description (rather than add as a new comment) to update the synopsys (if needed) and add the slides.
+  * Edit the issue description (rather than add as a new comment) to update the synopsis (if needed) and add the slides.
     Note that GitHub allows attaching ppt files. Just drag-drop the files to the comment box.
 * Before the end of Tuesday:
   * All must submit feedback to speakers (via TEAMMATES). The quality of feedback is considered in grading.
@@ -70,6 +70,18 @@
 ## Week 4
 
 * Lecture : No lecture (CNY)
+
+* If you haven't done so already, do the following.
+  * Get started with contributing to the external project. If you don't make any progress by week 5, you need to find
+    another project.
+  * Get started with adding content to the [learning resources repo](https://github.com/se-edu/learningresources) 
+    (aka 'book chapter' deliverable).
+    * While you have write access to the repo, use your own fork to submit PRs.
+    * You can create PRs without corresponding issues.
+    * Please get the PRs reviewed and approved by a peer before requesting prof's review.
+    * Aim to get some content merged before mid-semester break.
+    * If there are others in the class working on the same topic, coordinate among yourselves to avoid duplication 
+      of work.
 
 ## Week 5
 

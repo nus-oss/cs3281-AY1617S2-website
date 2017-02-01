@@ -15,7 +15,8 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#118`](https://github.com/se-edu/addressbook-level2/pull/118) | Add unit tests for AddCommand class
+2 | D | [`#6419`](https://github.com/TEAMMATES/teammates/pull/6419) | Change HttpRequestHelper.getValueFromParamMap to getRequestParamValue in *Action classes
 
 ---
 ### Week 4

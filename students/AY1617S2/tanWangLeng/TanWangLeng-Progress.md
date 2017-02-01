@@ -12,39 +12,81 @@ Effort| Type | PR | Issue
 2 | D | [`#119`](se-edu/addressbook-level2#119`) | Add unit tests for DeleteCommand class
 
 ---
+
 ### Week 3
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#250`](https://github.com/se-edu/addressbook-level4/pull/250) | checkstyle: check for star imports
+1 | R | [`#259`](https://github.com/se-edu/addressbook-level4/pull/259) | Update URL of help window #217
+1 | D | [`#258`](https://github.com/se-edu/addressbook-level4/pull/258) | Make Travis CI output less verbose #204
 
 ---
+
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 6
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 7
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 8
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 12
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
+
 ### Week 13
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
