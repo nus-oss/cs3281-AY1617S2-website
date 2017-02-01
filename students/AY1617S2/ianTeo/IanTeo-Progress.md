@@ -25,7 +25,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [#1090](https://github.com/PowerPointLabs/PowerPointLabs/pull/1090) | Timer shows the record's length after stopping recording #380
+8 | D | [#1091](https://github.com/PowerPointLabs/PowerPointLabs/pull/1091) | Write Test for Rotate or Duplicate and Rotate function #1053
+4 | L | - | Sync Labs sync fill and gradient
+1 | L | - | Sync Labs sync animation
  
 ---
 ### Week 5
