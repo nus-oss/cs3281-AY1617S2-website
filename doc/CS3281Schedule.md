@@ -74,7 +74,7 @@
 * If you haven't done so already, do the following.
   * Get started with contributing to the external project. If you don't make any progress by week 5, you need to find
     another project.
-  * Get started with adding content to the [learning resources repo](https://github.com/nus-oss/learningresources) 
+  * Get started with adding content to the [learning resources repo](https://github.com/se-edu/learningresources) 
     (aka 'book chapter' deliverable).
     * While you have write access to the repo, use your own fork to submit PRs.
     * You can create PRs without corresponding issues.
