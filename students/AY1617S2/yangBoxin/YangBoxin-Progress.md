@@ -16,7 +16,9 @@ Effort| Type | PR | Issue
 
 ### Week 4
 
----
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | 6508 | Upgrade instance class to F2
 
 ### Week 5
 
