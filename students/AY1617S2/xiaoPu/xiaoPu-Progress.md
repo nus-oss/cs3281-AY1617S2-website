@@ -22,6 +22,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | D | [`#6413`](https://github.com/TEAMMATES/teammates/pull/6413) | Refactor test cases code in InstructorFeedbackResultsPageUiTest and StudentFeedbackResultsPageUiTest #6410
+2 | D | [`#6444`](https://github.com/TEAMMATES/teammates/pull/6444) | Instructor view session results: numeric scale question: sorting is incorrect #6437 
+2 | D | [`#6375`](https://github.com/TEAMMATES/teammates/pull/6375) | Show loading gif picture while the profile picture is being loaded #2312
+
 ---
 ### Week 5
 
