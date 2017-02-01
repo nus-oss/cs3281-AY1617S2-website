@@ -27,6 +27,9 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+1 | R | [`#256`](https://github.com/se-edu/addressbook-level4/pull/256) | checkstyle: check for unused import #252
+1 | R | [`#251`](https://github.com/se-edu/addressbook-level4/pull/251) | checkstyle: ensure overloaded methods are grouped together #229
+1 | D | [`#145`](https://github.com/se-edu/addressbook-level2/pull/145) | Set up checkstyle #123
 
 ---
 
