@@ -31,6 +31,11 @@ Effort| Type | PR | Issue
 
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#253`](https://github.com/se-edu/addressbook-level4/pull/253) | [Add unit tests for person's fields classes](https://github.com/se-edu/addressbook-level4/issues/172)
+2 | D | [`#34`](https://github.com/oss-generic/process/pull/34) | Improve ordering of import statements in Java Coding Standard
+
 ---
 
 ### Week 6
