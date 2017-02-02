@@ -22,6 +22,14 @@ Effort| Type | PR | Issue
 ---
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#1083`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1083) | Highlight Lab: Spotlight does not fill up whole screen in PowerPoint 2016
+1 | R | [`#1089`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1089) | Sync Agenda: Highlighted agenda does not follow alignment of original text
+4 | L | - | Support for preservation of animations in Paste to Group
+2 | L | - | Implementation of Replace Clipboard Shape functionality
+2 | L | - | Exploring auto-deployment features in Travis CI for PowerPointLabs website
+
 ---
 ### Week 5
 
