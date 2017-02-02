@@ -96,7 +96,7 @@
 [[Github Profile](https://github.com/kychua)]
 [[Progress](kaYi/KaYi-Progress.md)]
 
-* Expert areas: Python, Testing, Data Science
+* Expert areas: Python, Documentation, Data Science
 * Projects: SymPy, se-edu
 
 
