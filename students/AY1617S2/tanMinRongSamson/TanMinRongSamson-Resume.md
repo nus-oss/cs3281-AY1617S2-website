@@ -71,6 +71,17 @@ June 2012 - September 2012 (3 months) <br>
 ***Responsibilities***
 Self-directed learning of Houdini and completing a Houdini-based project (Procedural Jellyfish).
 
+OSS Contributions
+-----------------
+*   matplotlib
+    *   Contributions
+        *   [Raise exception if negative height or width is passed to axes()](https://github.com/matplotlib/matplotlib/pull/7783)
+        *   [Add short-circuit return to matplotlib.artist.setp if input is length 0](https://github.com/matplotlib/matplotlib/pull/7801)
+        *   [better input validation on `fill_between`](https://github.com/matplotlib/matplotlib/pull/7817)
+*   scikit-learn
+    *   Contributions
+        *   [Add prominent mention of Laplacian Eigenmaps](https://github.com/scikit-learn/scikit-learn/pull/8155)
+
 Skills
 --------
 **Programming**
@@ -88,8 +99,8 @@ pandas, scikit-learn, openCV
 
 **Tools**
 
-*   **Proficient:** Atom, SourceTree, git, Travis CI, Coveralls
-*   **Familiar:** Eclipse, VS14, Xcode, JUnit, Codacy
+*   **Proficient:** Atom, SourceTree, git
+*   **Familiar:** Eclipse, VS14, Xcode, Travis CI, Coveralls
 
 **Other Skills**
 
@@ -108,7 +119,8 @@ Hackathons
 Projects
 --------
 
-*   moodify (Lead Hacker)
+*   [oss-bot](https://github.com/samsontmr/oss-bot)
+*   [moodify](https://github.com/samsontmr/moodify) (Lead Hacker)
 *   Matplotlib (Contributor)
 *   TEAMMATES (Contributor)
 *   Interactive Schrödinger’s Equation Probability Density Visualizer (Designer & Developer)
