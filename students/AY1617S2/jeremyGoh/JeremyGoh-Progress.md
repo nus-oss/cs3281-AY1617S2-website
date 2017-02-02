@@ -22,7 +22,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#64`](https://github.com/se-edu/addressbook-level3/pull/64) | Set up Travis CI
 
 ---
 ### Week 5
