@@ -24,6 +24,12 @@
 
 ### Week 4
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  1   |  R   | [`#6402`](https://github.com/TEAMMATES/teammates/pull/6402) | adminHome.js does not URL encode form data before passing it on as GET params |
+|  2   |  D   | [`#6411`](https://github.com/TEAMMATES/teammates/pull/6411) | Instructor create question: New question does not copy 'recipient limit' from previous question |
+|  2   |  D   | [`#6508`](https://github.com/TEAMMATES/teammates/pull/6508) | Upgrade instance class to F2 |
+
 ---
 
 ### Week 5
