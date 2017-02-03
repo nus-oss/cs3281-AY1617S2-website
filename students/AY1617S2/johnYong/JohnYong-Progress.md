@@ -34,6 +34,11 @@
 
 ### Week 5
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  2?  |  D   | [`#6494`](https://github.com/TEAMMATES/teammates/pull/6494) | InstructorFeedbackEditPage uses -1 as question number of the new question |
+|  2?  |  D   | [`#6521`](https://github.com/TEAMMATES/teammates/pull/6521) | CI tests skipped after merge branch |
+
 ---
 
 ### Week 6
