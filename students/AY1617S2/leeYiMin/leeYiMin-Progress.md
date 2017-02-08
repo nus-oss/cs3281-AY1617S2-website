@@ -22,6 +22,11 @@ Effort| Type | PR | Issue
 ---
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#6392`](https://github.com/TEAMMATES/teammates/pull/6392) | student feedback results view: rubric stats: show stats for 'received' responses #3744  
+1 | D | [`#6517`](https://github.com/TEAMMATES/teammates/pull/6517) | InstructorCourseRemindActionTest: refactor duplicated code #6516 
+1 | R | [`#6494`](https://github.com/TEAMMATES/teammates/pull/6494) | InstructorFeedbackEditPage uses -1 as question number of the new question #6473
 ---
 ### Week 6
 
