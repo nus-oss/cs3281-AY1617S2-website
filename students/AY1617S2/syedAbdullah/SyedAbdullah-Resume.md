@@ -48,7 +48,7 @@ Singapore Civil Defence Force (Mar 2013 &mdash; Mar 2015)
 Technical Skills
 ---
 * Languages &mdash; C, C#, Python, Java, HTML/CSS, JavaScript, LaTeX
-* Frameworks &mdash; Django, Flask, Laravel, CodeIgniter, React/Redux, Vue
+* Frameworks &mdash; Django, CodeIgniter, React/Redux, Vue
 * Software &mdash; Git, Travis CI
 
 Community Service
