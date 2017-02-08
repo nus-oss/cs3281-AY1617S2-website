@@ -35,7 +35,14 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+8 | D | [`#1087`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1087) | auto-animate doesn't consider line shapes #661
+1 | R | [`#1089`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1089) | Sync Agenda: Highlighted agenda does not follow alignment of original text #1089
+1 | R | [`#1092`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1092) | Provide a way to prevent revealing future agenda items #695
+1 | R | [`#1109`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1109) | StyleCop: Enable Namespace, Class and Namespace Directives rules #1081
+1 | R | [`#1111`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1111) | PositionsLab: Snap unit tests fail due to test set-up issues #1110
+1 | R | [`#1117`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1117) | Some tests fail when run after FT_TextFragmentsTest #1116
+1 | O | - | Crop Lab Docs (Crop To Aspect Ratio, Crop Out Padding)
+1 | L | - | Merge Jamos and Heng Le's Crop Lab features
 
 ---
 ### Week 6
