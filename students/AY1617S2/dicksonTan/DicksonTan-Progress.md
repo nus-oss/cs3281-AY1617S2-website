@@ -21,6 +21,7 @@ Effort| Type | PR | Issue
 ---
 ### Week 4
 
+Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 1 | R | [`#6436`](https://github.com/TEAMMATES/teammates/pull/6436) | Refactor FeedbackQuestionsLogic.java
 1 | R | [`#6452`](https://github.com/TEAMMATES/teammates/pull/6452) | Refactor some duplicated methods in *action classes
@@ -28,6 +29,7 @@ Effort| Type | PR | Issue
 ---
 ### Week 5
 
+Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 2 | D | [`#6425`](https://github.com/TEAMMATES/teammates/pull/6425) | Deleted students trying to join: handle the NPE
 2 | D | [`#6514`](https://github.com/TEAMMATES/teammates/pull/6514) | Tidy up email templates
