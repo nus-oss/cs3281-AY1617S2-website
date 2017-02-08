@@ -67,7 +67,7 @@ course.
 Read, Update, Delete) operations
 	- Developed GUI using JavaFX
 	- Implemented undo/redo features
-	- Wrote the majority of automated GUI test cases and some integration test cases using JUnit.
+	- Wrote the majority of automated GUI test cases and some integration test cases using JUnit, which helps to achieve 93% test case coverage.
 	- Contributed to user guide and developer guide
 
 - **Teaching Assistant in Programming Course**
@@ -80,9 +80,9 @@ discussion group every week and graded student’s programmes
 	
 	Accomplishments:
 	
-	- Able to teach the concept of abstraction and recursion to students
-	- Able to get along well with students
-	- Obtained teamwork experience
+	- Conducted weekly tutorial to facilitate learning process of 8 students.
+	- Explained the concept of abstraction and recursion clearly to student.
+	- Coordinated with other 10 tutors in setting and marking tasks for students
 
 - **School Project: NUSDing - NUS SoC Orbital 2016, Apollo 11
 Achievement**
