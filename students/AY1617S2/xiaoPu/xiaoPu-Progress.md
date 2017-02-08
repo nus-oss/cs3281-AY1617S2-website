@@ -31,6 +31,17 @@ Effort| Type | PR | Issue
 ---
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#6382`](https://github.com/TEAMMATES/teammates/pull/6382) | instructorFeedbackSessionAdd form: Give an edit links to both sentences #2305
+1 | R | [`#6517`](https://github.com/TEAMMATES/teammates/pull/6517) | InstructorCourseRemindActionTest: refactor duplicated code #6516
+
+Other work:
+
+Effort | Work
+:----:|:----
+4 | Study CheckStyle and propose additional CheckStyle rule for teammates [`#6519`](https://github.com/TEAMMATES/teammates/issues/6519)
+
 ---
 ### Week 6
 
