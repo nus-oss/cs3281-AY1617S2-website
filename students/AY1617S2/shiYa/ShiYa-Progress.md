@@ -20,7 +20,10 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 4
-
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | L | - | Investigate UI and designer inconsistencies
+1 | L | - | Solving failing FT issue on PPT2010
 ---
 ### Week 5
 

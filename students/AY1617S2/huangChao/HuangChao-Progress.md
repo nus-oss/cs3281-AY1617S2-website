@@ -21,6 +21,12 @@ Effort| Type | PR | Issue
 
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#145`](https://github.com/se-edu/addressbook-level2/pull/145) | [Set up checkstyle](https://github.com/se-edu/addressbook-level2/issues/123)
+2 | D | [`#251`](https://github.com/se-edu/addressbook-level4/pull/251) | [checkstyle: ensure overloaded methods are grouped together](https://github.com/se-edu/addressbook-level4/issues/229)
+2 | D | [`#257`](https://github.com/se-edu/addressbook-level4/pull/257) | [checkstyle: ensure consistent ordering of imports](https://github.com/se-edu/addressbook-level4/issues/230)
+
 ---
 
 ### Week 5

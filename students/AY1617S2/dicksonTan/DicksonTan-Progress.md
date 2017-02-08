@@ -20,6 +20,8 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 4
+1 | R | [`#6436`](https://github.com/TEAMMATES/teammates/pull/6436) | Refactor FeedbackQuestionsLogic.java
+1 | R | [`#6452`](https://github.com/TEAMMATES/teammates/pull/6452) | Refactor some duplicated methods in *action classes
 
 ---
 ### Week 5

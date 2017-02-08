@@ -82,6 +82,27 @@
     * Aim to get some content merged before mid-semester break.
     * If there are others in the class working on the same topic, coordinate among yourselves to avoid duplication 
       of work.
+    * Some things to keep in mind when writing the 'book chapter':
+      * Because we are starting from scratch, we do not have an example to follow.
+        You have some freedom in deciding how you want to organize the content in your topic, 
+        at least in the the first draft. 
+        We can converge on a common structure at a later stage (that could even be done in the next iteration 
+        done by the next batch).
+      * Despite using the name ‘book chapter’ for this deliverable (for the lack of a better term), 
+        it is not a normal book. It’s more of an online repository of learning resources. 
+        Therefore, don’t try to follow the structure of normal text books. 
+      * Related to the above, there’s no need to use a very formal tone that you see in some text books. 
+        Instead, prefer an informal tone you would use in a blog post or an stack overflow question.
+      * The book is aimed at typical SE students, but not necessarily SE students in SoC. 
+      * Don’t assume the reader has any prior knowledge of the topic. Just because it is covered in a core 
+        module in SoC may not mean it will be covered in other colleges.
+      * Just like in lightning talks, try to include content that is highly useful and relevant to the reader. 
+        The objective is to help the reader, not to demonstrate your expertise. The latter is only a 
+        by-product of the former.
+      * Do not re-invent the wheel by writing a lot of original content. 
+        Instead, give a brief high-level view and point to other existing resources that you recommend the reader to use. 
+        The value you add is in the form of assembling the best resources into a meaningful sequence, 
+        NOT creating new content.  
 
 ## Week 5
 

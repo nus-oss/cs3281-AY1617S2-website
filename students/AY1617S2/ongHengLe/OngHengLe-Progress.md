@@ -23,7 +23,12 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+4 | D | [`#1083`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1083) | Highlight Lab: Spotlight does not fill up whole screen in PowerPoint 2016 #1071
+1 | D | [`#1095`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1095) | Shapes Lab: Dialog boxes are not properly sized #1094 
+1 | R | [`#1091`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1091) | Write Test for Rotate or Duplicate and Rotate function #1053
+1 | L | - | Create icons for crop out padding and crop to aspect ratio
+1 | L | - | Functional tests for crop out padding
+1 | L | - | Functional tests for crop to aspect ratio
 
 ---
 ### Week 5

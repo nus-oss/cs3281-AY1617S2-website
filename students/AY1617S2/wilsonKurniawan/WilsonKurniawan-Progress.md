@@ -47,6 +47,26 @@ Effort| Type
 ---
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | 6510 | Duplicate "the" in filterPanel.tag
+1 | R | 6508 | Upgrade instance class to F2
+1 | R | 6497 | Duplicate "the" in java files
+1 | R | 6489 | Remove unused parameter in InstructorCoursesDetailsPage.java
+1 | R | 6460 | Duplicate "the" in jsp files
+1 | R | 6467 | Instructions for enabling GodMode are outdated
+1 | R | 6449 | ActivityLogEntry should not have dependency to GateKeeper
+1 | R | 6443 | Update user map for Dec 2016
+1 | R | 6419 | Change HttpRequestHelper.getValueFromParamMap to getRequestParamValue in *Action classes
+1 | R | 6394 | Dev guide: describe how to verify each step is done correctly
+
+Other works:
+
+Effort| Type 
+:----:|:----:
+3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+2 | Release V5.94 management
+
 ---
 ### Week 5
 
