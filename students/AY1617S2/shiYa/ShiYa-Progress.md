@@ -26,7 +26,16 @@ Effort| Type | PR | Issue
 1 | L | - | Solving failing FT issue on PPT2010
 ---
 ### Week 5
-
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [#45](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/45) | Give better example for 'blur all except selected' feature #797
+1 | D | [#46](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/46) | User docs: order labs alphabetically #1093
+2 | D | [#1112](https://github.com/PowerPointLabs/PowerPointLabs/pull/1112) | Effects Lab: Blur/recolor all except selected changes original slide #1108
+1 | R | [#1111](https://github.com/PowerPointLabs/PowerPointLabs/pull/1111) | PositionsLab: Snap unit tests fail due to test set-up issues #1110
+1 | R | [#1097](https://github.com/PowerPointLabs/PowerPointLabs/pull/1097) | Sync background producing many extra undo entries #754
+1 | R | [#1109](https://github.com/PowerPointLabs/PowerPointLabs/pull/1109) | StyleCop: Enable Namespace, Class and Namespace Directives rules #1081
+1 | L | - | Timer lab pane using WPF and ActionFrameWork
+2 | L | - | Timer lab: Blocks timer prototype
 ---
 ### Week 6
 
