@@ -34,6 +34,13 @@
 
 ### Week 5
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  1   |  R   | [`#6493`](https://github.com/TEAMMATES/teammates/pull/6493) | HTML not sanitized in the admin home page |
+|  2   |  D   | [`#6494`](https://github.com/TEAMMATES/teammates/pull/6494) | InstructorFeedbackEditPage uses -1 as question number of the new question |
+|  2   |  R   | [`#6496`](https://github.com/TEAMMATES/teammates/pull/6496) | Update design.md to reflect on the current application architecture |
+|  2   |  D   | [`#6521`](https://github.com/TEAMMATES/teammates/pull/6521) | CI tests skipped after merge branch |
+
 ---
 
 ### Week 6
