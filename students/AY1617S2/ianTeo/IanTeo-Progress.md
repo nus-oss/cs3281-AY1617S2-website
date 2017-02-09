@@ -35,7 +35,9 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [#1117](https://github.com/PowerPointLabs/PowerPointLabs/pull/1117) | Some tests fail when run after FT_TextFragmentsTest #1116
+4 | O | - | Experiment on tests that are failing on ppt 2010 (Currently unable to fix)
+2 | O | - | Sync Labs position, size, pattern fill, shadow
  
 ---
 ### Week 6
