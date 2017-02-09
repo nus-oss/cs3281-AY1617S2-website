@@ -70,6 +70,24 @@ Effort| Type
 ---
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | 6544 | Minor error under "Bug reports and feature requests" in contact.jsp
+1 | R | 6543 | Remove FeedbackQuestionBundle::getRecipientEmails method
+1 | R | 6521 | CI tests skipped after merge branch
+1 | R | 6517 | InstructorCourseRemindActionTest: refactor duplicated code
+1 | R | 6494 | InstructorFeedbackEditPage uses -1 as question number of the new question
+1 | R | 6490 | Refactor getParticipantListFromParams(String) in *action classes
+1 | R | 6454 | Student name in emails are not HTML-sanitized
+2 | R | 6351 | Create issue templates
+
+Other works:
+
+Effort| Type 
+:----:|:----:
+3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+3 | Release V5.95 management
+
 ---
 ### Week 6
 
