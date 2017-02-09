@@ -31,6 +31,15 @@ Effort| Type | PR | Issue
 ---
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#1097`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1097) | Sync background producing many extra undo entries #754
+4 | D | [`#1092`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1092) | Provide a way to prevent revealing future agenda items #695
+1 | R | [`#1100`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1100) | Narrations Lab: Remove magic numbers #1099
+1 | R | [`#1112`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1112) | Effects Lab: Blur/recolor all except selected changes original slide #1108
+1 | R | [`#1109`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1109) | StyleCop: Enable Namespace, Class and Namespace Directives rules #1081
+2 | L | - | Writing Crop Lab Docs
+
 ---
 ### Week 6
 
