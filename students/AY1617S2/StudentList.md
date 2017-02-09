@@ -81,7 +81,7 @@
 [[Github Profile](https://github.com/Skaty)]
 [[Progress](syedAbdullah/SyedAbdullah-Progress.md)]
 
-* Expert areas: JavaScript, Data/Content Transfer & Processing
+* Expert areas: Erlang, Information Transfer & Processing, CI/Jenkins
 * Projects: pdf.js, PowerPointLabs
 
 ------------------------------------------------

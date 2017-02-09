@@ -33,6 +33,15 @@ Effort| Type | PR | Issue
 ---
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+8 | D | [`#1109`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1109) | StyleCop: Enable Namespace, Class and Namespace Directives rules
+2 | D | [`#1111`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1111) | PositionsLab: Snap unit tests fail due to test set-up issues
+1 | R | [`#1112`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1112) | Effects Lab: Blur/recolor all except selected changes original slide
+1 | R | [`#1115`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1115) | Highlight Point doesn't work with last bullet
+2 | O | - | Learning on deployment and deploying dev-release-2.8.7.11
+2 | L | - | Implement Replace with Clipboard functionality
+2 | L | - | Implement Merge Selection functionality
 ---
 ### Week 6
 
