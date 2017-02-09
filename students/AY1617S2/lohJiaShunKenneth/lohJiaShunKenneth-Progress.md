@@ -30,6 +30,13 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 5
+:----:|:----:|:-----------|:------
++1 | R | [`#1097`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1097) | Sync background producing many extra undo entries
++1 | R | [`#1081`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1081) | StyleCop: Enable Namespace, Class and Namespace Directives rules
++1 | R | [`#1112`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1112) | Effects Lab: Blur/recolor all except selected changes original slide
++1 | R | [`#1114`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1114) | Highlight Point doesn't work with last bullet
++4 | D | [`#1099`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1099) | Narrations Lab: Remove magic numbers
++4 | L | - | Sync Lab: Alternative copying methods
 
 ---
 ### Week 6
