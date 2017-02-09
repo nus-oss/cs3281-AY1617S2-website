@@ -17,11 +17,14 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 4
+:----:|:----:|:-----------|:------
 2 | D | [`#6402`](https://github.com/TEAMMATES/teammates/pull/6402) | adminHome.js does not URL encode form data before passing it on as GET params #6397
 1 | D | [`#6467`](https://github.com/TEAMMATES/teammates/pull/6467) | Instructions for enabling GodMode are outdated #6466
 
 ---
 ### Week 5
+:----:|:----:|:-----------|:------
+2 | D | [`#6493`](https://github.com/TEAMMATES/teammates/pull/6493) | HTML not sanitized in the admin home page #6492
 
 ---
 ### Week 6
