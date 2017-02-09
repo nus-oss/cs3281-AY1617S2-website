@@ -18,11 +18,16 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-1 | R | 6508 | Upgrade instance class to F2
+1 | R | [`#6508`](https://github.com/TEAMMATES/teammates/pull/6508) | [Upgrade instance class to F2 #6501](https://github.com/TEAMMATES/teammates/issues/6501)
 
 ### Week 5
 
----
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | R | [`#6507`](https://github.com/TEAMMATES/teammates/pull/6507) | [Separate the UI part and logic part in ActivityLogEntry #6503](https://github.com/TEAMMATES/teammates/issues/6503) [Standardize the way to generate ActivityLogEntry or log message #6504](https://github.com/TEAMMATES/teammates/issues/6504)
+1 | R | [`#6510`](https://github.com/TEAMMATES/teammates/pull/6510) | [Duplicate "the" in filterPanel.tag #6461](https://github.com/TEAMMATES/teammates/issues/6461)
+4 | O | Discussion and Research| [Moving student to another section does not delete outdated responses #6470](https://github.com/TEAMMATES/teammates/issues/6470)
+
 
 ### Week 6
 
