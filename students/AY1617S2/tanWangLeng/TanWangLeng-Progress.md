@@ -45,6 +45,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -52,6 +53,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -59,6 +61,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -66,6 +69,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -73,6 +77,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -80,6 +85,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -87,6 +93,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -94,3 +101,4 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
