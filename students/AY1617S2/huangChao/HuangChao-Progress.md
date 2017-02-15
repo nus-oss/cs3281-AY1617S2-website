@@ -40,6 +40,11 @@ Effort| Type | PR | Issue
 
 ### Week 6
 
+Effort| Type | PR | Issu
+:----:|:----:|:-----------|:------
+1 | R | [`#253`](https://github.com/se-edu/addressbook-level4/pull/253) | Add unit tests for person's fields classes
+2 | R | [`#272`](https://github.com/se-edu/addressbook-level4/pull/272) | Split Parser into command-specific classes
+
 ---
 
 ### Week 7
