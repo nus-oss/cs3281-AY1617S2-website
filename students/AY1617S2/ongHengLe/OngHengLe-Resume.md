@@ -20,7 +20,18 @@ Director's List (AY2011/2012 and AY2010/2011)
 
 <br>
 
-## Work Experiences
+## Project Experiences
+
+January 2017 - Present: <br>
+**Contributor for Microsoft's Visual Studio Code** <br>
+*Visual Studio Code is a free open-source code editor, <br>
+which had 500,000 monthly users when it launched in April 2016* <br>
+**Merged pull requests:** 
+[#19667](https://github.com/Microsoft/vscode/pull/19667), 
+[#18702](https://github.com/Microsoft/vscode/pull/18702) <br>
+**Pending pull requests:** 
+[#18965](https://github.com/Microsoft/vscode/pull/18965) <br>
+Fixed a frequent visual bug involving drag-and-drop file operations
 
 June 2012 - August 2012: <br>
 **Singapore - MIT GAMBIT Summer Programme** <br>
@@ -37,8 +48,9 @@ Tools gained: <br>
 
 ## Technical Skills
 
+Expert area: [Performance Profiling](https://github.com/se-edu/learningresources/blob/master/contents/performance/PerformanceProfiling.md) <br>
 Familiar with C#, C++ and Java <br>
-Worked with JavaScript and ActionScript <br>
+Worked with TypeScript, JavaScript and ActionScript <br>
 Software: Visual Studio 2015, Eclipse, Git, Perforce <br>
 
 <br>
