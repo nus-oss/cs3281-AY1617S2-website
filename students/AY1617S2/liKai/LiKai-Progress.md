@@ -28,6 +28,10 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 6
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6546`](https://github.com/TEAMMATES/teammates/pull/6546) | [instructorStudentList: add a 'mailto' link under the list of emails #1682](https://github.com/TEAMMATES/teammates/issues/1682)
+1 | D | [`#6553`](https://github.com/TEAMMATES/teammates/pull/6553) | [Images used in the project are not optimized #6552](https://github.com/TEAMMATES/teammates/issues/6552)
 
 ---
 ### Week 7

@@ -46,12 +46,20 @@ Arrowed Me is an Android app for people to schedule tasks by requesting tasks fr
 
 #### Programming Languages
 
-JavaScript, Java, Python, HTML/CSS
+JavaScript, Swift, Python, HTML/CSS
 
 #### Databases
 
-PostgresQL, Firebase
+PostgresQL
 
 #### Frameworks & Libraries
 
-Vue, React, Node, GraphQL, Webpack, Android Development, iOS Development
+Vue, React, Node, GraphQL, Webpack, iOS Development
+
+## Open Source Contributions
+
+### Webpack
+Webpack is a module bundler for modern JavaScript applications.
+
+**Pull Requests:**
+[#4127](https://github.com/webpack/webpack/pull/4127)
