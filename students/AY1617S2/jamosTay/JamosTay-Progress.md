@@ -43,6 +43,15 @@ Effort| Type | PR | Issue
 ---
 ### Week 6
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+8 | D | [`#1097`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1121) | Highlight Lab: Add 'Remove Highlight' functionality #1107
+4 | D | [`#1115`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1115) | Highlight Point doesn't work with last bullet #1114
+2 | D | [`#2`](https://github.com/PowerPointLabs-AY1617-CS3282/PowerPointLabs/pull/2) | Merging @jamos-tay and @initialshl crop lab features
+2 | D | [`#5`](https://github.com/PowerPointLabs-AY1617-CS3282/PowerPointLabs/pull/5) | Add Crop Lab Icons
+1 | R | [`#6`](https://github.com/PowerPointLabs-AY1617-CS3282/PowerPointLabs/pull/6) | Fix misplaced Crop Lab icons #6
+
+
 ---
 ### Week 7
 
