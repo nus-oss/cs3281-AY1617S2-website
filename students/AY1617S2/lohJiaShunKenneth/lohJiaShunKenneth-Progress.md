@@ -24,6 +24,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 6
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
++4 | D | [`#1113`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1113) | Design new minimized icons
++1 | D | [`#1118`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1118) | User can see a moving magnifier near the tip of the eyedropper
++16 | L | - | Porting SyncLab GUI from Winforms to WPF
+
 ---
 ### Week 7
 
