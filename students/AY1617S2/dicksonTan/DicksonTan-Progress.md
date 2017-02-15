@@ -11,6 +11,7 @@ Effort| Type | PR | Issue
 1 | D | [`#6362`](https://github.com/TEAMMATES/teammates/pull/6362) | "magic" string in "InstructorFeedbackRemindParticularStudentsAction"
 
 ---
+
 ### Week 3
 
 Effort| Type | PR | Issue
@@ -19,6 +20,7 @@ Effort| Type | PR | Issue
 2 | D | [`#6419`](https://github.com/TEAMMATES/teammates/pull/6419) | Change HttpRequestHelper.getValueFromParamMap to getRequestParamValue in *Action classes
 
 ---
+
 ### Week 4
 
 Effort| Type | PR | Issue
@@ -27,6 +29,7 @@ Effort| Type | PR | Issue
 1 | R | [`#6452`](https://github.com/TEAMMATES/teammates/pull/6452) | Refactor some duplicated methods in *action classes
 
 ---
+
 ### Week 5
 
 Effort| Type | PR | Issue
@@ -36,26 +39,34 @@ Effort| Type | PR | Issue
 2 | R | [`#6496`](https://github.com/TEAMMATES/teammates/pull/6496) | Update design.md to reflect on the current application architecture
 
 ---
+
 ### Week 6
 
 ---
+
 ### Week 7
 
 ---
+
 ### Week 8
 
 ---
+
 ### Week 9
 
 ---
+
 ### Week 10
 
 ---
+
 ### Week 11
 
 ---
+
 ### Week 12
 
 ---
+
 ### Week 13
 
