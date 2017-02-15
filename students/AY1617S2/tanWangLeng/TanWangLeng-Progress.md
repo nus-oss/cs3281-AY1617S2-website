@@ -45,7 +45,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#137`](https://github.com/se-edu/addressbook-level2/pull/137) | Add different levels of comparison to equality methods of Person class #122
+1 | R | [`#257`](https://github.com/se-edu/addressbook-level4/pull/257) | checkstyle: ensure consistent ordering of imports #230
+2 | D | [`#253`](https://github.com/se-edu/addressbook-level4/pull/253) | Add unit tests for person's fields classes #172
+2 | R | [`#272`](https://github.com/se-edu/addressbook-level4/pull/272) | Split Parser into command-specific classes #137
 
 ---
 
