@@ -90,6 +90,23 @@ Effort| Type
 
 ---
 ### Week 6
+:----:|:----:|:-----------|:------
+1 | D | 6624 | Bug report: User map does not load
+1 | R | 6604 | Remove getCourseDetails method from CourseLogic
+1 | R | 6599 | Refactor magic number in InstructorCourseEnrollSaveActionTest
+1 | R | 6593 | Wrong usage of Inheritance in *action classes
+1 | R | 6591 | Instructor home page: do not auto-load response rate
+1 | R | 6581 | Enrolling a new student deletes previous student in the list
+1 | D | 6580 | Bug report: AllAccessControlUiTests failure in production server due to wrong password
+1 | R | 6553 | Images used in the project are not optimized
+2 | R | 6453 | Separate common.datatransfer package into sub-packages
+
+Other works:
+
+Effort| Type 
+:----:|:----:
+3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+3 | Release V5.96 management
 
 ---
 ### Week 7
