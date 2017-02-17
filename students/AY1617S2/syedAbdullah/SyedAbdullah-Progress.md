@@ -10,6 +10,7 @@ Effort| Type | PR | Issue
 4 | L | - | Implementation of Paste to Fit Slide and Paste to Cursor
 
 ---
+
 ### Week 3
 
 Effort| Type | PR | Issue
@@ -20,6 +21,7 @@ Effort| Type | PR | Issue
 4 | L | - | Learning on how to integrate linter and other testing tools to AppVeyor CI
 
 ---
+
 ### Week 4
 
 Effort| Type | PR | Issue
@@ -31,6 +33,7 @@ Effort| Type | PR | Issue
 2 | L | - | Exploring auto-deployment features in Travis CI for PowerPointLabs website
 
 ---
+
 ### Week 5
 
 Effort| Type | PR | Issue
@@ -42,26 +45,47 @@ Effort| Type | PR | Issue
 2 | O | - | Learning on deployment and deploying dev-release-2.8.7.11
 2 | L | - | Implement Replace with Clipboard functionality
 2 | L | - | Implement Merge Selection functionality
----
-### Week 6
 
 ---
+
+### Week 6
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#1125`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1125) | Action Framework: Add support for getEnabled
+2 | D | [`#48`](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/48) | Update AboutUs page
+2 | D | [`#49`](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/49) | Vagrant VM fails to initialize
+1 | D | [`#1136`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1136) | Action Framework: Missing ExportEnabledRibbonIdAttribute
+2 | O | - | Learnt website deployment and deployed website changes
+1 | O | - | Deployed dev-release-2.8.7.12
+4 | L | - | Experimentation with automatic website deployment using Travis
+2 | L | - | Ported PasteLab to Action Framework
+1 | L | - | PasteLab Documentation
+
+---
+
 ### Week 7
 
 ---
+
 ### Week 8
 
 ---
+
 ### Week 9
 
 ---
+
 ### Week 10
 
 ---
+
 ### Week 11
 
 ---
+
 ### Week 12
 
 ---
+
 ### Week 13
