@@ -10,6 +10,7 @@ Effort| Type | PR | Issue
 2 | L | - | Shapes Lab and Effects Lab demo
 
 ---
+
 ### Week 3
 
 Effort| Type | PR | Issue
@@ -19,6 +20,7 @@ Effort| Type | PR | Issue
 2 | L | - | Add dialog box for custom crop aspect ratio
 
 ---
+
 ### Week 4
 
 Effort| Type | PR | Issue
@@ -31,6 +33,7 @@ Effort| Type | PR | Issue
 1 | L | - | Functional tests for crop to aspect ratio
 
 ---
+
 ### Week 5
 
 Effort| Type | PR | Issue
@@ -45,13 +48,20 @@ Effort| Type | PR | Issue
 1 | L | - | Merge Jamos and Heng Le's Crop Lab features
 
 ---
+
 ### Week 6
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+8 | D | [`#1118`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1118) | [story] user can see a moving magnifier near the tip of the eyedropper #511
+1 | R | [`#1122`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1122) | Move Remove Highlight test to Unit Test
+1 | R | [`#1137`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1137) | PasteLab: Core + Paste to Fill Slide
+1 | L | - | Convert Crop Lab from WinForm to WPF
+1 | L | - | Convert Crop Lab to Action Framework (CropOutPadding, CropToAspectRatio)
+1 | L | - | Remake Crop Lab icons in .pptx (CropOutPadding, CropToAspectRatio)
 
 ---
+
 ### Week 7
 
 Effort| Type | PR | Issue
@@ -59,6 +69,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 8
 
 Effort| Type | PR | Issue
@@ -66,6 +77,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 9
 
 Effort| Type | PR | Issue
@@ -73,6 +85,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 10
 
 Effort| Type | PR | Issue
@@ -80,6 +93,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 11
 
 Effort| Type | PR | Issue
@@ -87,6 +101,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 12
 
 Effort| Type | PR | Issue
@@ -94,6 +109,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 13
 
 Effort| Type | PR | Issue
