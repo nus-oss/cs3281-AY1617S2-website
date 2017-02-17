@@ -45,6 +45,11 @@
 
 ### Week 6
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  2   |  D   | [`#6581`](https://github.com/TEAMMATES/teammates/pull/6581) | Enrolling a new student deletes previous student in the list |
+|  1   |  R   | [`#6600`](https://github.com/TEAMMATES/teammates/pull/6600) | Add CommentSearchTest to test searching for comments |
+
 ---
 
 ### Week 7
