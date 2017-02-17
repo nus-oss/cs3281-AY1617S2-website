@@ -45,6 +45,11 @@ Effort | Work
 ---
 ### Week 6
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6600`](https://github.com/TEAMMATES/teammates/pull/6600) | Add CommentSearchTest to test searching for comments #6549
+4 | D | [`#6546`](https://github.com/TEAMMATES/teammates/pull/6546) |instructorStudentList: add a 'mailto' link under the list of emails #1682
+
 ---
 ### Week 7
 
