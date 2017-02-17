@@ -9,6 +9,7 @@ Effort| Type | PR | Issue
 4 | D | [`#225`](https://github.com/se-edu/addressbook-level4/pull/225) | Make `GuiHandle::getNode()` return a `<T extends Node> T`
 
 ---
+
 ### Week 3
 
 Effort| Type | PR | Issue
@@ -18,6 +19,7 @@ Effort| Type | PR | Issue
 1 | D | [`#259`](https://github.com/se-edu/addressbook-level4/pull/259) | Update URL of help window
 
 ---
+
 ### Week 4
 
 Effort| Type | PR | Issue
@@ -25,6 +27,7 @@ Effort| Type | PR | Issue
 2 | D | [`#64`](https://github.com/se-edu/addressbook-level3/pull/64) | Set up Travis CI
 
 ---
+
 ### Week 5
 
 Effort| Type | PR | Issue
@@ -32,13 +35,15 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 6
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+8 | D | [`#272`](https://github.com/se-edu/addressbook-level4/pull/272) | Split Parser into command-specific classes
 
 ---
+
 ### Week 7
 
 Effort| Type | PR | Issue
@@ -46,6 +51,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 8
 
 Effort| Type | PR | Issue
@@ -53,6 +59,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 9
 
 Effort| Type | PR | Issue
@@ -60,6 +67,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 10
 
 Effort| Type | PR | Issue
@@ -67,6 +75,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 11
 
 Effort| Type | PR | Issue
@@ -74,6 +83,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 12
 
 Effort| Type | PR | Issue
@@ -81,6 +91,7 @@ Effort| Type | PR | Issue
  |  |  | 
 
 ---
+
 ### Week 13
 
 Effort| Type | PR | Issue
