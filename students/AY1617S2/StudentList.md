@@ -170,7 +170,7 @@
 [[Progress](leeYiMin/leeYiMin-Progress.md)]
 
 * Expert areas: Java, Dev Ops (Gradle), Optimization
-* Projects: TEAMMATES
+* Projects: TEAMMATES, ESLint
 
 
 ## LI KAI
