@@ -30,6 +30,8 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 5
+
+Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 +1 | R | [`#1097`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1097) | Sync background producing many extra undo entries
 +1 | R | [`#1081`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1081) | StyleCop: Enable Namespace, Class and Namespace Directives rules
