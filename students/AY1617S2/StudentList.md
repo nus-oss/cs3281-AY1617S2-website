@@ -21,7 +21,7 @@
 [[Github Profile](https://github.com/AngShiYa)]
 [[Progress](shiYa/ShiYa-Progress.md)]
 
-* Expert areas: C#, UIX, Testing
+* Expert areas: C#, UI/UX, Analytics
 * Projects: freeCodeCamp, NUnit, PowerPointLabs
 
 
