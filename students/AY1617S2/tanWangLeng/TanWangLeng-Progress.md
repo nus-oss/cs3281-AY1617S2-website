@@ -6,10 +6,10 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-1 | D | [`#140`](se-edu/addressbook-level2#140) | Set up Travis CI
-1 | D | [`#124`](se-edu/addressbook-level2#124) | Fix code style violation
-1 | D | [`#62`](se-edu/addressbook-level3#39) | executable jar file doesn't run
-2 | D | [`#119`](se-edu/addressbook-level2#119`) | Add unit tests for DeleteCommand class
+1 | D | [`#140`](https://github.com/se-edu/addressbook-level2/pull/140) | Set up Travis CI
+1 | D | [`#124`](https://github.com/se-edu/addressbook-level2/pull/124) | Fix code style violation
+1 | D | [`#62`](https://github.com/se-edu/addressbook-level3/pull/39) | executable jar file doesn't run
+2 | D | [`#119`](https://github.com/se-edu/addressbook-level2/pull/119`) | Add unit tests for DeleteCommand class
 
 ---
 
@@ -45,6 +45,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+1 | R | [`#137`](https://github.com/se-edu/addressbook-level2/pull/137) | Add different levels of comparison to equality methods of Person class #122
+1 | R | [`#257`](https://github.com/se-edu/addressbook-level4/pull/257) | checkstyle: ensure consistent ordering of imports #230
+2 | D | [`#253`](https://github.com/se-edu/addressbook-level4/pull/253) | Add unit tests for person's fields classes #172
+2 | R | [`#272`](https://github.com/se-edu/addressbook-level4/pull/272) | Split Parser into command-specific classes #137
 
 ---
 
@@ -52,6 +56,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -59,6 +64,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -66,6 +72,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -73,6 +80,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -80,6 +88,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -87,6 +96,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
 
 ---
 
@@ -94,3 +104,4 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+ |  |  | 
