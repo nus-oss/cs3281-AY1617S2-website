@@ -143,7 +143,7 @@
 [[Progress](tanWangLeng/TanWangLeng-Progress.md)]
 
 * Expert areas: Security, Java, Garbage Collection
-* Projects: GitHub's Electron, Addressbook
+* Projects: [GitHub's Electron](https://github.com/electron/electron), [SE-EDU](https://github.com/se-edu)
 
 ------------------------------------------------
 
