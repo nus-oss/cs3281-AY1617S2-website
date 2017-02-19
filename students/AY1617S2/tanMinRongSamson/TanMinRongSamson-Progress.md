@@ -39,14 +39,13 @@ Effort| Type | PR | Issue
 8 | D | [`#3`](https://github.com/samsontmr/oss-bot-js/pull/3), [`#6`](https://github.com/samsontmr/oss-bot-js/pull/6) | Set up node.js environment on Heroku and GitHub; Validate PRs using regex specified in config variables; Comment on offending PRs
 4 | O | [`#6536`](https://github.com/TEAMMATES/teammates/pull/6536) | Research and set up SonarQube for code quality check, unable to complete due to limitations of GAE
 
-
 ---
 ### Week 6
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-1 | R | [`#6490`](https://github.com/TEAMMATES/teammates/pull/6490) |  Refactor getParticipantListFromParams(String) in *action classes
-1 | R | [`#6473`](https://github.com/TEAMMATES/teammates/pull/6473) | InstructorFeedbackEditPage uses -1 as question number of the new question
+1 | R | [`#6491`](https://github.com/TEAMMATES/teammates/pull/6491) |  Refactor getParticipantListFromParams(String) in *action classes
+1 | R | [`#6494`](https://github.com/TEAMMATES/teammates/pull/6494) | InstructorFeedbackEditPage uses -1 as question number of the new question
 1 | R | [`#6499`](https://github.com/TEAMMATES/teammates/pull/6499) | Refactor testDatePickerScripts in instructorFeedbackPageUiTest.java
 1 | R | [`#6521`](https://github.com/TEAMMATES/teammates/pull/6521) | CI tests skipped after merge branch
 8 | D | [#6351](https://github.com/TEAMMATES/teammates/pull/6351) | Create issue templates
