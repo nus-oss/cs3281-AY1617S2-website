@@ -48,7 +48,7 @@ Tools gained: <br>
 
 ## Technical Skills
 
-Expert area: [Performance Profiling](https://github.com/se-edu/learningresources/blob/master/contents/performance/PerformanceProfiling.md) <br>
+Expert area: [Performance Profiling](https://github.com/se-edu/learningresources/pull/10) <br>
 Familiar with C#, C++ and Java <br>
 Worked with TypeScript, JavaScript and ActionScript <br>
 Software: Visual Studio 2015, Eclipse, Git, Perforce <br>
