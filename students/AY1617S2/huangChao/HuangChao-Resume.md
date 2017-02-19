@@ -4,9 +4,6 @@
 
 <img src="HuangChao.png" width="100" /><br>
 
-<i class="fa fa-envelope fa-fw" aria-hidden="true"></i> huangchao0825@gmail.com<br>
-<i class="fa fa-phone fa-fw" aria-hidden="true"></i> +65 98900145<br>
-
 ## Education
 
 * **National University of Singapore (Jan 2014 - July 2017)** <br>
@@ -68,8 +65,10 @@
 * **Software Engineering**<br>
   Android, iOS, Web (Front-end: AngularJS, Back-end: LAMP, Node.js)
 
-## Links
+## Contact Info
 
+<i class="fa fa-envelope fa-fw" aria-hidden="true"></i> huangchao0825@gmail.com<br>
+<i class="fa fa-phone fa-fw" aria-hidden="true"></i> +65 98900145<br>
 <i class="fa fa-github fa-lg fa-fw" aria-hidden="true"></i>
 <a href="https://github.com/chao1995">https://github.com/chao1995</a><br>
 <i class="fa fa-linkedin-square fa-lg fa-fw" aria-hidden="true"></i>
