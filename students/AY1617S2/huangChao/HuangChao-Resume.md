@@ -59,11 +59,21 @@
 
 ## Skills
 
-* **Programming Languages**<br>
-  C++, Java, Python, OCaml, Swift, JavaScript, PHP, Matlab.
+* **Programming Languages**
+  * C++: main language for competitive programming ([codes](https://github.com/chao1995/competitive-programming)).
+  * Java: used in developing desktop application ([codes](https://goo.gl/Au2E0A)) and Android apps.
+  * Python: used in machine learning ([codes](https://github.com/chao1995/cbir-svc)), web development ([codes](https://github.com/chao1995/uvalovers)) and scripting.
+  * OCaml: used in developing a compiler for Mini Go language ([codes](https://github.com/chao1995/mini-go-compiler)).
+  * JavaScript: used in front-end web development and chrome extensions ([codes](https://github.com/evansendra/quora-upvotes/pull/3)).
+  * Matlab: used in Coursera Machine Learning course assignments ([codes](https://github.com/chao1995/coursera-machine-learning)).
 
-* **Software Engineering**<br>
-  Android, iOS, Web (Front-end: AngularJS, Back-end: LAMP, Node.js)
+* **Mobile Development**
+  * Android: work experience with libraries including Dagger, Mockito, Espresso
+  * iOS: work experience with Swift, familiar with Objective C
+
+* **Web Development**
+  * Front-end: work experience with AngularJS 1.
+  * Back-end: work experience with LAMP and Node.js
 
 ## Contact Info
 
