@@ -43,6 +43,23 @@
 * **NUS CS3233 Competitive Programming (AY15/16 Semester 2)**<br>
   This course covers data structures and algorithms in graph theory, number theory, string processing and computational geometry as preparation for NUS ACM ICPC teams.
 
+## Open Source Contributions
+
+* **SE-EDU addressbook-level4** ([Source](https://github.com/se-edu/addressbook-level4))
+  * Work on enforcing checkstyle rules, testing.
+  * [List of PRs](https://goo.gl/Au2E0A)
+
+* **SE-EDU learning resources** ([Source](https://github.com/se-edu/learningresources))
+  * Author [an article on writing testable code](https://github.com/se-edu/learningresources/pull/13).
+
+* **Zulip** ([Source](https://github.com/zulip/zulip))
+  * Work on front-end bug-fixes.
+  * [List of PRs](https://goo.gl/0TjIyL)
+
+* **hexo-theme-hiero** ([Source](https://github.com/iTimeTraveler/hexo-theme-hiero))
+  * Spot a front-end bug and submit bug-fixes.
+  * [List of PRs](https://goo.gl/Mx6ZXm)
+
 ## Skills
 
 * **Programming Languages**<br>
