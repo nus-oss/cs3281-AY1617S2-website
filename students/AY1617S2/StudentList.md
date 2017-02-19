@@ -194,7 +194,7 @@
 [[Progress](dicksonTan/DicksonTan-Progress.md)]
 
 * Expert areas: python, security, functional programming
-* Projects: TEAMMATES
+* Projects: TEAMMATES, Scikit-Learn, SymPy
 
 
 ## TAN MIN RONG SAMSON
