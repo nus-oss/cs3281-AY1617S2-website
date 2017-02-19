@@ -51,17 +51,17 @@ Information Systems Intern
 
 ### Contributions to OSS Projects
 
-External Projects:
-* [GitHub's Electron](https://github.com/electron/electron) (Contributor)
-    * [Fix webpreferences not accepting numeric options #8542](https://github.com/electron/electron/pull/8542)
-    * [Support message, nameFieldLabel and showsTagField for macOS dialog #8556](https://github.com/electron/electron/pull/8556)
-
-Internal Projects (for CS3281&2: Thematic Systems Project I/II):
-* [se-edu](https://github.com/se-edu) (Contributor)
+* [se-edu](https://se-edu.github.io/) ([Committer](https://se-edu.github.io/docs/Team.html))
     * Progress Report: [Link](https://github.com/nus-oss/cs3281-website/blob/master/students/AY1617S2/tanWangLeng/TanWangLeng-Progress.md)
-    * Worked on improving the Java desktop projects used by CS2103T Software Engineering teaching team, that will be used by students as the foundation of their graded project.
-    * [se-edu's learningresources](https://github.com/se-edu/learningresources/): Contributed to book chapters
+    * Worked on improving the Java desktop projects used by CS2103T Software Engineering teaching team, that will be used by NUS undergraduate students as the foundation of their graded project.
+    * [se-edu's learningresources](https://github.com/se-edu/learningresources/): Contributed to book chapter:
         * [Cross Site Scripting](https://github.com/se-edu/learningresources/pull/4)
+
+
+* [GitHub's Electron](https://github.com/electron/electron) ([Contributor](https://github.com/electron/electron/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Ayamgent))
+    * PRs contributed:
+        * [Fix webpreferences not accepting numeric options #8542](https://github.com/electron/electron/pull/8542)
+        * [Support message, nameFieldLabel and showsTagField for macOS dialog #8556](https://github.com/electron/electron/pull/8556)
 
 ### Other Projects
 
@@ -90,7 +90,10 @@ Proficient Languages:
     * Main programming language used for OOGP "Object Oriented Game Programming", an 8CU module in Temasek Polytechnic.
 
 
-Familiar with DevOps tools: Travis, Gradle, Codacy, Coveralls<br>
+Familiar with DevOps tools:
+* Travis, Gradle, Codacy, Coveralls
+    * Used in CS2103T "Software Engineering" project in NUS. [Link](https://github.com/CS2103AUG2016-W11-C4/main).
+
 Familiar with IDEs: Visual Studio, Eclipse<br>
 Familiar game frameworks: Unity3D, Simple DirectMedia Layer
 
