@@ -11,12 +11,10 @@ Samson Tan Min Rong
 Education
 ---------
 **BComp. Computer Science + University Scholars Programme** <br>
-National University of Singapore | Singapore <br>
-August 2015 - Present
+National University of Singapore | August 2015 - Present
 
 **Diploma with Merit in Digital Visual Effects** <br>
-Nanyang Polytechnic | Singapore <br>
-April 2010 - May 2013 <br>
+Nanyang Polytechnic | April 2010 - May 2013
 
 Experience
 ----------
@@ -33,15 +31,14 @@ January 2017 - Present <br>
 *   Manage collaboration with external academics and/or institutions
 
 **Management Support Staff (Writer)** <br>
-Centre for Quantum Technologies | Singapore <br>
-August 2016 - February 2017 (7 months) <br>
+Centre for Quantum Technologies | August 2016 - February 2017 (7 months) <br>
 ***Responsibilities***
 
 *   Research and create content for the ongoing Quantum Shorts 2016 film festival on a part-time basis.
 
 Articles I've written:
 
-*   [http://shorts2016.quantumlah.org/news/encrypted(http://shorts2016.quantumlah.org/news/encrypted)]
+*   [http://shorts2016.quantumlah.org/news/encrypted](http://shorts2016.quantumlah.org/news/encrypted)
 *   [http://shorts2016.quantumlah.org/news/about-time](http://shorts2016.quantumlah.org/news/about-time)
 *   [http://shorts2016.quantumlah.org/news/quantum-computing](http://shorts2016.quantumlah.org/news/quantum-computing)
 
@@ -69,7 +66,7 @@ Side Effects Software Inc | June 2012 - September 2012 (3 months) <br>
 
 *   Self-directed learning of Houdini and completing a Houdini-based project (Procedural Jellyfish).
 
-OSS Contributions
+External OSS Contributions
 -----------------
 *   matplotlib
     *   Contributions
@@ -85,13 +82,14 @@ Expert Areas
 **Python**
 
 *   [Blog on Python and data science](https://samsontmr.github.io)
-*   Telegram bot [moodify](https://github.com/samsontmr/moodify) written in Python, using Python libraries
-*   [oss-bot](https://github.com/samsontmr/oss-bot)
-*   [Data wrangling](https://github.com/samsontmr/online-deliberation-public) and visualization in Python, pandas, matplotlib, and seaborn (Undergraduate Research Assistant)
+*   [moodify](https://github.com/samsontmr/moodify) bot written in Python, using Python libraries
+*   [oss-bot](https://github.com/samsontmr/oss-bot) for PR validation
+*   [Data wrangling](https://github.com/samsontmr/online-deliberation-public) and visualization in Python, Jupyter Notebook, pandas, matplotlib, and seaborn (Undergraduate Research Assistant)
 *   [Lightning talk on Python](https://github.com/nus-oss/lightningtalks/issues/2)
 *   [Python script collection for automation](https://github.com/samsontmr/useful-python-scripts) (Currently only has one)
 *   [Quora Answer Classifier Challenge](https://github.com/samsontmr/quora-challenges/tree/master/answer-classifier) using Python, scikit-learn
 *   Contribution to matplotlib (Python library)
+*   [Introduction to Python Book Chapter](https://github.com/se-edu/learningresources/pull/3)
 
 **DevOps & Scalability Testing**
 *   [oss-bot](https://github.com/samsontmr/oss-bot) for PR validation
@@ -101,11 +99,11 @@ Expert Areas
 
 **Machine Learning & Artificial Intelligence**
 *   [Blog on data science and Python libraries for data science](https://samsontmr.github.io)
-*   Telegram bot [moodify](https://github.com/samsontmr/moodify) using Emotion API for mood detection
+*   [moodify](https://github.com/samsontmr/moodify) Telegram bot using Emotion API for mood detection
 *   [Data wrangling](https://github.com/samsontmr/online-deliberation-public), visualization and analysis (work not available in public domain yet) (Undergraduate Research Assistant)
-*   Learning general statistics, econometrics, duration models in NUS courses (ST2334 Probability & Statistics, UQR2211 Passing Time: Processes, Temporality, and Econometrics)
+*   Learning general statistics, econometrics and duration models in NUS courses (ST2334 Probability & Statistics, UQR2211 Passing Time: Processes, Temporality, and Econometrics)
 *   Learning and using Stata for statistical modeling and hypothesis testing (UQR2211 coursework, Undergraduate Research Assistant)
-*   Learning and using Jupyter IPython Notebook for data analysis using python
+*   Learning and using Jupyter IPython Notebook for data wrangling and analysis using Python (Undergraduate Research Assistant)
 *   [Quora Answer Classifier Challenge](https://github.com/samsontmr/quora-challenges/tree/master/answer-classifier)
     *   Walkthrough [here](https://samsontmr.github.io/Answer-Classifier-Pt1/) and [here](https://samsontmr.github.io/Answer-Classifier-Pt2/)
 *   CS3243 Artificial Intelligence
