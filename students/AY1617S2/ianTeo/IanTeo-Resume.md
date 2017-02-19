@@ -64,8 +64,8 @@ Temp Staff
 
 **Performance**
 
-* Did a [talk]() on performance optimization
-* Wrote a [book chapter]() for beginners on performance optimization
+* Gave a [talk](https://github.com/nus-oss/lightningtalks/issues/7) on performance optimization
+* Wrote a [book chapter](https://github.com/se-edu/learningresources/pull/14) for beginners on performance optimization
 
 **Testing**
 
