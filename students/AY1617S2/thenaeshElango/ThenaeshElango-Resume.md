@@ -38,7 +38,7 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 ### [NUSComputingDev](https://github.com/NUSComputingDev)
 
-[Created an intuituve GUI](https://github.com/NUSComputingDev/CompClubEmailBlast) for a previously command-line app to facilitate sending mass emails formatted in a given way to ease the workload of publicity personnel who would otherwise have to do it manually each time and have to worry about writing HTML and sending the email using the correct email server.
+[Created an intuitive GUI](https://github.com/NUSComputingDev/CompClubEmailBlast) for a previously command-line app to facilitate sending mass emails formatted in a given way to ease the workload of publicity personnel who would otherwise have to do it manually each time and have to worry about writing HTML and sending the email using the correct email server.
 
 
 ## Work Experience
