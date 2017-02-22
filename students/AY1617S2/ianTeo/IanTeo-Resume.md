@@ -1,5 +1,5 @@
 # Ian Teo Zhi Wen
-### 96904948 | teozhiwen@gmail.com
+### teozhiwen@gmail.com
 
 ## EDUCATION
 **National University of Singapore (2015 - Present)**
@@ -42,6 +42,35 @@ Temp Staff
 * Continued development on conservation web portal by adding new features such as a mobile version and callouts to provide additional information.
 * Quality control for external 3D modeling projects.
 * Guided new interns of URA by giving advice on their current projects and helping them with administrative matters.
+
+<br>
+## OSS CONTRIBUTIONS
+
+**[PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs)**
+
+* [Fixed bugs and improved tests](https://github.com/PowerPointLabs/PowerPointLabs/pulls?q=is%3Apr+is%3Aclosed+author%3AIanTeo)
+* [Improved documentation](https://github.com/PowerPointLabs/PowerPointLabs-Website/pulls?q=is%3Apr+is%3Aclosed+author%3AIanTeo)
+
+**[Duality](https://github.com/AdamsLair/duality)**
+
+* [Fixed a bug](https://github.com/AdamsLair/duality/pulls?q=is%3Apr+is%3Aclosed+author%3AIanTeo)
+
+<br>
+## EXPERT AREA
+
+**C#**
+
+* Contributed to [PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs)
+
+**Performance**
+
+* Gave a [talk](https://github.com/nus-oss/lightningtalks/issues/7) on performance optimization
+* Wrote a [book chapter](https://github.com/se-edu/learningresources/pull/14) for beginners on performance optimization
+
+**Testing**
+
+* [Testing](https://github.com/PowerPointLabs/PowerPointLabs/blob/master/README.md) lead for PowerPointLabs
+* [Fixed](https://github.com/PowerPointLabs/PowerPointLabs/issues/1127) and [improved](https://github.com/PowerPointLabs/PowerPointLabs/pull/1091) tests for PowerPointLabs
 
 <br>
 ## SKILLS
