@@ -28,3 +28,10 @@ Email: [dickson@u.nus.edu](dickson@u.nus.edu)<br>
 Proficient in C++, Java, Lua, Regex
 
 Familiar with LaTeX, Python
+
+## Open source contributions
+
+* [Online book chapter on cryptography](https://github.com/se-edu/learningresources/pull/6)
+* scikit-learn:
+	* [fix typo in supervised learning tutorial](https://github.com/scikit-learn/scikit-learn/pull/8390)
+	* [Document `length_scale_bounds="fixed"` in GP kernels](https://github.com/scikit-learn/scikit-learn/pull/8391)
