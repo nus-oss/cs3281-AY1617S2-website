@@ -142,8 +142,8 @@
 [[Github Profile](https://github.com/yamgent)]
 [[Progress](tanWangLeng/TanWangLeng-Progress.md)]
 
-* Expert areas: Testing (JUnit), Java, Security
-* Projects: GitHub's Electron, Addressbook
+* Expert areas: Security, Java, Garbage Collection
+* Projects: [GitHub's Electron](https://github.com/electron/electron), [SE-EDU](https://github.com/se-edu)
 
 ------------------------------------------------
 
