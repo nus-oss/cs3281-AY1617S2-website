@@ -44,7 +44,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-1 | R | [`#6491`](https://github.com/TEAMMATES/teammates/pull/6491) |  Refactor getParticipantListFromParams(String) in *action classes
+1 | R | [`#6491`](https://github.com/TEAMMATES/teammates/pull/6491) |  Refactor getParticipantListFromParams(String) in action classes
 1 | R | [`#6494`](https://github.com/TEAMMATES/teammates/pull/6494) | InstructorFeedbackEditPage uses -1 as question number of the new question
 1 | R | [`#6499`](https://github.com/TEAMMATES/teammates/pull/6499) | Refactor testDatePickerScripts in instructorFeedbackPageUiTest.java
 1 | R | [`#6521`](https://github.com/TEAMMATES/teammates/pull/6521) | CI tests skipped after merge branch
@@ -52,6 +52,14 @@ Effort| Type | PR | Issue
 ---
 ### Week 7
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | R | [`#6523`](https://github.com/TEAMMATES/teammates/pull/6523) |  Refactor StringHelper and Sanitizer class
+1 | R | [`#6544`](https://github.com/TEAMMATES/teammates/pull/6544) | Minor error under "Bug reports and feature requests" in contact.jsp
+1 | R | [`#6574`](https://github.com/TEAMMATES/teammates/pull/6574) |  FeedbackRubricQuestionDetails: Refactor calculateRubricStats
+1 | R | [`#6537`](https://github.com/TEAMMATES/teammates/pull/6537) | Remove unused parameter in StudentProfilePage.java
+8 | D | [`#6453`](https://github.com/TEAMMATES/teammates/pull/6453) |  Separate common.datatransfer package into sub-packages
+2 | D | [`#7`](https://github.com/samsontmr/oss-bot-js/pull/7) | Add documentation (setting up, etc)
 ---
 ### Week 8
 
