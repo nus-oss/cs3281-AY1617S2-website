@@ -63,6 +63,19 @@ Effort| Type | PR | Issue
 ---
 ### Week 8
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6581`](https://github.com/TEAMMATES/teammates/pull/6581) | Enrolling a new student deletes previous student in the list
+1 | R | [`#6593`](https://github.com/TEAMMATES/teammates/pull/6593) | Wrong usage of Inheritance in action classes
+1 | R | [`#6599`](https://github.com/TEAMMATES/teammates/pull/6599) | Refactor magic number in InstructorCourseEnrollSaveActionTest
+1 | R | [`#6660`](https://github.com/TEAMMATES/teammates/pull/6660) | Remove unused parameter in FeedbackResponseCommentsLogic.java
+1 | R | [`#6662`](https://github.com/TEAMMATES/teammates/pull/6662) | Update writeup under "Not for Profit" in index.jsp
+1 | R | [`#6667`](https://github.com/TEAMMATES/teammates/pull/6667) | Disallow blank lines containing whitespace
+2 | R |[`#6647`](https://github.com/TEAMMATES/teammates/pull/6647) | Enhancement: Make issue templates more readily accessible
+4 | D | [`#9`](https://github.com/samsontmr/oss-bot-js/pull/9) | Modular construction of response message
+4 | D | Updated in Heroku App | Research on and create robust Regex to detect GitHub keywords anywhere in PR description
+1 | O | - | Interaction with new contributors
+2 | O | - | Maintenance, troubleshooting of teammates-bot and oss-bot-js repository
 ---
 ### Week 9
 
