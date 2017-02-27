@@ -54,6 +54,11 @@
 
 ### Week 7
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  1   |  D   | [`#6630`](https://github.com/TEAMMATES/teammates/pull/6630) | Current static analysis checks don't flag invalid JSON  |
+|  1   |  D   | [`#6667`](https://github.com/TEAMMATES/teammates/pull/6667) | Disallow blank lines containing whitespace |
+
 ---
 
 ### Week 8
