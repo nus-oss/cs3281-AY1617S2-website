@@ -115,11 +115,22 @@ Effort| Type
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+1 | R | [6667](https://github.com/TEAMMATES/teammates/pull/6667) | Disallow blank lines containing whitespace
+4 | D | [6652](https://github.com/TEAMMATES/teammates/pull/6652) | Fix some violations reported by FindBugs
+1 | D | [6647](https://github.com/TEAMMATES/teammates/pull/6647) | Enhancement: Make issue templates more readily accessible
+1 | R | [6645](https://github.com/TEAMMATES/teammates/pull/6645) | Adding an instructor to a course: join email can mention who added the instructor
+1 | R | [6629](https://github.com/TEAMMATES/teammates/pull/6629) | Use enum instead of string for status message colors
+1 | R | [6618](https://github.com/TEAMMATES/teammates/pull/6618) | Refactor testDatePickerScripts in instructorFeedbackPageUiTest.java
+1 | R | [6577](https://github.com/TEAMMATES/teammates/pull/6577) | Add InstructorSearchTest to test searching for instructors
+1 | R | [6569](https://github.com/TEAMMATES/teammates/pull/6569) | usermap.jsp is not responsive
+1 | R | [6538](https://github.com/TEAMMATES/teammates/pull/6538) | Create versions of getRequestParamValue and getRequestParamValues where null is not expected
 
 Other works:
 
 Effort| Type 
 :----:|:----:
+3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+3 | Release V5.97 management
 
 ---
 ### Week 8
