@@ -35,7 +35,10 @@ Effort| Type | PR | Issue
 
 ### Week 7
 
----
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6564`](https://github.com/TEAMMATES/teammates/pull/6564) | [Refactor StudentLogic.java #6563](https://github.com/TEAMMATES/teammates/issues/6503)
+1 | R | [`#6553`](https://github.com/TEAMMATES/teammates/pull/6553) | [Images used in the project are not optimized #6552](https://github.com/TEAMMATES/teammates/issues/6552)
 
 ### Week 8
 
