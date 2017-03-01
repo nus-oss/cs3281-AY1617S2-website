@@ -54,6 +54,11 @@ Effort| Type | PR | Issue
 ---
 ### Week 7
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+ 1 | R | [#1163](https://github.com/PowerPointLabs/PowerPointLabs/pull/1163) | Colors Lab: Selected color shifts to a certain brightness/saturation #1162
+ 2 | D | [#50](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/50) | Edit docs to match website changes #1150
+ 
 ---
 ### Week 8
 
