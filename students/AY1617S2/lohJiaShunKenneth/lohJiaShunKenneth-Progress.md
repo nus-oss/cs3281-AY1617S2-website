@@ -13,7 +13,6 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-||| 
 
 ---
 ### Week 4
@@ -26,6 +25,10 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 7
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+||| 
 
 ---
 ### Week 8
