@@ -27,6 +27,8 @@
 
 ## Notable Projects
 
+### Self-initiated
+
 **RC Meal Bot**
 
 > Telegram bot that enables NUS Utown residents to easily check their meal credit balance and receive daily updates about the breakfast and dinner menus in the dining halls. [@rcmealbot](https://t.me/rcmealbot) has 1,600 users comprising residents of CAPT, RC4, Tembusu and Cinnamon colleges.
@@ -38,6 +40,16 @@
 **CountMeIn Bot**
 
 > Telegram bot that helps create polls in group chats where users can easily add their names with one tap, eliminating the need to copy, paste, edit and send messages that function as lists (a chronic problem prevalent on WhatsApp). [@countmeinbot](https://t.me/countmeinbot) has 600 users who have created over 1,600 polls.
+
+### Contributions to OSS
+
+**TEAMMATES**
+
+> *   Contributions: [link](https://github.com/TEAMMATES/teammates/issues?q=involves%3Awhipermr5)
+
+**se-edu**
+
+> *   Contributed to [learningresources](https://github.com/se-edu/learningresources) book chapters: [DevOps](https://github.com/se-edu/learningresources/pull/20)
 
 ## Awards
 

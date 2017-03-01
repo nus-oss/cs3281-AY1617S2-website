@@ -26,24 +26,19 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 #### GCE 'O' Level, L1R5: 2, _Victoria School_
 
 
-## Skills
+## Open-Source Contributions
 
+### [Pandoc](http://pandoc.org/)
 
-#### Programming Languages
+[Implemented a feature](https://github.com/jgm/pandoc/pull/3421) that allows users to specify a User-Agent string when requesting a document from a URL using Pandoc. This solved the problem of web servers insisting on specific browsers and refusing to serve up pages in response to requests from Pandoc.
 
-  * Proficient: _C, C++03, Java, JavaScript, Bash_
-  * Familiar: _Haskell, Scheme, Python, Ruby, JavaScript ES2015, C++11/14_
+### [SE-EDU Learning Resources](https://github.com/se-edu/learningresources)
 
-#### Web Development
+[Contributed a Haskell learning guide](https://github.com/se-edu/learningresources/pull/21) (WIP) to a repository of software engineering educational resources created by the National University of Singapore.
 
-  * Markup: _HTML, CSS, Jade/Pug_
-  * Libraries: _jQuery, Bootstrap_
-  * Frameworks: _Node.js, Flask, Rails, Electron_
+### [NUSComputingDev](https://github.com/NUSComputingDev)
 
-#### Databases
-
-  * Languages: _SQL_
-  * RDBMS: _SQLite_
+[Created an intuitive GUI](https://github.com/NUSComputingDev/CompClubEmailBlast) for a previously command-line app to facilitate sending mass emails formatted in a given way to ease the workload of publicity personnel who would otherwise have to do it manually each time and have to worry about writing HTML and sending the email using the correct email server.
 
 
 ## Work Experience
@@ -98,6 +93,8 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 
 ## Talks
+
+**_February 2017_ Gave a talk on Haskell as part of a talk series conducted in the NUS module CS3281**
 
 **_July 2015_ Gave a short introduction to Haskell in a seminar series conducted in the NUS School of Computing**
 

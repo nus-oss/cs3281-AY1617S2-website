@@ -21,8 +21,21 @@
 [[Github Profile](https://github.com/AngShiYa)]
 [[Progress](shiYa/ShiYa-Progress.md)]
 
-* Expert areas: C#, UIX, Testing
+* Expert areas: C#, UI/UX, Analytics
 * Projects: freeCodeCamp, NUnit, PowerPointLabs
+
+
+## IAN TEO ZHI WEN
+
+<img src="ianTeo/IanTeo.png" width="100" /><br>
+[[Resume](ianTeo/IanTeo-Resume.md)]
+[[Website]()]
+[[Github Profile](https://github.com/IanTeo)]
+[[Progress](ianTeo/IanTeo-Progress.md)]
+
+* Expert areas: C#, Performance, Testing
+* Projects: PowerPointLabs, Electron, Duality
+
 
 ## JAMOS TAY
 
@@ -34,18 +47,6 @@
 
 * Expert areas: C#, Databases, Regex
 * Projects: PowerPointLabs
-
-
-## IAN TEO ZHI WEN
-
-<img src="ianTeo/IanTeo.png" width="100" /><br>
-[[Resume](ianTeo/IanTeo-Resume.md)]
-[[Website]()]
-[[Github Profile](https://github.com/IanTeo)]
-[[Progress](ianTeo/IanTeo-Progress.md)]
-
-* Expert areas: C#, Performance, Profilers
-* Projects: PowerPointLabs, Electron, Duality
 
 
 ## LOH JIA SHUN KENNETH
@@ -80,7 +81,7 @@
 [[Github Profile](https://github.com/Skaty)]
 [[Progress](syedAbdullah/SyedAbdullah-Progress.md)]
 
-* Expert areas: JavaScript, Data/Content Transfer & Processing
+* Expert areas: Erlang, Information Transfer & Processing, CI/Jenkins
 * Projects: pdf.js, PowerPointLabs
 
 ------------------------------------------------
@@ -95,7 +96,7 @@
 [[Github Profile](https://github.com/kychua)]
 [[Progress](kaYi/KaYi-Progress.md)]
 
-* Expert areas: Python, Testing, Data Science
+* Expert areas: Python, Documentation, Data Science
 * Projects: SymPy, se-edu
 
 
@@ -141,8 +142,8 @@
 [[Github Profile](https://github.com/yamgent)]
 [[Progress](tanWangLeng/TanWangLeng-Progress.md)]
 
-* Expert areas: Testing (JUnit), Java, Security
-* Projects: GitHub's Electron, Addressbook
+* Expert areas: Security, Java, Garbage Collection
+* Projects: [GitHub's Electron](https://github.com/electron/electron), [SE-EDU](https://github.com/se-edu)
 
 ------------------------------------------------
 
@@ -169,7 +170,7 @@
 [[Progress](leeYiMin/leeYiMin-Progress.md)]
 
 * Expert areas: Java, Dev Ops (Gradle), Optimization
-* Projects: TEAMMATES
+* Projects: TEAMMATES, ESLint
 
 
 ## LI KAI
@@ -193,7 +194,7 @@
 [[Progress](dicksonTan/DicksonTan-Progress.md)]
 
 * Expert areas: python, security, functional programming
-* Projects: TEAMMATES
+* Projects: TEAMMATES, Scikit-Learn, SymPy
 
 
 ## TAN MIN RONG SAMSON
@@ -240,8 +241,8 @@
 [[Github Profile](https://github.com/xpdavid)]
 [[Progress](xiaoPu/xiaoPu-Progress.md)]
 
-* Expert areas: Java, Static analysis
-* Projects: JUnit, phpmyadmin, Teammates
+* Expert areas: Java, Static Analysis
+* Projects: Teammates, Checkstyle
 
 
 ## YANG BOXIN

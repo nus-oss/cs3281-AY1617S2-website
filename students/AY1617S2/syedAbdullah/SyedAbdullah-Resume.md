@@ -48,11 +48,13 @@ Singapore Civil Defence Force (Mar 2013 &mdash; Mar 2015)
 Technical Skills
 ---
 * Languages &mdash; C, C#, Python, Java, HTML/CSS, JavaScript, LaTeX
-* Frameworks &mdash; Django, Flask, Laravel, CodeIgniter, React/Redux, Vue
+* Frameworks &mdash; Django, CodeIgniter, React/Redux, Vue
 * Software &mdash; Git, Travis CI
 
-Community Service
+Open Source Contributions
 ----
 
-* Volunteer Web Developer for Oasis Second Chance Animal Shelter (OSCAS)
-* Volunteer Web Developer for DesignUp Asia
+**pdf.js**<br/>
+A web based PDF viewer written in JavaScript. Developed by Mozilla.<br/>
+**Pull Requests:**
+ * [#7948](https://github.com/mozilla/pdf.js/pull/7948)

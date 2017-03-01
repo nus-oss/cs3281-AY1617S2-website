@@ -6,35 +6,47 @@
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | L | - | Animations and Colors lab demo
+4 | L | - | Proof of concept for Crop Slide
+1 | L | - | Experiment with PowerPointLabs ribbon
 
 ---
 ### Week 3
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | D | [#44](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/44) | Add indezine blog post to reviews #1042
+4 | L | - | Experiment on resize lab
+2 | L | - | Experiment on PowerPointLabs automated Tests
+
 
 ---
 ### Week 4
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [#1090](https://github.com/PowerPointLabs/PowerPointLabs/pull/1090) | Timer shows the record's length after stopping recording #380
+8 | D | [#1091](https://github.com/PowerPointLabs/PowerPointLabs/pull/1091) | Write Test for Rotate or Duplicate and Rotate function #1053
+4 | L | - | Sync Labs sync fill and gradient
+1 | L | - | Sync Labs sync animation
  
 ---
 ### Week 5
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [#1117](https://github.com/PowerPointLabs/PowerPointLabs/pull/1117) | Some tests fail when run after FT_TextFragmentsTest #1116
+4 | O | - | Experiment on tests that are failing on ppt 2010 (Currently unable to fix)
+2 | O | - | Sync Labs position, size, pattern fill, shadow
  
 ---
 ### Week 6
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [#1134](https://github.com/PowerPointLabs/PowerPointLabs/pull/1134) | FT_PositionsLabDuplicateAndRotate causing other tests to fail on ppt 2010 #1132 
+1 | R | [#1137](https://github.com/PowerPointLabs/PowerPointLabs/pull/1137) | PasteLab: Core + Paste to Fill Slide #1137
+8 | O | - | Set up ppt 2010 test environment on lab PC
  
 ---
 ### Week 7

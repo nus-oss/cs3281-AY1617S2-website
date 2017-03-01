@@ -27,7 +27,35 @@ xp.xiaopu@gmail.com
 
 ## Experience
 
-- **Project: Do-er List, a task manager application**
+- **Project: Teammates, an open-source project**
+	
+	_2017 January and onwards_
+	
+	Teammates is an online peer evaluation/feedback system used in
+1085 institutions from 78 countries. Github Page :
+https://github.com/TEAMMATES/teammates
+	
+	Accomplishments:
+	
+	- Contributed 200-300 lines Java, JavaScript and HTML code.
+
+- **Project: Teaching Assistant in Software Engineering Course**
+	
+	_National University of Singapore — 2016/2017 Semester 2_
+
+	Served as Teaching Assistant in CS2103 software engineering
+course.
+
+	Accomplishments:
+	
+	- Facilitate 8 students’ learning in software engineering
+
+- **Award: Dean’s List in School of Computing**
+
+	_National University of Singapore — 2016/2017 Semester 1_
+
+
+- **School Project: Do-er List, a task manager application**
 	
 	_National University of Singapore — 2016/2017 Semester 1_
 	
@@ -39,7 +67,7 @@ xp.xiaopu@gmail.com
 Read, Update, Delete) operations
 	- Developed GUI using JavaFX
 	- Implemented undo/redo features
-	- Wrote the majority of automated GUI test cases and some integration test cases using JUnit.
+	- Wrote the majority of automated GUI test cases and some integration test cases using JUnit, which helps to achieve 93% test case coverage.
 	- Contributed to user guide and developer guide
 
 - **Teaching Assistant in Programming Course**
@@ -52,11 +80,11 @@ discussion group every week and graded student’s programmes
 	
 	Accomplishments:
 	
-	- Able to teach the concept of abstraction and recursion to students
-	- Able to get along well with students
-	- Obtained teamwork experience
+	- Conducted weekly tutorial to facilitate learning process of 8 students.
+	- Explained the concept of abstraction and recursion clearly to student.
+	- Coordinated with other 10 tutors in setting and marking tasks for students
 
-- **Project: NUSDing - NUS SoC Orbital 2016, Apollo 11
+- **School Project: NUSDing - NUS SoC Orbital 2016, Apollo 11
 Achievement**
 	
 	_National University of Singapore — 2015/2016 Special Term II_
@@ -82,6 +110,3 @@ with the help of Laravel framework in a team of two. Github Page:
 	
 	_National University of Singapore — 2015/08_
 	
-- **Award: Dean’s List in School of Computing**
-
-	_National University of Singapore — 2016/2017 Semester 1_

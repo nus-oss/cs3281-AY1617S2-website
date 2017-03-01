@@ -23,6 +23,10 @@
 
 ## Week 2
 
+* Try to have about 5 ongoing PRs at all times. We cannot predict how long a PR will take to merge.
+* When selecting issues to work on, it is ok to pick 1 or 2 low-hanging fruits (to increase your PR count) 
+  but also pick  progressively harder PRs related to your selected area.
+
 * By Wednesday midnight: Create a PR against this repo to report weekly progress.
   * Follow the folder/file convention and the template used by this placeholder file
     [`students/AY1617S2/johnDoe/JohnDoe-Progress.md`](../students/AY1617S2/johnDoe/JohnDoe-Progress.md).
@@ -30,7 +34,7 @@
     A merged PR can be included in any future week (not restricted to the week it was merged).
   * PRs done prior to the semester can be included in this week or in a future week.
   * Work done for any of the three internal projects can be included, not just your main project.
-  * Use PR number(not the issue number) and link to PR.
+  * Use PR number (not the issue number) and link to the PR.
   * **Effort** : Your estimated _number of hours the work should have taken in retrospect_.
     Use only values `1`, `2`, `4`, `8`, `16`, `32` (rounded to the nearest number).
   * **Type** : Indicates whether you are the developer (`D`) or the reviewer (`R`).
@@ -43,6 +47,7 @@
 
 ## Week 3
 
+* Please get your PRs reviewed by 1-2 peers before requesting reviews from senior devs.
 * Continue to submit weekly progress by creating PRs. Marks will be uploaded to IVLE in due course.
 
 * Lecture : Project specific discussions

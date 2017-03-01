@@ -26,16 +26,87 @@ Effort| Type
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | 6447 | InstructorStudentListPageUiTest failing at dev server
+1 | R | 6432 | Do not trigger CI build for documentation-only changes
+1 | R | 6426 | README.md: Update users count badge to 140K
+1 | R | 6424 | Stray closing &lt;/span&gt; tag in questionFeedbackPathSettings.tag
+1 | R | 6422 | Move logic.publicresource classes to ui.controller
+1 | R | 6414 | Create another InstructorEditStudentFeedbackPage page objects for testing
+1 | R | 6408 | generateDemoCourseId generates invalid course ID if email address contains a +
+1 | R | 6405 | Change "Received Responses Statistics" to "Statistics for Received Responses"
+1 | R | 6389 | Instructor Student List Page: Properly display sanitised text for Section Filter
+1 | R | 6388 | User map: move 'last updated date' to userMapData.json
+
+Other works:
+
+Effort| Type 
+:----:|:----:
+3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+3 | Release V5.93 management
 
 ---
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | 6510 | Duplicate "the" in filterPanel.tag
+1 | R | 6508 | Upgrade instance class to F2
+1 | R | 6497 | Duplicate "the" in java files
+1 | R | 6489 | Remove unused parameter in InstructorCoursesDetailsPage.java
+1 | R | 6460 | Duplicate "the" in jsp files
+1 | R | 6467 | Instructions for enabling GodMode are outdated
+1 | R | 6449 | ActivityLogEntry should not have dependency to GateKeeper
+1 | R | 6443 | Update user map for Dec 2016
+1 | R | 6419 | Change HttpRequestHelper.getValueFromParamMap to getRequestParamValue in *Action classes
+1 | R | 6394 | Dev guide: describe how to verify each step is done correctly
+
+Other works:
+
+Effort| Type 
+:----:|:----:
+3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+2 | Release V5.94 management
+
 ---
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | 6544 | Minor error under "Bug reports and feature requests" in contact.jsp
+1 | R | 6543 | Remove FeedbackQuestionBundle::getRecipientEmails method
+1 | R | 6521 | CI tests skipped after merge branch
+1 | R | 6517 | InstructorCourseRemindActionTest: refactor duplicated code
+1 | R | 6494 | InstructorFeedbackEditPage uses -1 as question number of the new question
+1 | R | 6490 | Refactor getParticipantListFromParams(String) in *action classes
+1 | R | 6454 | Student name in emails are not HTML-sanitized
+2 | R | 6351 | Create issue templates
+
+Other works:
+
+Effort| Type 
+:----:|:----:
+3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+3 | Release V5.95 management
+
 ---
 ### Week 6
+:----:|:----:|:-----------|:------
+1 | D | 6624 | Bug report: User map does not load
+1 | R | 6604 | Remove getCourseDetails method from CourseLogic
+1 | R | 6599 | Refactor magic number in InstructorCourseEnrollSaveActionTest
+1 | R | 6593 | Wrong usage of Inheritance in *action classes
+1 | R | 6591 | Instructor home page: do not auto-load response rate
+1 | R | 6581 | Enrolling a new student deletes previous student in the list
+1 | D | 6580 | Bug report: AllAccessControlUiTests failure in production server due to wrong password
+1 | R | 6553 | Images used in the project are not optimized
+2 | R | 6453 | Separate common.datatransfer package into sub-packages
+
+Other works:
+
+Effort| Type 
+:----:|:----:
+3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+3 | Release V5.96 management
 
 ---
 ### Week 7

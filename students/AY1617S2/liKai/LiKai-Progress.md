@@ -18,11 +18,20 @@ Effort| Type | PR | Issue
 ---
 ### Week 4
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6444`](https://github.com/TEAMMATES/teammates/pull/6444) | [Instructor view session results: numeric scale question: sorting is incorrect #6437](https://github.com/TEAMMATES/teammates/issues/6437)
+1 | D | [`#6434`](https://github.com/TEAMMATES/teammates/pull/6434) | [Improve isWithinView in common.js #5937](https://github.com/TEAMMATES/teammates/issues/5937)
+
 ---
 ### Week 5
 
 ---
 ### Week 6
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6546`](https://github.com/TEAMMATES/teammates/pull/6546) | [instructorStudentList: add a 'mailto' link under the list of emails #1682](https://github.com/TEAMMATES/teammates/issues/1682)
+1 | D | [`#6553`](https://github.com/TEAMMATES/teammates/pull/6553) | [Images used in the project are not optimized #6552](https://github.com/TEAMMATES/teammates/issues/6552)
 
 ---
 ### Week 7
