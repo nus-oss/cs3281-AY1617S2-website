@@ -66,6 +66,12 @@ Effort| Type | PR | Issue
 
 ### Week 7
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | D | [`#1145`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1145) | Move CONTRIBUTING.md to root of repository
+2 | O | - | Deployed dev-release-2.8.7.13
+1 | O | - | Deployed website changes
+
 ---
 
 ### Week 8
