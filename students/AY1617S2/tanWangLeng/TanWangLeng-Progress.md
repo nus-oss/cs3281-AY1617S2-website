@@ -56,7 +56,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | D | [`#129`](https://github.com/se-edu/addressbook-level2/pull/142) | StorageFile class: load method should not create a new file #129
+1 | R | [`#279`](https://github.com/se-edu/addressbook-level4/pull/279) | checkstyle: fix module name error #276
+1 | R | [`#290`](https://github.com/se-edu/addressbook-level4/pull/290) | Remove unused code in TestUtil #222
+1 | R | [`#179`](https://github.com/se-edu/addressbook-level2/pull/179) | Addressbook::addTag() is not used #169
 
 ---
 
