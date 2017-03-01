@@ -47,6 +47,10 @@ Effort| Type | PR | Issue
 
 ### Week 7
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#274`](https://github.com/se-edu/addressbook-level4/pull/274) | Add asciidoctor to Gradle #269 #274
+
 ---
 
 ### Week 8
