@@ -32,6 +32,11 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 7
+:----:|:----:|:-----------|:------
+2 | D | [`#6650`](https://github.com/TEAMMATES/teammates/pull/6650) | Migrate all JS used by index page to strict mode #6648
+2 | R | [`#6488`](https://github.com/TEAMMATES/teammates/pull/6488) | Make frontpage responsive #6487
+1 | R | [`#6538`](https://github.com/TEAMMATES/teammates/pull/6538) | Create versions of getRequestParamValue and getRequestParamValues where null is not expected #6526
+1 | R | [`#6569`](https://github.com/TEAMMATES/teammates/pull/6569) | usermap.jsp is not responsive #6567
 
 ---
 ### Week 8
