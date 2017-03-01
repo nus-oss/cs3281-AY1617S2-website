@@ -66,7 +66,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#1163`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1163) | Colors Lab: Selected color shifts to a certain brightness/saturation #1162
+1 | R | [`#1148`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1148) | FT_PositionsLabDuplicateAndRotate typo #1147
+1 | R | [`#1152`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1152) | Double clicking 'Create Spotlight' causing crash #1151 
+1 | R | [`#1155`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1155) | Allow user to minimize panes by clicking menu button #1154
 
 ---
 
