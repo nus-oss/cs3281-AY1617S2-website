@@ -52,10 +52,31 @@ Developing an e-learning resource for an accountancy module within NUS.
 ---
 
 ## Skills / Achievements
-
 - Fluent in Java, JavaScript, C#, Python, VB and VB.Net.
 - Experienced with HTML, CSS and SQL. 
 - SAP Certified Associate: Successfully completed a 2-weeks course in Business Process Integration with SAP ERP 6.0 EhP6.
 - Pursued an interest in game development through the creation of an MMORPG server with a team of 1 other coder and 3 content developers over the course of two years on online collaborative tools. The game brought in approximately $1000 USD in revenue.
 - Took part in various hackathons such as the Facebook Singapore Hackathon (Sep 2016), NUS Hack & Roll (Jan 2016) and DBS Digital Game Jam (Dec 2015).
 - Enrolled in and completed 15 courses on Coursera, with topics ranging from business and leadership to data mining and machine learning.
+
+---
+
+## Contributions to Open-source Projects
+
+#### Powerpoint Labs
+Powerpoint Labs is a plug-in for Microsoft Powerpoint with over 300,000 users. It has a variety of features enabling users to create engaging visuals for slides with ease.
+- Effectively managed the overall development of the project for 4 months.
+- Contributed the "Sync Labs" feature with another developer.
+- Fixed various bugs.
+
+
+#### Free Code Camp
+Free Code Camp is an open-source codebase and curriculum which teaches people various aspects of software engineering and development, such as HTML, Javascript, JQuery, React, and full-stack development. 
+- Fixed various bugs and features in Javascript
+[[link](https://github.com/freeCodeCamp/freeCodeCamp/pull/13566)]
+[[link](https://github.com/freeCodeCamp/freeCodeCamp/pull/13591)]
+[[link](https://github.com/freeCodeCamp/freeCodeCamp/pull/13603)]
+
+#### Learning Resources for Software Engineering Students
+An open-source repository of learning resources to help students of all expertise with improving their software engineering skills.
+- Contributed a chapter on scalable development [[link](https://github.com/se-edu/learningresources/pull/17)]
