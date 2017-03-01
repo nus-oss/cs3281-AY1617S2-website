@@ -45,7 +45,7 @@ Effort| Type | PR | Issue
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 2 | D | [#1134](https://github.com/PowerPointLabs/PowerPointLabs/pull/1134) | FT_PositionsLabDuplicateAndRotate causing other tests to fail on ppt 2010 #1132 
-1 | R | [#1137](https://github.com/PowerPointLabs/PowerPointLabs/pull/1137) | PasteLab: Core + Paste to Fill Slide #1137
+1 | R | [#1137](https://github.com/PowerPointLabs/PowerPointLabs/pull/1137) | PasteLab: Core + Paste to Fill Slide
 8 | O | - | Set up ppt 2010 test environment on lab PC
  
 ---
@@ -53,7 +53,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | D | [#1147](https://github.com/PowerPointLabs/PowerPointLabs/pull/1148) | FT_PositionsLabDuplicateAndRotate typo #1147
  
 ---
 ### Week 8
