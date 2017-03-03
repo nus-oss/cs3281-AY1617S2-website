@@ -48,7 +48,8 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#290`](https://github.com/se-edu/addressbook-level4/pull/290) | Remove unused code in TestUtil
+1 | R | [`#142`](https://github.com/se-edu/addressbook-level2/pull/142) | StorageFile class: load method should not create a new file
 
 ---
 
