@@ -46,6 +46,15 @@ Effort| Type | PR | Issue
 
 ### Week 7
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6645`](https://github.com/TEAMMATES/teammates/pull/6645) | Adding an instructor to a course: join email can mention who added the instructor
+2 | D | [`#6577`](https://github.com/TEAMMATES/teammates/pull/6577) | Add InstructorSearchTest to test searching for instructors
+2 | D | [`#6538`](https://github.com/TEAMMATES/teammates/pull/6538) | Create versions of getRequestParamValue and getRequestParamValues where null is not expected
+1 | R | [`#6604`](https://github.com/TEAMMATES/teammates/pull/6604) | Remove getCourseDetails method from CourseLogic
+1 | R | [`#6628`](https://github.com/TEAMMATES/teammates/pull/6628) | InstructorStudentListPageUiTest failing on live server
+1 | R | [`#6573`](https://github.com/TEAMMATES/teammates/pull/6573) | InstructorCourseRemindAction: extractUserName may not return username correctly
+
 ---
 
 ### Week 8
