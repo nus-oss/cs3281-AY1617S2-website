@@ -18,19 +18,21 @@ Software Systems Design | Web Development | Android Development | iOS Developmen
 
 ### TEAMMATES - NUS, Singapore, Mar 2015 - Present
 
-**Part-Time Open Source Software Engineer, Acting as Project Lead**
+**Part-Time Open Source Software Engineer, Acting as Project Lead since May 2016**
+
+TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of students, with a total user of over 160,000 students from over 1,200 institutions globally, and an average hit count of more than 300,000 per month.
 
 1. Took part in weekly scheduled releases by contributing bug fixes, implementing new features, as well as providing code review and ad-hoc advice to external contributors.
-1. Implemented JSP Standard Tag Library (JSTL) as the application's front-end framework.
+1. Helped in implementing JSP Standard Tag Library (JSTL) as the application's front-end framework.
 1. Introduced new email frameworks which allow more than 100K emails to be sent per month by the application, as opposed to just 15K per month prior.
 1. Made the development process smoother for all developers by achieving the following:
    1. Streamlined the code quality checks by researching, configuring, and incorporating linters for languages used in the project.
    1. Enabled automated dependency resolution which replaced the project’s previous way of requiring developers to manually download them.
-   1. Identified and fixed more than 30 sources of random test failures.
-1. Mentor for student developers entering into the project
-   1. Facebook Open Academy 2016, Jan - Apr 2016
-   1. Google Summer of Code 2016, May - Aug 2016
-   1. CS3282 Thematic System Projects (NUS), Jan - Apr 2017
+   1. Identified and fixed more than 50 sources of random test failures.
+1. Mentor for student developers entering into the project.
+   1. Facebook Open Academy 2016, Jan - Apr 2016: 2 students.
+   1. Google Summer of Code 2016, May - Aug 2016: 1 student.
+   1. CS3282 Thematic System Projects (NUS), Jan - Apr 2017: 9 students.
 
 ### NUS Orbital Programme 2015, 2016, Singapore, May - Aug 2015 and May - Aug 2016
 
@@ -38,7 +40,12 @@ Software Systems Design | Web Development | Android Development | iOS Developmen
 
 1. Provided scheduled formal written evaluation and ad-hoc advice for 9 and 7 (in each respective year) assigned groups of students enrolled in the programme.
 1. Received an average rating of 4.14 / 5 in 2015, not rated in 2016 due to technical glitch.
-1. One of the groups assigned won "Best Project" award for intermediate level, and was rated 5 / 5 by the winning group (both years).
+1. One of the groups assigned won "Best Project" award for intermediate level (both years), and was rated 5 / 5 by the winning group (in 2015).
+
+### Contribution to other OSS Projects
+
+1. ESLint: helped automating a part of documentation build - [link to work](https://github.com/eslint/eslint/pull/8127).
+1. Rubocop: provided a bugfix on one of their features - [link to work](https://github.com/bbatsov/rubocop/pull/4069).
 
 ## Side Projects
 
