@@ -55,6 +55,13 @@ Effort| Type | PR | Issue
 ---
 ### Week 7
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#1122`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1122) | Move Remove Highlight test to Unit Test #1122
+1 | D | [`#1123`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1123) | Update feature leads in README #1102
+1 | D | [`#51`](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/51) | Add to reviews #1153
+4 | D | [`#1156`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1156) | Update crop-lab to dev-release to prepare for merge #1156
+
 ---
 ### Week 8
 
