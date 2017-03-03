@@ -17,21 +17,29 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 4
+
+Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 2 | D | [`#6402`](https://github.com/TEAMMATES/teammates/pull/6402) | adminHome.js does not URL encode form data before passing it on as GET params #6397
 1 | D | [`#6467`](https://github.com/TEAMMATES/teammates/pull/6467) | Instructions for enabling GodMode are outdated #6466
 
 ---
 ### Week 5
+
+Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 2 | D | [`#6493`](https://github.com/TEAMMATES/teammates/pull/6493) | HTML not sanitized in the admin home page #6492
 
 ---
 ### Week 6
+
+Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 
 ---
 ### Week 7
+
+Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 2 | D | [`#6650`](https://github.com/TEAMMATES/teammates/pull/6650) | Migrate all JS used by index page to strict mode #6648
 2 | R | [`#6488`](https://github.com/TEAMMATES/teammates/pull/6488) | Make frontpage responsive #6487
