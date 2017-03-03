@@ -26,8 +26,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 5
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
 ### Week 6
+
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 1 | R | [`#6546`](https://github.com/TEAMMATES/teammates/pull/6546) | [instructorStudentList: add a 'mailto' link under the list of emails #1682](https://github.com/TEAMMATES/teammates/issues/1682)
@@ -35,6 +39,10 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 7
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+8 | D | [`#6488`](https://github.com/TEAMMATES/teammates/pull/6488) | [Make frontpage responsive #6487](https://github.com/TEAMMATES/teammates/issues/6487)
 
 ---
 ### Week 8
