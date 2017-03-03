@@ -53,6 +53,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 7
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6628`](https://github.com/TEAMMATES/teammates/pull/6628) | InstructorStudentListPageUiTest failing on live server #6620
+4 | R | [`#6577`](https://github.com/TEAMMATES/teammates/pull/6577) | Add InstructorSearchTest to test searching for instructors #6551
+4 | R | [`#6652`](https://github.com/TEAMMATES/teammates/pull/6652) | Fix some violations reported by FindBugs #6646
+
 ---
 ### Week 8
 
