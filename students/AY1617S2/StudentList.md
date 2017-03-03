@@ -249,11 +249,11 @@
 
 <img src="yangBoxin/YangBoxin.png" width="100" /><br>
 [[Resume](yangBoxin/YangBoxin-Resume.md)]
-[[Website](https://github.com/greed-is-good)]
-[[Github Profile](https://github.com/greed-is-good)]
+[[Website](https://github.com/boxin-yang)]
+[[Github Profile](https://github.com/boxin-yang)]
 [[Progress](yangBoxin/YangBoxin-Progress.md)]
 
-* Expert areas: Java, Security, Machine Learning
+* Expert areas: C, Security, Machine Learning
 * Projects: [zulip](https://github.com/zulip/zulip), [TEAMMATES](https://github.com/TEAMMATES/teammates)
 
 
