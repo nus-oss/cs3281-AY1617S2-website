@@ -115,7 +115,7 @@
 ## HUANG CHAO
 
 <img src="huangChao/HuangChao.png" width="100" /><br>
-[[Resume](huangChao/HuangChao-Resume.html)]
+[[Resume](huangChao/HuangChao-Resume.md)]
 [[Website](https://chao1995.github.io/blog/)]
 [[Github Profile](https://github.com/chao1995)]
 [[Progress](huangChao/HuangChao-Progress.md)]
