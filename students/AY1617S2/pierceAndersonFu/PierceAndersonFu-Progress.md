@@ -53,6 +53,12 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+2 | D | [#261](https://github.com/se-edu/addressbook-level4/pull/261) | Parser and ArgumentTokenizer cleanups #235
+1 | R | [#298](https://github.com/se-edu/addressbook-level4/pull/298) | CommandBox stays red even after correct input is entered #296
+1 | R | [#61](https://github.com/oss-generic/process/pull/61) | Format: recommend using a scope prefix for commit message subject line #52
+1 | R | [#63](https://github.com/oss-generic/process/pull/63) | Merging guidelines: explain how to merge 'out of sync' branches #49
+1 | R | [#65](https://github.com/oss-generic/process/pull/65) | Adopt Docker guidelines for documentation and grammar conventions #40
+1 | R | [#66](https://github.com/oss-generic/process/pull/66) | Java guidelines: standardize use of `this` #47
 
 ---
 ### Week 9
