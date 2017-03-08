@@ -61,6 +61,12 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 8
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#6655`](https://github.com/TEAMMATES/teammates/pull/6655) | Implement AdminActivityLogPageActionTest #6654
+2 | D | [`#6686`](https://github.com/TEAMMATES/teammates/pull/6686) | Bug: Student received submission confirmation but the responses are not recorded #6643
+1 | R | [`#6667`](https://github.com/TEAMMATES/teammates/pull/6667) | Disallow blank lines containing whitespace #6666
+
 
 ---
 ### Week 9
