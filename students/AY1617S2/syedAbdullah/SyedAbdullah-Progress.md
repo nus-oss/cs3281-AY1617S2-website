@@ -76,6 +76,16 @@ Effort| Type | PR | Issue
 
 ### Week 8
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+8 | D | [`#1139`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1139) | StyleCop: Enable Access Modifier ordering rules
+1 | D | [`#59`](https://github.com/oss-generic/process/pull/59) | CSharp coding standard: Reorder access modifiers
+2 | R | [`#12`](https://github.com/samsontmr/oss-bot-js/pull/12) | Feedback should contain suggestions on fixing convention violations in PR body
+2 | O | - | Learnt how to create separate release
+1 | O | - | Deployed dev-release-2.8.7.14
+1 | O | - | Deployed alpha-release-2017.3.8.1
+1 | O | - | Deployed website changes
+
 ---
 
 ### Week 9
