@@ -169,7 +169,7 @@
 [[Github Profile](https://github.com/leeyimin)]
 [[Progress](leeYiMin/leeYiMin-Progress.md)]
 
-* Expert areas: Java, Dev Ops (Gradle), Optimization
+* Expert areas: Java, Dev Ops (Gradle), Ruby on Rails
 * Projects: TEAMMATES, ESLint
 
 
