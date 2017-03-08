@@ -54,4 +54,4 @@
 ## Links
 
 <i class="fa fa-github fa-lg fa-fw" aria-hidden="true"></i>
-<a href="https://github.com/greed-is-good">https://github.com/greed-is-good</a><br>
+<a href="https://github.com/boxin-yang">https://github.com/boxin-yang</a><br>

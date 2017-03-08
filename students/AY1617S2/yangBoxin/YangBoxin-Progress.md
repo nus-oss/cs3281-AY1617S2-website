@@ -42,7 +42,9 @@ Effort| Type | PR | Issue
 
 ### Week 8
 
----
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6609`](https://github.com/TEAMMATES/teammates/pull/6609) | [Refactor StudentLogic::enrollStudents(String, String, boolean) #6557](https://github.com/TEAMMATES/teammates/issues/6557)
 
 ### Week 9
 
