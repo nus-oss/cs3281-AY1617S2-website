@@ -49,6 +49,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 8
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6651`](https://github.com/TEAMMATES/teammates/pull/6651) | Migrate all JS used by admin pages to strict mode #6649
+2 | D | [`#6714`](https://github.com/TEAMMATES/teammates/pull/6714) | Migrate all JS used by instructor pages to strict mode #6684
+2 | R | [`#6617`](https://github.com/TEAMMATES/teammates/pull/6617) | Add tests for adminHome.js #6616
+
 ---
 ### Week 9
 
