@@ -16,8 +16,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 3 | Mentoring new developers on application high-level architecture (14/1)
 3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
 
@@ -39,8 +39,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
 3 | Release V5.93 management
 
@@ -62,8 +62,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
 2 | Release V5.94 management
 
@@ -83,8 +83,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
 3 | Release V5.95 management
 
@@ -105,8 +105,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
 3 | Release V5.96 management
 
@@ -127,8 +127,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 3 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
 3 | Release V5.97 management
 
@@ -148,8 +148,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 2 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
 3 | Release V5.98 management
 
@@ -161,8 +161,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 
 ---
 ### Week 10
@@ -172,8 +172,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 
 ---
 ### Week 11
@@ -183,8 +183,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 
 ---
 ### Week 12
@@ -194,8 +194,8 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
 
 ---
 ### Week 13
@@ -205,5 +205,5 @@ Effort| Type | PR | Issue
 
 Other works:
 
-Effort| Type 
-:----:|:----:
+Effort| Description
+:----:|:----
