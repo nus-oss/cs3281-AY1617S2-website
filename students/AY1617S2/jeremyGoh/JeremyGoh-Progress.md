@@ -57,7 +57,9 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#288`](https://github.com/se-edu/addressbook-level4/pull/288) | Document how to save project docs as pdf files
+1 | R | [`#274`](https://github.com/se-edu/addressbook-level4/pull/274) | Add asciidoctor to Gradle
+1 | D | [`#304`](https://github.com/se-edu/addressbook-level4/pull/304) | Blank person cards should not have alternating colours
 
 ---
 
