@@ -59,6 +59,13 @@ Effort| Type | PR | Issue
 
 ### Week 8
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6743`](https://github.com/TEAMMATES/teammates/pull/6743) | Fix typo in AdminHomeJsTest.js
+1 | R | [`#6615`](https://github.com/TEAMMATES/teammates/pull/6615) | Increase testability and test coverage of JS code - preliminary part 2
+1 | O |  | Interacted with new developers
+2 | O |  | learn javascript/jquery/ajax for switching to javascript focus
+
 ---
 
 ### Week 9
