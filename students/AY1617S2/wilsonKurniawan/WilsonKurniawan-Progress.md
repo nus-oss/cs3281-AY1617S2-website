@@ -137,11 +137,21 @@ Effort| Type
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+1 | R | [6742](https://github.com/TEAMMATES/teammates/pull/6742) | Process document: Remove the requirement for branch name for forks
+1 | R | [6714](https://github.com/TEAMMATES/teammates/pull/6714) | Migrate all JS used by instructor pages to strict mode
+1 | R | [6675](https://github.com/TEAMMATES/teammates/pull/6675) | FeedbackRubricQuestionDetails: Refactor calculateRubricStats
+1 | D | [6670](https://github.com/TEAMMATES/teammates/pull/6670) | Issue templates: remove the requirement for issue title prefixes
+2 | R | [6618](https://github.com/TEAMMATES/teammates/pull/6655) | Implement AdminActivityLogPageActionTest
+2 | D | [6615](https://github.com/TEAMMATES/teammates/pull/6615) | Increase testability and test coverage of JS code - preliminary part 2
+2 | R | [6592](https://github.com/TEAMMATES/teammates/pull/6592) | Add IntelliJ support for TEAMMATES
+2 | R | [5930](https://github.com/TEAMMATES/teammates/pull/5930) | instructor edit student email: Give an option to resend emails when editing student email
 
 Other works:
 
 Effort| Type 
 :----:|:----:
+2 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+3 | Release V5.98 management
 
 ---
 ### Week 9
