@@ -25,23 +25,19 @@ Took part in a 6-months training, which taught students problem solving techniqu
 
 ## Employment and Experience
 
-* hackfestsg - Sep 2016  
-Built a music making web application with a team using JavaScript and Materialize framework.  
-(https://github.com/notice-us-senpai/matrix)
-* Orbital Summer Programme - May 2016 to Jul 2016  
-Developed a web application with a partner, making use of Ruby on Rails, Materialize, PostgreSQL and Google APIs, which helps to organise information efficiently for teams.  
-(https://github.com/notice-us-senpai/KouhaiDash)
-* Hackathon@SG - Jun 2015  
-Built a web application with a team using Django and Materialize framework to help provide a user-friendly interface for the public to access information on drugs and medical equipment.  
-(https://github.com/veniversum/hackathon-sg-2015)
-* Internship at NUS High School - Apr 2015 to Jul 2015  
-Worked as an intern in the Office of Research, Innovation and Enterprise and helped with managing their database and building an online data management system using PHP, Joomla and MySQL database.
 * Contributed to TEAMMATES - Jan 2017 to -  
 TEAMMATES is a free cloud-based service for feedback management with more than 140,000 users.  
 Contributed to the project by adding new features, fixing bugs and improving technical debt in the project. Also helped to review other pull requests to the project.
 * Contributed to ESLint - Feb 2017  
 ESLint is a popular code linting tool for JavaScript with more than 5 million downloads in the past month (as of Feb 2017).  
 Helped to provide more comprehensive [documentation](https://github.com/eslint/eslint/pull/8065) for the functionalities in ESLint.
+* Orbital Summer Programme - May 2016 to Jul 2016  
+Developed a web application with a partner, making use of Ruby on Rails, Materialize, PostgreSQL and Google APIs, which helps to organise information efficiently for teams.  
+(https://github.com/notice-us-senpai/KouhaiDash)
+* Internship at NUS High School - Apr 2015 to Jul 2015  
+Worked as an intern in the Office of Research, Innovation and Enterprise and helped with managing their database and building an online data management system using PHP, Joomla and MySQL database.
+* Joined various hackathons such as Hackathon@SG and hackfestsg in 2015 and 2016
+
 
 
 ## Computing Skills
