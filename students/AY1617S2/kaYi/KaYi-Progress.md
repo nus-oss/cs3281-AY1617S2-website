@@ -49,11 +49,16 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-4 | D | [`#274`](https://github.com/se-edu/addressbook-level4/pull/274) | Add asciidoctor to Gradle #269 #274
+4 | D | [`#274`](https://github.com/se-edu/addressbook-level4/pull/274) | Add asciidoctor to Gradle #269
 
 ---
 
 ### Week 8
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | D | [`#297`](https://github.com/se-edu/addressbook-level4/pull/297) | Add explicit reference to coding style guidelines in docs #207
+2 | D | [`#298`](https://github.com/se-edu/addressbook-level4/pull/298) | CommandBox stays red even after correct input is entered #296
 
 ---
 
