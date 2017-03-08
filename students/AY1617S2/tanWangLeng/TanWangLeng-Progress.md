@@ -67,7 +67,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#42`](https://github.com/se-edu/collate/pull/43) | Allow dashes in author name #42
+1 | R | [`#288`](https://github.com/se-edu/addressbook-level4/pull/288) | Document how to save project docs as pdf files #287
+1 | R | [`#64`](https://github.com/oss-generic/process/pull/64) | Submitting issues: specify how to report security vulnerabilities #33
+1 | R | [`#261`](https://github.com/se-edu/addressbook-level4/pull/261) | Parser and ArgumentTokenizer cleanups #235
 
 ---
 
