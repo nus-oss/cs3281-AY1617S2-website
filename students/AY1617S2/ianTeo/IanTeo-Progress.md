@@ -60,8 +60,12 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
- 
+16 | D | [#1175](https://github.com/PowerPointLabs/PowerPointLabs/pull/1175) | Sync labs Core functionality
+1 | R | [#1163](https://github.com/PowerPointLabs/PowerPointLabs/pull/1163) | Colors Lab: Selected color shifts to a certain brightness/saturation #1162
+1 | R | [#1167](https://github.com/PowerPointLabs/PowerPointLabs/pull/1167) | Help button redirecting to old docs site #1165
+2 | R | [#1161](https://github.com/PowerPointLabs/PowerPointLabs/pull/1161) | Convert ColorPicker Magnifier to WPF
+2 | R | [#1159](https://github.com/PowerPointLabs/PowerPointLabs/pull/1159) | Optimize Magnify feature for picture #631
+
 ---
 ### Week 9
 
