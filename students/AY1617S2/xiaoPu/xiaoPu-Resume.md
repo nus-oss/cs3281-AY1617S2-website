@@ -27,7 +27,7 @@ xp.xiaopu@gmail.com
 
 ## Experience
 
-- **Project: Teammates, an open-source project**
+- **OSS Project: Teammates**
 	
 	_2017 January and onwards_
 	
@@ -37,9 +37,17 @@ https://github.com/TEAMMATES/teammates
 	
 	Accomplishments:
 	
-	- Contributed 200-300 lines Java, JavaScript and HTML code.
+	- Contributed 400-500 lines Java, JavaScript and HTML code.
+	- Committer in the community
 
-- **Project: Teaching Assistant in Software Engineering Course**
+- **OSS Project: FreeCodeCamp**
+	
+
+	_2017 January and onwards_
+	
+	- Add one additional test case for a challenge in FreeCodeCamp ([#13499](https://github.com/freeCodeCamp/freeCodeCamp/pull/13499))
+
+- **Teaching Assistant in Software Engineering Course**
 	
 	_National University of Singapore — 2016/2017 Semester 2_
 
