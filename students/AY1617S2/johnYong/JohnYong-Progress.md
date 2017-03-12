@@ -64,6 +64,10 @@
 
 ### Week 8
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  2   |  R   | [`#6655`](https://github.com/TEAMMATES/teammates/pull/6655) | Implement AdminActivityLogPageActionTest |
+
 ---
 
 ### Week 9
