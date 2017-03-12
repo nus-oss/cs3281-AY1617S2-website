@@ -47,6 +47,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 8
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | R | [`#6615`](https://github.com/TEAMMATES/teammates/pull/6615) | [Increase testability and test coverage of JS code #6085](https://github.com/TEAMMATES/teammates/issues/6085)
+1 | R | [`#6686`](https://github.com/TEAMMATES/teammates/pull/6686) | [Bug: Student received submission confirmation but the responses are not recorded #6643](https://github.com/TEAMMATES/teammates/issues/6643)
+1 | D | [`#6569`](https://github.com/TEAMMATES/teammates/pull/6569) | [usermap.jsp is not responsive #6567](https://github.com/TEAMMATES/teammates/issues/6567)
+
 ---
 ### Week 9
 
