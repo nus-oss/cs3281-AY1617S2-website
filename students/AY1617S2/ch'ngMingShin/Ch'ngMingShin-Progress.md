@@ -54,7 +54,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | R | [`#6578`](https://github.com/TEAMMATES/teammates/pull/6578) | Refactor FeedbackSessionsLogic#getFeedbackSessionResultsForUserWithParams
 
 ---
 ### Week 9
