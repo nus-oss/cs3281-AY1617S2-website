@@ -54,7 +54,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-||| 
++16 | D | [#1175](https://github.com/PowerPointLabs/PowerPointLabs/pull/1175) |  Add more functionality for Sync Labs
 
 ---
 ### Week 8
