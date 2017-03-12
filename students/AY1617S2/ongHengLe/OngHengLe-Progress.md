@@ -77,7 +77,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+8 | D | [`#1158`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1158) | Crop Lab: Merge new features from PowerPointLabs-AY1617
+4 | D | [`#1159`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1159) | Optimize Magnify feature for picture #631
+1 | R | [`#1139`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1139) | StyleCop: Enable Access Modifier ordering rules #1081 
+1 | R | [`#1142`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1142) | PasteLab: Add core functionality and Paste to Fill Slide #1138
 
 ---
 
