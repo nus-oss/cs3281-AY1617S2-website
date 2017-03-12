@@ -61,7 +61,14 @@ Effort| Type | PR | Issue
  
 ---
 ### Week 8
-
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+ 1 | R | [#59](https://github.com/oss-generic/process/pull/59) | CSharp coding standard: Reorder access modifiers #58
+ 1 | R | [#52](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/52) | Add to reviews #52
+ 1 | R | [#1163](https://github.com/PowerPointLabs/PowerPointLabs/pull/1163) | Colors Lab: Selected color shifts to a certain brightness/saturation #1162
+ 2 | R | [#1161](https://github.com/PowerPointLabs/PowerPointLabs/pull/1161) | Convert ColorPicker Magnifier to WPF #1161
+ 8 | D | [#1176](https://github.com/PowerPointLabs/PowerPointLabs/pull/1176) | Add Blocks Timer Prototype #1176
+ 
 ---
 ### Week 9
 
