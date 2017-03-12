@@ -65,6 +65,15 @@ Effort| Type | PR | Issue
 ---
 ### Week 8
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+8 | D | [`#1158`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1158) | Crop Lab: Merge new features from PowerPointLabs-AY1617 #1158
+2 | D | [`#1152`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1152) | Double clicking 'Create Spotlight' causing crash #1151
+1 | D | [`#52`](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/52) | Add to reviews
+1 | R | [`#53`](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/53) | Add CS3281/82 students as Core Team members
+1 | R | [`#1139`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1139) | StyleCop: Enable Access Modifier ordering rules #1081
+
+
 ---
 ### Week 9
 
