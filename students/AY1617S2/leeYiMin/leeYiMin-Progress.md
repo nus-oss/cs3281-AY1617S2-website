@@ -42,6 +42,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 8
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6675`](https://github.com/TEAMMATES/teammates/pull/6675) | FeedbackRubricQuestionDetails: Refactor calculateRubricStats #6558
+2 | R | [`#6592`](https://github.com/TEAMMATES/teammates/pull/6592) | Add IntelliJ support for TEAMMATES #6475
+1 | R | [`#6721`](https://github.com/TEAMMATES/teammates/pull/6721) | Remove unused parameter in FeedbackQuestionsLogic.java #6440
+
 ---
 ### Week 9
 
