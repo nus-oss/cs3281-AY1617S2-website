@@ -110,7 +110,9 @@
 
 ## Week 6
 
-* Lecture : Lightning Talks Round A - Part 3
+* Lecture : 
+  * Lightning Talks Round A - Part 3
+  * Tips for Tech Talks - Part 2
 * Switch teams
 * Friday:
   * Peer evaluations
@@ -133,11 +135,31 @@
 
 ## Week 9
 
-* Lecture : Lightning Talks Round B - Part 3
+* Lecture : 
+  * Lightning Talks Round B - Part 3
+  * Tips for Tech Talks - Part 3
+
+* Document your observations about the workflow of your external OSS project:
+  * Info to include:
+    1. Links to any online documents about the workflow of external project
+    1. Important things you learned from contributing to that project, if any
+    1. Practices/tools of the external project that you think can be adopted by your NUS-OSS project
+    1. [Optional] Suggested areas of improvement for the external project 
+  * Submission:
+    * [Option 1] Write a blog post, or add as an article to your website, and link from your NUS-OSS resume.<br>
+      [Option 2] Add as an article to the folder `nus-oss/cs3281-website/students/AY1617S2/YourName`. 
+      Suggested file name: `Observations-AbcProject.md`
+    * Create a PR. Suggested name: `Your name : Contributing to Abc project`
+    * Article/post title: up to you. 
+    * Recommended length: about 0.5 - 1 A4 page
+    * Deadline: Before week 10 Monday session
+  * If you contributed to multiple projects, you may document all those projects in your observations or choose one
+    of them to include.
+  * If some of your classmates contributed to the same project, you should still write your own observations.
 
 ## Week 10
-
-* Lecture : Discussion on project work flows
+    
+* Lecture : Discussion on external project workflow
 
 ## Week 11
 
