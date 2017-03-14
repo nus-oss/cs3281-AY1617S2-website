@@ -72,6 +72,11 @@
 
 ### Week 9
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  1   |  R   | [`#6769`](https://github.com/TEAMMATES/teammates/pull/6769) | Update third-party dependencies |
+|  1   |  R   | [`#6793`](https://github.com/TEAMMATES/teammates/pull/6793) | Codecov missing base report |
+
 ---
 
 ### Week 10
