@@ -78,7 +78,11 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | D | [`#66`](https://github.com/oss-generic/process/pull/66) | Java guidelines: standardize use of `this` #47
+1 | R | [`#59`](https://github.com/oss-generic/process/pull/59) | CSharp coding standard: Reorder access modifiers #58
+1 | R | [`#61`](https://github.com/oss-generic/process/pull/61) | Format: recommend using a scope prefix for commit message subject line #52
+1 | R | [`#298`](https://github.com/se-edu/addressbook-level4/pull/298) | CommandBox stays red even after correct input is entered #296
+1 | R | [`#186`](https://github.com/se-edu/addressbook-level2/pull/186) | Fix typo in header comment #144
 
 ---
 
