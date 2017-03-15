@@ -74,8 +74,11 @@
 
 |Effort| Type | PR | Issue |
 |:---: |:---: |:---|:---   |
+|  4   |  D   | [`#6669`](https://github.com/TEAMMATES/teammates/pull/6669) | Failed to instantiate Feedback*QuestionDetails instance for CONTRIB question type |
 |  1   |  R   | [`#6769`](https://github.com/TEAMMATES/teammates/pull/6769) | Update third-party dependencies |
 |  1   |  R   | [`#6793`](https://github.com/TEAMMATES/teammates/pull/6793) | Codecov missing base report |
+|  1   |  R   | [`#6814`](https://github.com/TEAMMATES/teammates/pull/6814) | Add CheckStyle rule CommentsIndentation |
+|  1   |  R   | [`#6817`](https://github.com/TEAMMATES/teammates/pull/6817) | Video tour doesn't open on Chrome |
 
 ---
 
