@@ -90,6 +90,19 @@ Effort| Type | PR | Issue
 
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#1142`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1142) | PasteLab: Add core functionality and Paste to Fill Slide
+4 | D | [`#18`](https://github.com/samsontmr/oss-bot-js/pull/18) | Set up unit tests
+1 | D | [`#54`](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/54) | Redirect old docs site to new one
+1 | R | [`#1167`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1167) | Help button redirecting to old docs site
+1 | R | [`#1192`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1192) | Crop out padding: over cropping
+1 | R | [`#1193`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1193) | Try picking colors without selecting an object: button stays pressed after error message
+1 | O | - | Deployed dev-release-2.8.7.15
+1 | O | - | Deployed alpha-release-2017.3.12.1
+1 | O | - | Deployed alpha-release-2017.3.16.1
+1 | O | - | Deployed website changes
+
 ---
 
 ### Week 10
