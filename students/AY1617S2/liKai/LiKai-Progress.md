@@ -56,6 +56,14 @@ Effort| Type | PR | Issue
 ---
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6728`](https://github.com/TEAMMATES/teammates/pull/6728) | [Migrate all the remaining JS to strict mode #6716](https://github.com/TEAMMATES/teammates/issues/6716)
+1 | R | [`#6776`](https://github.com/TEAMMATES/teammates/pull/6776) | [Tidy up package.json at dev-es6 branch #6775](https://github.com/TEAMMATES/teammates/issues/6775)
+1 | R | [`#6714`](https://github.com/TEAMMATES/teammates/pull/6714) | [Migrate all JS used by instructor pages to strict mode #6684](https://github.com/TEAMMATES/teammates/issues/6684)
+1 | R | [`#6650`](https://github.com/TEAMMATES/teammates/pull/6650) | [Migrate all JS used by index page to strict mode #6648](https://github.com/TEAMMATES/teammates/issues/6648)
+2 | D | [`#6617`](https://github.com/TEAMMATES/teammates/pull/6617) | [Add tests for adminHome.js #6616](https://github.com/TEAMMATES/teammates/issues/6616)
+
 ---
 ### Week 10
 
