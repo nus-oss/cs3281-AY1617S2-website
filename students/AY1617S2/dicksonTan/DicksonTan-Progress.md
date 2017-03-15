@@ -70,6 +70,14 @@ Effort| Type | PR | Issue
 
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#6790`](https://github.com/TEAMMATES/teammates/pull/6790) | Update all InstructorCourses*.js to ES6
+1 | R | [`#6788`](https://github.com/TEAMMATES/teammates/pull/6788) | Update all InstructorFeedbackResults*.js to ES6
+2 | R | [`#6801`](https://github.com/TEAMMATES/teammates/pull/6801) | Convert instructorFeedbackEdit*.js and instructorFeedbacks*.js to ES6
+1 | R | [`#6763`](https://github.com/TEAMMATES/teammates/pull/6763) | Setup guide: mention the Java path should use '/'
+1 | O |  | Interacted with new developers
+
 ---
 
 ### Week 10
