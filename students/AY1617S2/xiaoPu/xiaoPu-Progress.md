@@ -61,15 +61,22 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 8
+
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 4 | D | [`#6655`](https://github.com/TEAMMATES/teammates/pull/6655) | Implement AdminActivityLogPageActionTest #6654
 2 | D | [`#6686`](https://github.com/TEAMMATES/teammates/pull/6686) | Bug: Student received submission confirmation but the responses are not recorded #6643
 1 | R | [`#6667`](https://github.com/TEAMMATES/teammates/pull/6667) | Disallow blank lines containing whitespace #6666
 
-
 ---
 ### Week 9
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#6524`](https://github.com/TEAMMATES/teammates/pull/6524) | Separate the UI part and logic part in ActivityLogEntry #6503
+2 | D | [`#6778`](https://github.com/TEAMMATES/teammates/pull/6778) | Random test fail in *LogicTest.java recently #6777
+2 | R | [`#6583`](https://github.com/TEAMMATES/teammates/pull/6583) | Add Javadoc rules to Checkstyle without full enforcement #6582
+1 | R | [`#6804`](https://github.com/TEAMMATES/teammates/pull/6804) | Add instruction to install eslint-plugin-json for eslint #6802
 
 ---
 ### Week 10
