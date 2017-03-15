@@ -48,7 +48,11 @@ Effort| Type | PR | Issue
 
 ### Week 9
 
----
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6814`](https://github.com/TEAMMATES/teammates/pull/6814) | [Add CheckStyle rule CommentsIndentation #6813](https://github.com/TEAMMATES/teammates/issues/6813)
+1 | D | [`#6804`](https://github.com/TEAMMATES/teammates/pull/6804) | [Add instruction to install eslint-plugin-json for eslint #6802](https://github.com/TEAMMATES/teammates/issues/6802)
+4 | R | [`#6642`](https://github.com/TEAMMATES/teammates/pull/6642) | [Instructor result download: allow downloading data for a specific question #6570](https://github.com/TEAMMATES/teammates/issues/6570)
 
 ### Week 10
 
