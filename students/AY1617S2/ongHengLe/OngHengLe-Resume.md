@@ -1,11 +1,10 @@
 # Ong Heng Le
 
 <img src="OngHengLe.png" width="100" /><br> 
-Email: [onghl@u.nus.edu](onghl@u.nus.edu)
+Email: [onghl@u.nus.edu](onghl@u.nus.edu) <br>
+Github Profile: [initialshl](https://github.com/initialshl/)
 
-<br>
-
-## Education
+# Education
 
 August 2015 - Present: <br>
 **National University of Singapore** <br>
@@ -18,9 +17,7 @@ April 2010 - April 2013: <br>
 **Diploma in Game & Entertainment Technology (with Merit)** <br>
 Director's List (AY2011/2012 and AY2010/2011)
 
-<br>
-
-## Project Experiences
+# Project Experiences
 
 January 2017 - Present: <br>
 **Contributor for Microsoft's Visual Studio Code** <br>
@@ -34,7 +31,7 @@ which had 500,000 monthly users when it launched in April 2016* <br>
 
 January 2017 - Present: <br>
 **Committer for PowerPointLabs** <br>
-*PowerPointLabs  is a productivity add-in for PowerPoint on Windows <br>
+*PowerPointLabs is a productivity add-in for PowerPoint on Windows <br>
 which has benefited more than 300,000 people* <br>
 
 * Developed new features (Crop Lab – to be released)
@@ -46,14 +43,12 @@ June 2012 - August 2012: <br>
 **The Last Symphony** <br>
 [http://gambit.mit.edu/loadgame/thelastsymphony.php](http://gambit.mit.edu/loadgame/thelastsymphony.php) <br>
 Interned as a programmer at the MIT Game Lab in Massachusetts Institute of Technology (MIT) <br>
-Worked closely with undergraduates across multiple disciplines <br>
 
+* Worked closely with undergraduates across multiple disciplines from various universities <br>
 * Used Perforce (Revision Control System) in a production environment<br>
-* Practiced Scrum methodology daily in our team
+* Practiced Scrum methodology daily in our team <br>
 
-<br>
-
-## Computer Skills
+# Computer Skills
 
 **Performance Profiling**: Wrote a book chapter on [Performance Profiling](https://github.com/se-edu/learningresources/pull/10) <br>
 **Performance Profiling**: Gave a lightning talk on [Finding the Hot Path](https://github.com/nus-oss/lightningtalks/issues/11) <br>
@@ -63,10 +58,6 @@ Familiar with **C#** *(PowerPointLabs)*, **TypeScript** *(Visual Studio Code)* a
 Worked with C++ and PHP <br>
 Software: Visual Studio 2015 Enterprise, Git, Perforce, Adobe Photoshop CS6 <br>
 
-<br>
+# Additional Information
 
-## Additional Information
-
-Language proficiency: Bilingual, fluent in both **English** and **Chinese** (Mandarin)
-
-<br>
+Language proficiency: Bilingual, fluent in both **English** and **Chinese** (Mandarin) <br>
