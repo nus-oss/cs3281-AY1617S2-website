@@ -77,6 +77,13 @@ Effort| Type | PR | Issue
 ---
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#1185`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1185) | Crop to same dimension: dimensions don't match #1180
+8 | D | [`#1154`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1154) | Allow user to minimize panes by clicking menu button #1154
+1 | R | [`#1142`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1142) | PasteLab: Add core functionality and Paste to Fill Slide #1138
+1 | R | [`#1119`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1119) | Change a way of identifying "recorded" and "generated" #350
+
 ---
 ### Week 10
 
