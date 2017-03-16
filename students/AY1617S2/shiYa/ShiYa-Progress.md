@@ -71,7 +71,13 @@ Effort| Type | PR | Issue
  
 ---
 ### Week 9
-
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+ 1 | R | [#1175](https://github.com/PowerPointLabs/PowerPointLabs/pull/1175) | Sync labs Core functionality #1175
+ 1 | R | [#1167](https://github.com/PowerPointLabs/PowerPointLabs/pull/1167) | Help button redirecting to old docs site #1165
+ 2 | R | [#1159](https://github.com/PowerPointLabs/PowerPointLabs/pull/1159) | Optimize Magnify feature for picture #631
+ 8 | D | [#1202](https://github.com/PowerPointLabs/PowerPointLabs/pull/1202) | Timer Lab: Allow customization of timer #1199
+ 
 ---
 ### Week 10
 
