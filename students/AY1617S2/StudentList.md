@@ -108,7 +108,7 @@
 [[Github Profile](https://github.com/MightyCupcakes)]
 [[Progress](jeremyGoh/JeremyGoh-Progress.md)]
 
-* Expert areas: Java, DevOps, Gradle
+* Expert areas: Java, DevOps, JavaFX
 * Projects: [SE-EDU](https://github.com/se-edu), [Tinker's Construct](https://github.com/SlimeKnights/TinkersConstruct)
 
 
