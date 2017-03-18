@@ -70,6 +70,12 @@ Effort| Type | PR | Issue
 
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#314`](https://github.com/se-edu/addressbook-level4/pull/314) | Make UI look-and-feel consistent
+1 | R | [`#338`](https://github.com/se-edu/addressbook-level4/pull/338) | Index is cut off when names are too long for PersonCard
+8 | D | [`#214`](https://github.com/se-edu/addressbook-level4/pull/214) | Allow updating addressBookPath and addressBookName at runtime
+
 ---
 
 ### Week 11
