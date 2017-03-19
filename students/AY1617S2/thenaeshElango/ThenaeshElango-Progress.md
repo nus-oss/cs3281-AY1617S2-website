@@ -58,6 +58,14 @@ Effort| Type | PR | Issue
 ---
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6728`](https://github.com/TEAMMATES/teammates/pull/6728) | Migrate all the remaining JS to strict mode #6716
+2 | D | [`#6788`](https://github.com/TEAMMATES/teammates/pull/6788) | Update all InstructorFeedbackResults\*.js to ES6 #6771
+2 | R | [`#6790`](https://github.com/TEAMMATES/teammates/pull/6790) | Update all InstructorCourses\*.js to ES6 #6772
+2 | R | [`#6801`](https://github.com/TEAMMATES/teammates/pull/6801) | Convert instructorFeedbackEdit\*.js and instructorFeedbacks\*.js to ES6 #6773
+1 | R | [`#6794`](https://github.com/TEAMMATES/teammates/pull/6794) | Reorder syntax validation instructions in setup guide #6722
+
 ---
 ### Week 10
 
