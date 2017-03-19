@@ -67,7 +67,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#325`](https://github.com/se-edu/addressbook-level4/pull/325) | UrlUtil is unused
+1 | R | [`#216`](https://github.com/se-edu/addressbook-level4/pull/216) | Update GUI tests to verify 'last updated' feature
+1 | R | [`#63`](https://github.com/oss-generic/process/pull/63) | Merging guidelines: explain how to merge 'out of sync' branches
+8 | D | [`#314`](https://github.com/se-edu/addressbook-level4/pull/314) | Make UI look-and-feel consistent
 
 ---
 
