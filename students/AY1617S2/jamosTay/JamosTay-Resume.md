@@ -55,7 +55,7 @@ Open Source Contributions
 
 PowerPointLabs is a free, open source plugin written in C# which makes creating engaging PowerPoint presentations easy.
 
-[Contributions to Plugin](https://github.com/PowerPointLabs/PowerPointLabs/pulls?utf8=%E2%9C%93&q=author%3Ajamos-tay)
+[Contributions to Plugin](https://github.com/PowerPointLabs/PowerPointLabs/pulls?utf8=%E2%9C%93&q=author%3Ajamos-tay)<br>
 [Contributions to Website](https://github.com/PowerPointLabs/PowerPointLabs-Website/pulls?utf8=%E2%9C%93&q=author%3Ajamos-tay)
 
 ### [freeCodeCamp](https://www.freecodecamp.com/)
@@ -64,7 +64,7 @@ PowerPointLabs is a free, open source plugin written in C# which makes creating 
 
 freeCodeCamp is a friendly open source community where users learn to code and help nonprofits. Users can work through self-paced coding challenges, build projects, and earn certificates.
 
-[Contributions to Website](https://github.com/freeCodeCamp/freeCodeCamp/pulls?utf8=%E2%9C%93&q=author%3Ajamos-tay)
+[Contributions to Website](https://github.com/freeCodeCamp/freeCodeCamp/pulls?utf8=%E2%9C%93&q=author%3Ajamos-tay)<br>
 [My experience](Observations-freeCodeCamp.md)
 
 Organizational Experience
