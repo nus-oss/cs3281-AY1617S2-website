@@ -66,8 +66,8 @@ freeCodeCamp is a great place for beginners to open source to start contributing
 
 ## Links
 
-Link to Github: [freeCodeCamp on Github](https://github.com/freeCodeCamp/freeCodeCamp)
-Link to site: https://www.freecodecamp.com/
-Link to beta site: https://beta.freecodecamp.com/en/
-Link to contribution workflow: [CONTRIBUTING.md](https://github.com/freeCodeCamp/freeCodeCamp/blob/staging/CONTRIBUTING.md)
-Link to my contributions: [Pull requests](https://github.com/freeCodeCamp/freeCodeCamp/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Ajamos-tay%20)
+* Link to Github: [freeCodeCamp on Github](https://github.com/freeCodeCamp/freeCodeCamp)
+* Link to site: https://www.freecodecamp.com/
+* Link to beta site: https://beta.freecodecamp.com/en/
+* Link to contribution workflow: [CONTRIBUTING.md](https://github.com/freeCodeCamp/freeCodeCamp/blob/staging/CONTRIBUTING.md)
+* Link to my contributions: [Pull requests](https://github.com/freeCodeCamp/freeCodeCamp/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Ajamos-tay%20)
