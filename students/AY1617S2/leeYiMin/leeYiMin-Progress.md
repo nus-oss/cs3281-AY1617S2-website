@@ -51,6 +51,11 @@ Effort| Type | PR | Issue
 ---
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | R | [`#6524`](https://github.com/TEAMMATES/teammates/pull/6524) | Separate the UI part and logic part in ActivityLogEntry #6503
+1 | R | [`#6803`](https://github.com/TEAMMATES/teammates/pull/6803) | Email sent after instructor editing student email: Include submission links for closed sessions #6730
+
 ---
 ### Week 10
 

@@ -31,6 +31,9 @@ Contributed to the project by adding new features, fixing bugs and improving tec
 * Contributed to ESLint - Feb 2017  
 ESLint is a popular code linting tool for JavaScript with more than 5 million downloads in the past month (as of Feb 2017).  
 Helped to provide more comprehensive [documentation](https://github.com/eslint/eslint/pull/8065) for the functionalities in ESLint.
+* Contributed to [Brackets](https://github.com/adobe/brackets) - Mar 2017  
+Brackets is a open source code editor for JavaScript, HTML and CSS.  
+Added [integration tests](https://github.com/adobe/brackets/pull/13178) for newly added functionality.
 * Orbital Summer Programme - May 2016 to Jul 2016  
 Developed a web application with a partner, making use of Ruby on Rails, Materialize, PostgreSQL and Google APIs, which helps to organise information efficiently for teams.  
 (https://github.com/notice-us-senpai/KouhaiDash)

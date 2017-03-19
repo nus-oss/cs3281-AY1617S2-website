@@ -170,7 +170,7 @@
 [[Progress](leeYiMin/leeYiMin-Progress.md)]
 
 * Expert areas: Java, Dev Ops (Gradle), Ruby on Rails
-* Projects: TEAMMATES, ESLint
+* Projects: TEAMMATES, ESLint, Brackets
 
 
 ## LI KAI
