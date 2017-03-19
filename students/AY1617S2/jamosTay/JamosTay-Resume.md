@@ -65,6 +65,7 @@ PowerPointLabs is a free, open source plugin written in C# which makes creating 
 freeCodeCamp is a friendly open source community where users learn to code and help nonprofits. Users can work through self-paced coding challenges, build projects, and earn certificates.
 
 [Contributions to Website](https://github.com/freeCodeCamp/freeCodeCamp/pulls?utf8=%E2%9C%93&q=author%3Ajamos-tay)
+[My experience](Observations-freeCodeCamp.md)
 
 Organizational Experience
 --------
