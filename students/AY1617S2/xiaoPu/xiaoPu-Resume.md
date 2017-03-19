@@ -40,12 +40,13 @@ https://github.com/TEAMMATES/teammates
 	- Contributed 400-500 lines Java, JavaScript and HTML code.
 	- Committer in the community
 
-- **OSS Project: FreeCodeCamp**
+- **OSS Project: FreeCodeCamp, CheckStyle**
 	
 
 	_2017 January and onwards_
 	
 	- Add one additional test case for a challenge in FreeCodeCamp ([#13499](https://github.com/freeCodeCamp/freeCodeCamp/pull/13499))
+	- Write test cases for GUI Model ([#3957](https://github.com/checkstyle/checkstyle/pull/3957))
 
 - **Teaching Assistant in Software Engineering Course**
 	
