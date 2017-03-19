@@ -59,6 +59,13 @@ Effort| Type | PR | Issue
 ---
 ### Week 8
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
++1 | R | [#1185](https://github.com/PowerPointLabs/PowerPointLabs/pull/1185) |  Crop to same dimension: dimensions don't match
++1 | R | [#1115](https://github.com/PowerPointLabs/PowerPointLabs/pull/1115) |  Highlight Point doesn't work with last bullet
++1 | D | [#1170](https://github.com/PowerPointLabs/PowerPointLabs/pull/1170) |  Some Captions Lab improvements
++8 | D | [#1197](https://github.com/PowerPointLabs/PowerPointLabs/pull/1197) |  SyncLabs V2
+
 ---
 ### Week 9
 
