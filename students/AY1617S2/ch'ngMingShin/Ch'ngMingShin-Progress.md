@@ -61,7 +61,8 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+4 | D | [`#6642`](https://github.com/TEAMMATES/teammates/pull/6642) | Instructor result download: allow downloading data for a specific question
+2 | R | [`#6609`](https://github.com/TEAMMATES/teammates/pull/6609) | Refactor StudentLogic::enrollStudents(String, String, boolean)
 
 ---
 ### Week 10
