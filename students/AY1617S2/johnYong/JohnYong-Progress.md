@@ -56,7 +56,7 @@
 
 |Effort| Type | PR | Issue |
 |:---: |:---: |:---|:---   |
-|  1   |  D   | [`#6630`](https://github.com/TEAMMATES/teammates/pull/6630) | Current static analysis checks don't flag invalid JSON  |
+|  1   |  D   | [`#6630`](https://github.com/TEAMMATES/teammates/pull/6630) | Current static analysis checks don't flag invalid JSON |
 |  2   |  D   | [`#6665`](https://github.com/TEAMMATES/teammates/pull/6665) | Bug Report: Changing visibility type unchecks all checkbox controls |
 |  1   |  D   | [`#6667`](https://github.com/TEAMMATES/teammates/pull/6667) | Disallow blank lines containing whitespace |
 
@@ -83,6 +83,18 @@
 ---
 
 ### Week 10
+
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  1   |  R   | [`#6529`](https://github.com/TEAMMATES/teammates/pull/6529) | Admin create account: Cannot send Ajax Request! |
+|  1   |  R   | [`#6825`](https://github.com/TEAMMATES/teammates/pull/6825) | Update user map for Feb 2017 data |
+|  1   |  R   | [`#6834`](https://github.com/TEAMMATES/teammates/pull/6834) | Optimize creation of multiple new feedback responses |
+|  2   |  R   | [`#6836`](https://github.com/TEAMMATES/teammates/pull/6836) | TEAMMATES logo displaced |
+|  1   |  D   | [`#6842`](https://github.com/TEAMMATES/teammates/pull/6842) | Get rid of unnecessary read in EntitiesDb.createEntity |
+|  1   |  D   | [`#6851`](https://github.com/TEAMMATES/teammates/pull/6851) | Error while putting document |
+|  1   |  R   | [`#6869`](https://github.com/TEAMMATES/teammates/pull/6869) | Update admin email signature to 'Associate Professor' |
+|  1   |  R   | [`#6877`](https://github.com/TEAMMATES/teammates/pull/6877) | Remove unused parameter in InstructorHomeAjaxCoursePageData.java |
+|  1   |  O   | - | Interaction with new contributors
 
 ---
 
