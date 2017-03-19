@@ -39,7 +39,8 @@
     Use only values `1`, `2`, `4`, `8`, `16`, `32` (rounded to the nearest number).
   * **Type** : Indicates whether you are the developer (`D`) or the reviewer (`R`).
     Use `O` for other type of work such as demos, research, user support, etc.
-  * Format for PR title `Week 2 Progress: John Doe`.
+  * Format for PR title and the commit title is `Week 2 Progress: John Doe`. 
+    Squash all changes into one commit.
   * Use a different branch for each PR. The branch name can be something like `john-doe-week2-progress`. 
     This way it is easier to keep your master branch exactly same as upstream repo.
 

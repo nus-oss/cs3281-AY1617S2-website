@@ -163,15 +163,17 @@
 
 ## Week 11
 
-* Lecture : Lightning Talks Round C - Part 1
+* Lecture : Lightning Talks Round C - Part 1 (Rehearsal)
 
 ## Week 12
 
-* Lecture : Lightning Talks Round C - Part 2
+* Monday : Lightning Talks Round C - Part 2  (Rehearsal)
+* Thursday : Lightning Talks Round C - Part 1
 
 ## Week 13
 
-* Lecture : Lightning Talks Round C - Part 3
+* Monday : Lightning Talks Round C - Part 2
+* Wednesday: STePS
 
 ## Reading Week
 
