@@ -61,6 +61,11 @@ Effort| Type | PR | Issue
 
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+16 | D | [`#216`](https://github.com/se-edu/addressbook-level4/pull/216) | Update GUI tests to verify 'last updated' feature
+1 | R | [`#314`](https://github.com/se-edu/addressbook-level4/pull/314) | Make UI look-and-feel consistent
+
 ---
 
 ### Week 10
