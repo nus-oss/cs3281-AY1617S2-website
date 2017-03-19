@@ -88,7 +88,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+8 | D | [`#1161`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1161) | Convert ColorPicker Magnifier to WPF
+1 | R | [`#1175`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1175) | Sync labs Core functionality
+1 | R | [`#1176`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1176) | Add Blocks Timer Prototype
+1 | R | [`#1185`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1185) | Crop to same dimension: dimensions don't match #1180 
 
 ---
 

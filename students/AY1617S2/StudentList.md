@@ -65,11 +65,11 @@
 
 <img src="ongHengLe/OngHengLe.png" width="100" /><br>
 [[Resume](ongHengLe/OngHengLe-Resume.md)]
-[[Website](https://initialshl.github.io/)]
+[[Website](https://github.com/initialshl)]
 [[Github Profile](https://github.com/initialshl)]
 [[Progress](ongHengLe/OngHengLe-Progress.md)]
 
-* Expert areas: C#, Performance, Visual Studio Profiling Tools 
+* Expert areas: C#, Performance Profiling, UI Design
 * Projects: [PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs), [Visual Studio Code](https://github.com/Microsoft/vscode)
 
 
