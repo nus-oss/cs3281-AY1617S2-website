@@ -1,5 +1,4 @@
 # Contributing to Open Source: freeCodeCamp
----
 
 ## Introduction
 
@@ -34,23 +33,23 @@ Here is a short summary of the contributing workflow:
 
 ## What I've learnt
 
-### Not every contribution has to be a large one.
-
-I was actually quite surprised at how receptive the admin team was in responding to suggestions, even for minor ones like minor wording errors. For any large project or repository, many things can be improved, and even the small things can make the project a little better. I find that a common belief amongst many coders nowadays is that it's not worth wasting time on things that aren't broken, and that it's better to focus on the bigger things like new features and breaking bug fixes. While true, it doesn't make little fixes any less beneficial, as these add polish and quality to the code base in general. These really help in improving the user experience, both for users and developers alike.
-
 ### Don't be afraid to share your suggestions.
 
 One main deterrent that stops many programmers from contributing to open source is that they're afraid of sharing their code. Creating an issue and a PR usually leaves you open to other coders to comment and judge your work, and that's never a nice feeling. While there are a few unsavory people who might be overly judgemental, there are also many who are willing to guide you and offer a helping hand. The point of open source is to encourage coders to share their code (and for free), so people aren't as critical of mistakes as you would think. Even though a few of my PRs had a lot of things that need fixing, I felt that most of their criticisms were fair, and they pointed them out respectfully and without ill intent. I can safely say that contributing to freeCodeCamp has helped me improve my coding skills.
+
+### Not every contribution has to be a large one.
+
+I was actually quite surprised at how receptive the admin team was in responding to suggestions, even for minor ones like minor wording errors. For any large project or repository, many things can be improved, and even the small things can make the project a little better. I find that a common belief amongst many coders nowadays is that it's not worth wasting time on things that aren't broken, and that it's better to focus on the bigger things like new features and breaking bug fixes. While true, it doesn't make little fixes any less beneficial, as these add polish and quality to the code base in general. These really help in improving the user experience, both for users and developers alike.
 
 ### Learn to learn.
 
 It's hard to get into a new project. The first step, setting up the project and understanding the codebase is usually the hardest, and the problems you encounter are usually unique to your system and not documented. It's frustrating, but I think working with external open source projects offers an experience that a comfortable school project environment would never provide. You learn how to troubleshoot, look for help, and solve problems on your own. These are all vital skills in learning new how to operate new frameworks and projects, and are very applicable to programmers since new technologies pop up all the time. I usually say that a good programmer isn't one who's proficient at what he's used to, but rather one who can be given something he has never used before and instantly learn it. Open source offers good training in this aspect since pretty much every single repository uses a different stack and workflow that needs learning.
 
 Other small notes/interesting details:
-    * If you need a response/review from someone, tag him/her. Don't be shy and just silently commit changes. Otherwise your PR won't be reviewed for weeks.
-    * Conventions may be there, but they aren't always followed. In the few weeks I was surveying the issue and PR lists, I've observed many people who neglected to read the docs and just did whatever they liked. Surprisingly, the admins didn't really have much problem with this, as long as it didn't cause trouble. I guess results trumps bureaucracy at the end of the day.
-    * When it doubt, make a PR anyway. The admins may not have time to look through issues, but they'll definitely review PRs.
-    * freeCodeCamp is a place for coders to learn GitHub, so many new issues get snapped up really quickly. The admins don't mind who does the work as long as it gets done, so they go by first come first serve. One practice I had to adopt was to make an issue, then make a PR as soon as possible. I wouldn't recommend doing this on other repositories, but when grades are involved you have to be a little competitive =).
+* If you need a response/review from someone, tag him/her. Don't be shy and just silently commit changes. Otherwise your PR won't be reviewed for weeks.
+* Conventions may be there, but they aren't always followed. In the few weeks I was surveying the issue and PR lists, I've observed many people who neglected to read the docs and just did whatever they liked. Surprisingly, the admins didn't really have much problem with this, as long as it didn't cause trouble. I guess results trumps bureaucracy at the end of the day.
+* When it doubt, make a PR anyway. The admins may not have time to look through issues, but they'll definitely review PRs.
+* freeCodeCamp is a place for coders to learn GitHub, so many new issues get snapped up really quickly. The admins don't mind who does the work as long as it gets done, so they go by first come first serve. One practice I had to adopt was to make an issue, then make a PR as soon as possible. I wouldn't recommend doing this on other repositories, but when grades are involved you have to be a little competitive =).
     
 ## Comparison to NUS-OSS
 
