@@ -158,11 +158,21 @@ Effort| Description
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+1 | R | [6814](https://github.com/TEAMMATES/teammates/pull/6814) | Add CheckStyle rule CommentsIndentation
+1 | R | [6796](https://github.com/TEAMMATES/teammates/pull/6796) | ControllerServlet: do not sent email to admin upon error
+1 | R | [6793](https://github.com/TEAMMATES/teammates/pull/6793) | Codecov missing base report
+1 | R | [6778](https://github.com/TEAMMATES/teammates/pull/6778) | Random test fail in &ast;LogicTest.java recently
+2 | D | [6769](https://github.com/TEAMMATES/teammates/pull/6769) | Update third-party dependencies
+1 | R | [6622](https://github.com/TEAMMATES/teammates/pull/6622) | Document how to compress images
+4 | D | [6583](https://github.com/TEAMMATES/teammates/pull/6583) | Add Javadoc rules to Checkstyle without full enforcement
+2 | R | [6524](https://github.com/TEAMMATES/teammates/pull/6524) | Separate the UI part and logic part in ActivityLogEntry
 
 Other works:
 
 Effort| Description
 :----:|:----
+2 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+2 | Release V5.99 management
 
 ---
 ### Week 10
