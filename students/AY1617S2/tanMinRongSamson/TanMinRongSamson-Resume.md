@@ -20,51 +20,39 @@ Experience
 ----------
 **Undergraduate Research Assistant (Data Science)** <br>
 National University of Singapore | Singapore <br>
-January 2017 - Present <br>
-***Responsibilities***
+January 2017 - Present
 
-*   Data Wrangling
-*   Conduct research analysis such as computerized topical/sentiment/semantic network analysis
-*   Supervise machine learning in Python
-*   Write academic papers based on above data analyses
-*   Maintain and improve analytical aspect of an online platform
-*   Manage collaboration with external academics and/or institutions
+*   Wrangled and analyzed data using seaborn, Stata
+*   Wrote academic report based on above data analyses
+
 
 **Management Support Staff (Writer)** <br>
-Centre for Quantum Technologies | August 2016 - February 2017 (7 months) <br>
-***Responsibilities***
+Centre for Quantum Technologies | August 2016 - February 2017 (7 months)
 
-*   Research and create content for the ongoing Quantum Shorts 2016 film festival on a part-time basis.
-
-Articles I've written:
+*   Wrote articles for the Quantum Shorts 2016 film festival on a part-time basis.
 
 *   [http://shorts2016.quantumlah.org/news/encrypted](http://shorts2016.quantumlah.org/news/encrypted)
 *   [http://shorts2016.quantumlah.org/news/about-time](http://shorts2016.quantumlah.org/news/about-time)
 *   [http://shorts2016.quantumlah.org/news/quantum-computing](http://shorts2016.quantumlah.org/news/quantum-computing)
 
 **Undergraduate Student Researcher (Software Engineering)** <br>
-Centre for Quantum Technologies | May 2016 - August 2016 (3 months) <br>
-***Responsibilities***
+Centre for Quantum Technologies | May 2016 - August 2016 (3 months)
 
-*   Design and develop an interactive exhibit to visualize a quantum wavefunction in real-time
-*   Create visual effects for short film for the International Conference on Quantum Communication, Measurement and Computing (QCMC) 2016
+*   Designed and developed an interactive exhibit that visualises a quantum wavefunction in real-time, enabling the general public to appreciate the ‘weirdness’ of quantum physics.
+    *   C++, openCV, Microsoft Kinect v2
 
-*Technologies learnt*
-
-*   Microsoft Kinect for Windows v2
-*   C++, openCV 3.1.0, armadillo
+*   Created visual effects for short film for the International Conference on Quantum Communication, Measurement and Computing (QCMC) 2016
 
 **Houdini Technical Director** <br>
-Lighthouse Media International | April 2013 - August 2013 (5 months) <br>
-***Responsibilities***
+Lighthouse Media International | April 2013 - August 2013 (5 months)
 
-*   Research & Development of Digital Assets in Houdini
+*   Researched & Developed Digital Assets in Houdini
 
 **Visual Effects Intern** <br>
-Side Effects Software Inc | June 2012 - September 2012 (3 months) <br>
-***Responsibilities*** <br>
+Side Effects Software Inc | June 2012 - September 2012 (3 months)
 
-*   Self-directed learning of Houdini and completing a Houdini-based project (Procedural Jellyfish).
+*   Completed a Houdini-based FX project under the guidance of an industry mentor.
+    *   [Procedural Jellyfish](https://vimeo.com/samsontmr/sesijellyfish)
 
 External OSS Contributions
 -----------------
@@ -96,6 +84,7 @@ Expert Areas
 *   [oss-bot-js](https://github.com/samsontmr/oss-bot-js) for PR validation (node.js version)
 *   [Create issue templates for TEAMMATES](https://github.com/TEAMMATES/teammates/pull/6351)
 *   [IntelliJ IDEA documentation for TEAMMATES](https://github.com/TEAMMATES/teammates/pull/6592)
+*   [Lightning talk on writing great documentation](https://github.com/nus-oss/lightningtalks/issues/24)
 
 **Machine Learning & Artificial Intelligence**
 *   [Blog on data science and Python libraries for data science](https://samsontmr.github.io)
@@ -113,11 +102,6 @@ Expert Areas
 
 Skills
 --------
-**Programming**
-
-*   **Proficient:** Object Oriented
-*   **Familiar:** Functional
-
 **Languages**
 
 *   **Proficient:** Java, Python
@@ -135,7 +119,7 @@ pandas, scikit-learn, openCV
 
 *   Quantitative Reasoning
 *   Academic Writing
-*   Artistic Direction
+*   Visual Design
 
 Hackathons
 ----------

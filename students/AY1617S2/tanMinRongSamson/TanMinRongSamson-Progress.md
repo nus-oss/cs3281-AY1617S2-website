@@ -79,6 +79,21 @@ Effort| Type | PR | Issue
 ---
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6604`](https://github.com/TEAMMATES/teammates/pull/6604) | Remove getCourseDetails method from CourseLogic
+1 | R | [`#6709`](https://github.com/TEAMMATES/teammates/pull/6709) | Clarify App Engine SDK selection instructions in Development Guidelines
+1 | R | [`#6807`](https://github.com/TEAMMATES/teammates/pull/6807) | Change `File` to `Configure` in Step 2 of instructions for setting up IntelliJ fixes
+1 | R | [`#6781`](https://github.com/TEAMMATES/teammates/pull/6781) | development.md: Timezone needs to be specified in IntelliJ dev server run configuration during testing
+1 | R | [`#6764`](https://github.com/TEAMMATES/teammates/pull/6764) | Change `Play` to `Run...` in development.md
+1 | R | [`#6763`](https://github.com/TEAMMATES/teammates/pull/6763) | Setup guide: mention the Java path should use '/'
+1 | R | [`#6761`](https://github.com/TEAMMATES/teammates/pull/6761) | Increase clarity of instructions for configuring checkstyle in IDEA IntelliJ
+1 | R | [`#6633`](https://github.com/TEAMMATES/teammates/pull/6633) | Refactor updateStudent in StudentsDb
+1 | D | [`#6800`](https://github.com/TEAMMATES/teammates/pull/6800) | Update IntelliJ guides
+4 | D | [`#12`](https://github.com/samsontmr/oss-bot-js/pull/12) | Feedback should contain suggestions on fixing convention violations in PR body
+8 | D | [`#6578`](https://github.com/TEAMMATES/teammates/pull/6578) | Refactor FeedbackSessionsLogic#getFeedbackSessionResultsForUserWithParams
+1 | O | - | Interaction with new contributors
+2 | O | - | Maintenance, troubleshooting of teammates-bot and oss-bot-js repository
 ---
 ### Week 10
 
