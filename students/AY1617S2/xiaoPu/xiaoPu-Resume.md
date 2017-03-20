@@ -27,11 +27,11 @@ xp.xiaopu@gmail.com
 
 ## Experience
 
-- **OSS Project: Teammates**
+- **OSS Project: TEAMMATES**
 	
 	_2017 January and onwards_
 	
-	Teammates is an online peer evaluation/feedback system used in
+	TEAMMATES is an online peer evaluation/feedback system used in
 1085 institutions from 78 countries. Github Page :
 https://github.com/TEAMMATES/teammates
 	
@@ -47,6 +47,7 @@ https://github.com/TEAMMATES/teammates
 	
 	- Add one additional test case for a challenge in FreeCodeCamp ([#13499](https://github.com/freeCodeCamp/freeCodeCamp/pull/13499))
 	- Write test cases for GUI Model ([#3957](https://github.com/checkstyle/checkstyle/pull/3957))
+	- Observed the differences in contribution workflow between TEAMMATES and CheckStyle ([Observation Report](Observations-CheckStyleProject.md))
 
 - **Teaching Assistant in Software Engineering Course**
 	
