@@ -62,6 +62,7 @@ Information Systems Intern
     * PRs contributed:
         * [Fix webpreferences not accepting numeric options #8542](https://github.com/electron/electron/pull/8542)
         * [Support message, nameFieldLabel and showsTagField for macOS dialog #8556](https://github.com/electron/electron/pull/8556)
+    * Observations: [Link](https://github.com/nus-oss/cs3281-website/blob/master/students/AY1617S2/tanWangLeng/Observations-ElectronProject.md)
 
 ### Other Projects
 
