@@ -51,6 +51,7 @@
 
 * **Zulip** ([Source](https://github.com/zulip/zulip))
   * Work on front-end bug-fixes.
+  * Write [an observation of contributing to zulip](/Observations-Zulip.md).
   * [List of PRs](https://goo.gl/0TjIyL)
 
 * **hexo-theme-hiero** ([Source](https://github.com/iTimeTraveler/hexo-theme-hiero))
