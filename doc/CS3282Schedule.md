@@ -89,7 +89,7 @@
 
 ## Week 10
 
-* Lecture : Discussion on project work flows
+* Lecture : Project specific discussions 
 
 ## Week 11
 
@@ -101,5 +101,6 @@
 
 ## Week 13
 
-* Lecture : Project specific discussions
+* Wednesday: STePS
+* Thursday: No session
 
