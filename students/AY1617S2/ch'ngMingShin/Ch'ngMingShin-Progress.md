@@ -67,6 +67,7 @@ Effort| Type | PR | Issue
 1 | R | [`#6842`](https://github.com/TEAMMATES/teammates/pull/6842) | Get rid of unnecessary read in EntitiesDb.createEntity
 1 | R | [`#6851`](https://github.com/TEAMMATES/teammates/pull/6851) | Error while putting document
 1 | R | [`#6896`](https://github.com/TEAMMATES/teammates/pull/6896) | Minor error under no signup required for students writeup in features.jsp
+2 | D | [`#6834`](https://github.com/TEAMMATES/teammates/pull/6834) | Optimize creation of multiple new feedback responses 
 
 ---
 ### Week 11
