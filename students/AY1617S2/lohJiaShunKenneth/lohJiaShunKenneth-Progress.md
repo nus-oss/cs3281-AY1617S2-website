@@ -72,6 +72,14 @@ Effort| Type | PR | Issue
 ---
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
++1 | R | [#1200](https://github.com/PowerPointLabs/PowerPointLabs/pull/1200) |  Paste to fill slide: should cover entire slide
++1 | R | [#1202](https://github.com/PowerPointLabs/PowerPointLabs/pull/1202) |  Timer Lab: Allow customization of timer
++1 | D | [#1216](https://github.com/PowerPointLabs/PowerPointLabs/pull/1216) |  Refactor functions in SyncLab
++1 | D | [#1227](https://github.com/PowerPointLabs/PowerPointLabs/pull/1227) |  Support naming copied attributes
++8 | D | [#1119](https://github.com/PowerPointLabs/PowerPointLabs/pull/1119) |  Change a way of identifying "recorded" and "generated"
+
 ---
 ### Week 11
 
