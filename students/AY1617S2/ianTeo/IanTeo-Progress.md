@@ -78,7 +78,14 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | D | [#1195](https://github.com/PowerPointLabs/PowerPointLabs/pull/1195) | Sync Labs: Sync line fill not working #1194
+2 | D | [#1215](https://github.com/PowerPointLabs/PowerPointLabs/pull/1215) | Sync Lab: Add crash-prevention in Copy/Paste #1206
+4 | D | [#1225](https://github.com/PowerPointLabs/PowerPointLabs/pull/1225) | Sync Lab: Improve Sync Line #1208
+2 | D | [#1232](https://github.com/PowerPointLabs/PowerPointLabs/pull/1232) | Sync Lab: Improve Sync Fill #1207
+1 | R | [#1192](https://github.com/PowerPointLabs/PowerPointLabs/issues/1192) | Crop out padding: over cropping #1182
+1 | R | [#1193](https://github.com/PowerPointLabs/PowerPointLabs/pull/1193) | Try picking colors without selecting an object: button stays pressed after error message #1183
+1 | R | [#1202](https://github.com/PowerPointLabs/PowerPointLabs/pull/1202) | Timer Lab: Allow customization of timer #1199
+1 | R | [#1216](https://github.com/PowerPointLabs/PowerPointLabs/pull/1216) | Refactor functions in SyncLab #1216
  
 ---
 ### Week 11
