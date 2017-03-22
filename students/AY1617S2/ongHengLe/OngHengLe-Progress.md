@@ -99,7 +99,15 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#1192`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1192) | Crop out padding: over cropping #1182
+2 | D | [`#1193`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1193) | Try picking colors without selecting an object: button stays pressed after error message #1183
+1 | R | [`#1197`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1197) | SyncLabs V2
+1 | D | [`#1211`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1211) | Context menu: Crop To Shape has no icon #1203
+1 | R | [`#1172`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1172) | Add missing icons for minimized groups in ribbon #1105
+1 | R | [`#1187`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1187) | StyleCop: Enable Indentation rules #1081
+1 | R | [`#1202`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1202) | Timer Lab: Allow customization of timer #1199
+1 | R | [`#1215`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1215) | Sync Lab: Add crash-prevention in Copy/Paste #1206
+4 | D | [`#1233`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1233) | Crop Lab: Convert some functional tests to unit tests
 
 ---
 
