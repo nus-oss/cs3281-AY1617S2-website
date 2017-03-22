@@ -54,10 +54,16 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-+16 | D | [#1175](https://github.com/PowerPointLabs/PowerPointLabs/pull/1175) |  Add more functionality for Sync Labs
 
 ---
 ### Week 8
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
++16 | D | [#1175](https://github.com/PowerPointLabs/PowerPointLabs/pull/1175) |  Add more functionality for Sync Labs
+
+---
+### Week 9
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
@@ -65,9 +71,6 @@ Effort| Type | PR | Issue
 +1 | R | [#1115](https://github.com/PowerPointLabs/PowerPointLabs/pull/1115) |  Highlight Point doesn't work with last bullet
 +1 | D | [#1170](https://github.com/PowerPointLabs/PowerPointLabs/pull/1170) |  Some Captions Lab improvements
 +8 | D | [#1197](https://github.com/PowerPointLabs/PowerPointLabs/pull/1197) |  SyncLabs V2
-
----
-### Week 9
 
 ---
 ### Week 10
