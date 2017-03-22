@@ -89,7 +89,7 @@ Effort| Type | PR | Issue
 1 | R | [`#6820`](https://github.com/TEAMMATES/teammates/pull/6820) | Convert test JS files to ES6
 1 | R | [`#6871`](https://github.com/TEAMMATES/teammates/pull/6871) | Forbid 'use strict' directive in ES6 code
 1 | R | [`#6895`](https://github.com/TEAMMATES/teammates/pull/6895) | Add instructions for building JS files
-2 | O | Pending | Notes on possible improvements for teammates from external project
+2 | O | [`#226`](https://github.com/nus-oss/cs3281-website/pull/226) | Dickson & Thenaesh: Compile Suggestions for Improvement for TEAMMATES
 1 | O | | Interacted with new developers
 
 ---
