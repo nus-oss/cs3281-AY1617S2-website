@@ -63,7 +63,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | R | [`#6602`](https://github.com/TEAMMATES/teammates/pull/6602) | Exception thrown trying to retrieve CourseStudent: IllegalBlockSizeException
+1 | R | [`#6842`](https://github.com/TEAMMATES/teammates/pull/6842) | Get rid of unnecessary read in EntitiesDb.createEntity
+1 | R | [`#6851`](https://github.com/TEAMMATES/teammates/pull/6851) | Error while putting document
+1 | R | [`#6896`](https://github.com/TEAMMATES/teammates/pull/6896) | Minor error under no signup required for students writeup in features.jsp
 
 ---
 ### Week 11
