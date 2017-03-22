@@ -96,11 +96,19 @@ Effort| Type | PR | Issue
 
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+
 ---
 
 ### Week 12
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
 
 ---
 
 ### Week 13
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
