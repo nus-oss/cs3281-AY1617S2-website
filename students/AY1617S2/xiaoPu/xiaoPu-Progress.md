@@ -81,6 +81,16 @@ Effort| Type | PR | Issue
 ---
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#6755`](https://github.com/TEAMMATES/teammates/pull/6755) | Separate the UI and logic for EmailLogEntry #6753
+2 | D | [`#6814`](https://github.com/TEAMMATES/teammates/pull/6814) | Add CheckStyle rule CommentsIndentation #6813
+1 | D | [`#6793`](https://github.com/TEAMMATES/teammates/pull/6793) | Codecov missing base report #6791
+2 | R | [`#6897`](https://github.com/TEAMMATES/teammates/pull/6897) | Add more Javadoc to the code base #6892
+1 | R | [`#6853`](https://github.com/TEAMMATES/teammates/pull/6853) | Different types of styles/fonts used in staticAnalysis.md #6843
+1 | R | [`#6856`](https://github.com/TEAMMATES/teammates/pull/6856) | Navbar showing contents behind it #6823
+
+
 ---
 ### Week 11
 
