@@ -82,6 +82,16 @@ Effort| Type | PR | Issue
 
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6852`](https://github.com/TEAMMATES/teammates/pull/6852) | Update the rest of Instructor*.js to ES6
+1 | R | [`#6786`](https://github.com/TEAMMATES/teammates/pull/6786) | Update all admin*.js to ES6
+1 | R | [`#6820`](https://github.com/TEAMMATES/teammates/pull/6820) | Convert test JS files to ES6
+1 | R | [`#6871`](https://github.com/TEAMMATES/teammates/pull/6871) | Forbid 'use strict' directive in ES6 code
+1 | R | [`#6895`](https://github.com/TEAMMATES/teammates/pull/6895) | Add instructions for building JS files
+2 | O | Pending | Notes on possible improvements for teammates from external project
+1 | O | | Interacted with new developers
+
 ---
 
 ### Week 11
