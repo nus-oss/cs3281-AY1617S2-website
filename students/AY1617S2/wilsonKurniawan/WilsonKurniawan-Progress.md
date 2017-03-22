@@ -179,11 +179,18 @@ Effort| Description
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+1 | R | [6883](https://github.com/TEAMMATES/teammates/pull/6883) | Minor error under "Downloadable data" writeup in features.jsp
+4 | D | [6872](https://github.com/TEAMMATES/teammates/pull/6872) | Travis CI failing due to connectivity issue with NPM
+1 | R | [6836](https://github.com/TEAMMATES/teammates/pull/6836) | TEAMMATES logo displaced
+2 | R | [6755](https://github.com/TEAMMATES/teammates/pull/6755) | Separate the UI and logic for EmailLogEntry
+2 | R | [6626](https://github.com/TEAMMATES/teammates/pull/6626) | Remove HTML sanitization in AdminEmailAttributes
 
 Other works:
 
 Effort| Description
 :----:|:----
+2 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+2 | Release V5.100 management
 
 ---
 ### Week 11
