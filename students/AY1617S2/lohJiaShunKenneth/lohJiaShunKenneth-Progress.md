@@ -82,6 +82,7 @@ Effort| Type | PR | Issue
 +1 | D | [#1216](https://github.com/PowerPointLabs/PowerPointLabs/pull/1216) |  Refactor functions in SyncLab
 +1 | D | [#1227](https://github.com/PowerPointLabs/PowerPointLabs/pull/1227) |  Support naming copied attributes
 +8 | D | [#1119](https://github.com/PowerPointLabs/PowerPointLabs/pull/1119) |  Change a way of identifying "recorded" and "generated"
++1 | | | User support
 
 ---
 ### Week 11
