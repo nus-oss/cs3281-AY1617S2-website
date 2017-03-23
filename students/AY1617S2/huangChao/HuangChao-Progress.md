@@ -80,6 +80,13 @@ Effort| Type | PR | Issue
 
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | D | [`#354`](https://github.com/se-edu/addressbook-level4/pull/354) | All gui tests are failing
+1 | R | [`#352`](https://github.com/se-edu/addressbook-level4/pull/352) | Outdated prefixes in ArgumentTokenizer
+2 | R | [`#320`](https://github.com/se-edu/addressbook-level4/pull/320) | ArgumentTokenizer: ensure tokenizing before getting values
+4 | D | [`#347`](https://github.com/se-edu/addressbook-level4/pull/347) | Travis CI: cache dependencies
+
 ---
 
 ### Week 12
