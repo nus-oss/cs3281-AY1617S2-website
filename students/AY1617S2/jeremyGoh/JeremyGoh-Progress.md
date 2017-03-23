@@ -78,7 +78,9 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+ 4 | D | [`#338`](https://github.com/se-edu/addressbook-level4/pull/338) | Index is cut off when names are too long for PersonCard
+ 1 | R | [`#345`](https://github.com/se-edu/addressbook-level4/pull/345) | Fix typo in LogsCenter#getLogger(...) header comment 
+
 
 ---
 
