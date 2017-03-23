@@ -80,7 +80,16 @@ Effort| Type | PR | Issue
  
 ---
 ### Week 10
-
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+ 1 | R | [#1189](https://github.com/PowerPointLabs/PowerPointLabs/pull/1189) | Redirect in README could be improved #1188
+ 2 | R | [#1204](https://github.com/PowerPointLabs/PowerPointLabs/pull/1204) | Crop to slide: support even cropping of non-picture objects #1179
+ 1 | R | [#1215](https://github.com/PowerPointLabs/PowerPointLabs/pull/1215) | Sync Lab: Add crash-prevention in Copy/Paste #1206
+ 1 | R | [#1212](https://github.com/PowerPointLabs/PowerPointLabs/pull/1212) | Context menu: empty menu item #1178
+ 1 | R | [#1225](https://github.com/PowerPointLabs/PowerPointLabs/pull/1225) | Sync Lab: Improve Sync Line #1208
+ 4 | R | [#1231](https://github.com/PowerPointLabs/PowerPointLabs/pull/1231) | Sync Lab: Improve Sync Fill #1207
+ 8 | D | [#1232](https://github.com/PowerPointLabs/PowerPointLabs/pull/1232) | Timer Lab: Allow changing of timer dimensions #1235
+ 
 ---
 ### Week 11
 
