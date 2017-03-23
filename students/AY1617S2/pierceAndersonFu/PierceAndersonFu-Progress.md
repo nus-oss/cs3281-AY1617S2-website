@@ -66,6 +66,11 @@ Effort| Type | PR | Issue
 ---
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [#338](https://github.com/se-edu/addressbook-level4/pull/338) | Index is cut off when names are too long for PersonCard #323
+2 | O | [#214](https://github.com/nus-oss/cs3281-website/pull/214) | Discussion summary on possible improvements to se-edu based on external OSS
+
 ---
 ### Week 11
 
