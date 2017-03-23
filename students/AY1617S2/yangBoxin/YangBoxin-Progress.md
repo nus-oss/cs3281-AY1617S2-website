@@ -56,7 +56,9 @@ Effort| Type | PR | Issue
 
 ### Week 10
 
----
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+32 | D | [`#6608`](https://github.com/TEAMMATES/teammates/pull/6608) | [Instructor view results: do not auto-load 3 questions #6568](https://github.com/TEAMMATES/teammates/issues/6568)
 
 ### Week 11
 
