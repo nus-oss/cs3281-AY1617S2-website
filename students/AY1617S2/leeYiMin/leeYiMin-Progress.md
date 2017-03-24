@@ -61,7 +61,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-2 | D | [`#6626`](https://github.com/TEAMMATES/teammates/pull/6626) | Remove HTML sanitization in AdminEmailAttributes #6625
+4 | D | [`#6626`](https://github.com/TEAMMATES/teammates/pull/6626) | Remove HTML sanitization in AdminEmailAttributes #6625
 1 | R | [`#6755`](https://github.com/TEAMMATES/teammates/pull/6755) | Separate the UI and logic for EmailLogEntry #6753
 1 | R | [`#6672`](https://github.com/TEAMMATES/teammates/pull/6672) | Refactor getQuestionResultStatistics* methods in FeedbackMsqQuestionDetails class #6659
 1 | R | [`#6911`](https://github.com/TEAMMATES/teammates/pull/6911) | Footer text "Hosted on Google App Engine" cut off #6890
