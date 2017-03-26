@@ -67,6 +67,15 @@ Effort| Type | PR | Issue
 ---
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6801`](https://github.com/TEAMMATES/teammates/pull/6801) | [Convert instructorFeedbackEdit*.js and instructorFeedbacks*.js to ES6 #6773](https://github.com/TEAMMATES/teammates/issues/6773)
+1 | R | [`#6686`](https://github.com/TEAMMATES/teammates/pull/6686) | [Bug: Student received submission confirmation but the responses are not recorded #6643](https://github.com/TEAMMATES/teammates/issues/6643)
+1 | R | [`#18`](https://github.com/samsontmr/oss-bot-js/pull/18) | [Set up unit tests #10](https://github.com/samsontmr/oss-bot-js/issues/10)
+2 | D | [`#6786`](https://github.com/TEAMMATES/teammates/pull/6786) | [Update all admin*.js to ES6 #6785](https://github.com/TEAMMATES/teammates/issues/6785)
+1 | D | [`#19`](https://github.com/samsontmr/oss-bot-js/pull/19) | [Allow ES6 code #15](https://github.com/samsontmr/oss-bot-js/issues/15)
+1 | D | [`#24`](https://github.com/samsontmr/oss-bot-js/pull/24) | [Migrate test files to es6 #23](https://github.com/samsontmr/oss-bot-js/issues/23)
+
 ---
 ### Week 11
 
