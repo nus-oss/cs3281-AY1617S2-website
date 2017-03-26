@@ -107,6 +107,16 @@ Effort| Type | PR | Issue
 
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+8 | D | [`#1187`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1187) | StyleCop: Enable Indentation rules
+2 | D | [`#1172`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1172) | Add missing icons for minimized groups in ribbon
+1 | D | [`#29`](https://github.com/samsontmr/oss-bot-js/pull/29) | Configure Travis to execute ESLint
+1 | R | [`#19`](https://github.com/samsontmr/oss-bot-js/pull/19) | Allow ES6 code
+1 | R | [`#1195`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1195) | Sync Labs: Sync line fill not working
+1 | O | - | Deployed dev-release-2.8.7.16
+1 | O | - | Deployed alpha-release-2017.3.22.1
+
 ---
 
 ### Week 11
