@@ -97,6 +97,19 @@ Effort| Type | PR | Issue
 ---
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+8 | D | [`#6592`](https://github.com/TEAMMATES/teammates/pull/6592) | Add IntelliJ support for TEAMMATES
+2 | D | [`#6828`](https://github.com/TEAMMATES/teammates/pull/6828) | Add staging test configuration for IntelliJ
+2 | D | [`#31`](https://github.com/samsontmr/oss-bot-js/pull/31) | Implement in-depth check for PR titles
+16 | R | [`#6452`](https://github.com/TEAMMATES/teammates/pull/6452), [`#6480`](https://github.com/TEAMMATES/teammates/pull/6480), [`#6830`](https://github.com/TEAMMATES/teammates/pull/6830) | Refactor some duplicated methods in action classes
+1 | R | [`#6809`](https://github.com/TEAMMATES/teammates/pull/6809) | Clarify App Engine SDK selection instructions in Development Guidelines
+1 | R | [`#6751`](https://github.com/TEAMMATES/teammates/pull/6751) | Remove unnecessary classes in common.datatransfer package
+1 | R |[`#6734`](https://github.com/TEAMMATES/teammates/pull/6734) | Setup guide: Change `Import existing project` to `Import project`
+1 | R | [`#6718`](https://github.com/TEAMMATES/teammates/pull/6718) | Update number of contributors in index.jsp
+1 | R | [`#6708`](https://github.com/TEAMMATES/teammates/pull/6708) | Unused `@returns` documentation tags in datepicker.js
+1 | R | [`#6679`](https://github.com/TEAMMATES/teammates/pull/6679) | AboutUs page: make the list numbering continuous
+1 | O | - | Interaction with new contributors
 ---
 ### Week 11
 
