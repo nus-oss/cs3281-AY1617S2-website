@@ -90,7 +90,12 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | R | [`#57`](https://github.com/oss-generic/process/pull/57) | Standardize how to refer to Java class variables and methods from text #51
+1 | R | [`#216`](https://github.com/se-edu/addressbook-level4/pull/216) | Update GUI tests to verify 'last updated' feature #114
+1 | R | [`#314`](https://github.com/se-edu/addressbook-level4/pull/314) | Make UI look-and-feel consistent #299
+1 | R | [`#214`](https://github.com/se-edu/addressbook-level4/pull/214) | Allow updating addressBookPath and addressBookName at runtime. #213
+1 | R | [`#343`](https://github.com/se-edu/addressbook-level4/pull/343) | HTML anchors in UserGuide.md DeveloperGuide.md all broken #340
+1 | R | [`#338`](https://github.com/se-edu/addressbook-level4/pull/338) | Index is cut off when names are too long for PersonCard #323
 
 ---
 
