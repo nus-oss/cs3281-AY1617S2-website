@@ -69,6 +69,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | D | [`#6871`](https://github.com/TEAMMATES/teammates/pull/6871) | Forbid 'use strict' directive in ES6 code #6870
+1 | R | [`#6852`](https://github.com/TEAMMATES/teammates/pull/6852) | Update the rest of Instructor\*.js to ES6 #6819
+1 | R | [`#6820`](https://github.com/TEAMMATES/teammates/pull/6820) | Convert test JS files to ES6 #6811
+
 ---
 ### Week 11
 
