@@ -1,5 +1,7 @@
 # Contributing to coala
 
+Author: [Pierce Anderson Fu](https://github.com/PierceAndy)
+
 ## coala Workflow Documentation
 
 - [Newcomers' Guide](http://api.coala.io/en/latest/Developers/Newcomers_Guide.html)
