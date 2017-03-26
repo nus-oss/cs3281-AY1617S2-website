@@ -87,6 +87,21 @@ Effort| Type | PR | Issue
 ---
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | D | [`#1167`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1167) | Help button redirecting to old docs site #1165
+1 | D | [`#1189`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1189) | Redirect in README could be improved #1188
+2 | D | [`#1204`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1204) | Crop to slide: support even cropping of non-picture objects #1179
+1 | D | [`#1212`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1212) | Context menu: empty menu item #1178
+1 | R | [`#1227`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1227) | Support naming copied attributes #1224
+1 | R | [`#1225`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1225) | Sync Lab: Improve Sync Line #1208
+1 | R | [`#1216`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1216) | Refactor functions in SyncLab
+1 | R | [`#1211`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1211) | Context menu: Crop To Shape has no icon #1203
+1 | R | [`#1200`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1200) | Paste to fill slide: should cover entire slide #1177
+1 | R | [`#1197`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1197) | SyncLabs V2
+1 | R | [`#1187`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1187) | StyleCop: Enable Indentation rules #1081
+1 | R | [`#1187`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1172) | Add missing icons for minimized groups in ribbon #1105
+
 ---
 ### Week 11
 
