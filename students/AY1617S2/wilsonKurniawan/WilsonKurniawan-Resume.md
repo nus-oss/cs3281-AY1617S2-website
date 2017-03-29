@@ -29,6 +29,7 @@ TEAMMATES is a free online tool for managing peer evaluations and other feedback
    1. Streamlined the code quality checks by researching, configuring, and incorporating linters for languages used in the project.
    1. Enabled automated dependency resolution which replaced the project’s previous way of requiring developers to manually download them.
    1. Identified and fixed more than 50 sources of random test failures.
+1. Spearheaded the migration of JavaScript code base from ES3 standard to state-of-the-art ES6 standard.
 1. Mentor for student developers entering into the project.
    1. Facebook Open Academy 2016, Jan - Apr 2016: 2 students.
    1. Google Summer of Code 2016, May - Aug 2016: 1 student.

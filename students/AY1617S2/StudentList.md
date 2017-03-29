@@ -229,7 +229,7 @@
 [[Github Profile](https://github.com/wkurniawan07)]
 [[Progress](wilsonKurniawan/WilsonKurniawan-Progress.md)]
 
-* Expert areas: Software Maintenance, DevOps (Java and JavaScript), Node.js, Website performance
+* Expert areas: Software Project Management, Software Maintenance, DevOps (Java and JavaScript)
 * Projects: TEAMMATES, ESLint
 
 
