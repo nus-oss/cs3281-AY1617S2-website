@@ -94,6 +94,13 @@ Effort| Type | PR | Issue
 ---
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6863`](https://github.com/TEAMMATES/teammates/pull/6863) | Remove useless replacement of text in AdminActivityLogPageActionTest #6857
+1 | R | [`#6858`](https://github.com/TEAMMATES/teammates/pull/6858) | Make use of StringHelper.join() in ActivityLogEntry and AdminActivityLogPageData #6844
+2 | R | [`#6669`](https://github.com/TEAMMATES/teammates/pull/6669) | Failed to instantiate Feedback*QuestionDetails instance for CONTRIB question type #6619
+4 | O | [CS2103R Report](https://xpdavid.github.io/CS2103R-Report/) | Additional Static Analysis Rules for TEAMMATES
+
 ---
 ### Week 12
 

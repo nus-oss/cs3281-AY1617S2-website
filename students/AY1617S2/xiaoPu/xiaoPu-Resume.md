@@ -39,6 +39,7 @@ https://github.com/TEAMMATES/teammates
 	
 	- Contributed 400-500 lines Java, JavaScript and HTML code.
 	- Committer in the community
+	- Proposed additional static analysis rules ([Report](https://xpdavid.github.io/CS2103R-Report/))
 
 - **OSS Project: FreeCodeCamp, CheckStyle**
 	
