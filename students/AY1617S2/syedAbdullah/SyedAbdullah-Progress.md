@@ -121,6 +121,16 @@ Effort| Type | PR | Issue
 
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | - | [`#1221`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1221) | PasteLab: All other features
+2 | D | - | [`#1200`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1221) | Paste to fill slide: should cover entire slide
+1 | R | - | [`#1211`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1211) | Context menu: Crop To Shape has no icon
+1 | R | - | [`#1248`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1248) | Timer duration not syncing automatically
+1 | O | - | Deployed dev-release-2.8.7.17
+1 | O | - | Deployed alpha-release-2017.3.30.1
+1 | O | - | Deployed website changes
+
 ---
 
 ### Week 12
