@@ -70,7 +70,8 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#6926`](https://github.com/TEAMMATES/teammates/pull/6926) | Remove ERROR_NULL_PARAMETER in Logic.java
+2 | R | [`#6608`](https://github.com/TEAMMATES/teammates/pull/6608) | Instructor view results: do not auto-load 3 questions
 
 ---
 ### Week 12
