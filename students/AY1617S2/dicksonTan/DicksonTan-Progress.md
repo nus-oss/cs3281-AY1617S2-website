@@ -98,6 +98,13 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+4 | D | [`#6968`](https://github.com/TEAMMATES/teammates/pull/6968) | Enforce no-use-before-define on instructor*.es6
+1 | R | [`#6480`](https://github.com/TEAMMATES/teammates/pull/6480) | Refactor some duplicated methods in *action classes
+1 | R | [`#6905`](https://github.com/TEAMMATES/teammates/pull/6905) | Add checklist of things to do when submitting PR in the template
+1 | R | [`#6960`](https://github.com/TEAMMATES/teammates/pull/6960) | SettingUp.md: recommend Source Tree instead of GitHub for Windows
+1 | R | [`#6740`](https://github.com/TEAMMATES/teammates/pull/6740) | Instructor view results: increase responses limit to 8000
+1 | R | [`#6937`](https://github.com/TEAMMATES/teammates/pull/6937) | Instructor view results: increase responses limit to 8000
+1 | O | | Interacted with new developers
 
 ---
 
