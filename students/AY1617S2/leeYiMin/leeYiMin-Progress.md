@@ -69,6 +69,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#6717`](https://github.com/TEAMMATES/teammates/pull/6717) | Bug: Display of Admin Email subject in logs is not sanitized #6698
+1 | R | [`#6951`](https://github.com/TEAMMATES/teammates/pull/6951) | Numbering issue in troubleshooting-guide.md #6920
+1 | R | [`#6918`](https://github.com/TEAMMATES/teammates/pull/6918) | Add one step setting configuration at IntelliJ #6919
+
 ---
 ### Week 12
 
