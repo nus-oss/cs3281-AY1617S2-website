@@ -197,11 +197,16 @@ Effort| Description
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+2 | R | [6717](https://github.com/TEAMMATES/teammates/pull/6717) | Bug: Display of Admin Email subject in logs is not sanitized
+1 | D | [6956](https://github.com/TEAMMATES/teammates/pull/6956) | AllJsTests failing on the live server
+1 | D | [6927](https://github.com/TEAMMATES/teammates/pull/6927) | Add deploying instructions for outside Eclipse and IntelliJ
+2 | D | [6905](https://github.com/TEAMMATES/teammates/pull/6905) | Add checklist of things to do when submitting PR in the template
 
 Other works:
 
 Effort| Description
 :----:|:----
+2 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
 
 ---
 ### Week 12
