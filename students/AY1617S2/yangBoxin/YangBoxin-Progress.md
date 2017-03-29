@@ -62,7 +62,13 @@ Effort| Type | PR | Issue
 
 ### Week 11
 
----
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6816`](https://github.com/TEAMMATES/teammates/pull/6816) | [Remove unused parameter in InstructorHomeAjaxCoursePageData.java #6638](https://github.com/TEAMMATES/teammates/issues/6638)
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | D | [`#6926`](https://github.com/TEAMMATES/teammates/pull/6926) | [Remove ERROR_NULL_PARAMETER in Logic.java #6925](https://github.com/TEAMMATES/teammates/issues/6925)
 
 ### Week 12
 
