@@ -92,7 +92,17 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | D | [#1257](https://github.com/PowerPointLabs/PowerPointLabs/pull/1257) | Sync Lab: Darkness of colors not copied #1256
+8 | D | [#1254](https://github.com/PowerPointLabs/PowerPointLabs/pull/1254) | Sync Lab: Add Sync Gradient Fill
+1 | D | [#1252](https://github.com/PowerPointLabs/PowerPointLabs/pull/1252) | Sync Lab: Copy should create multiple undo entries #1214
+8 | D | [#1251](https://github.com/PowerPointLabs/PowerPointLabs/pull/1251) | Sync lab unit test
+1 | R | [#1253](https://github.com/PowerPointLabs/PowerPointLabs/pull/1251) | Sync Lab UI Revamp
+1 | R | [#1248](https://github.com/PowerPointLabs/PowerPointLabs/pull/1248) | Timer duration not syncing automatically #1241
+1 | R | [#1236](https://github.com/PowerPointLabs/PowerPointLabs/pull/1236) | Timer Lab: Allow changing of timer dimensions #1235
+1 | R | [#1233](https://github.com/PowerPointLabs/PowerPointLabs/pull/1233) | Crop Lab: Convert some functional tests to unit tests
+1 | R | [#1231](https://github.com/PowerPointLabs/PowerPointLabs/pull/1231) | Timer Lab: Provide images for rough indication of timer size #1230
+1 | R | [#1229](https://github.com/PowerPointLabs/PowerPointLabs/pull/1229) | Improve text display in SyncLab
+1 | R | [#1224](https://github.com/PowerPointLabs/PowerPointLabs/pull/1227) | Support naming copied attributes #1224
  
 ---
 ### Week 12
