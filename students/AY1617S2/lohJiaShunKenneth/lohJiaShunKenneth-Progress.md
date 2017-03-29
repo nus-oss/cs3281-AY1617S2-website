@@ -87,6 +87,19 @@ Effort| Type | PR | Issue
 ---
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
++1 | R | [#1215](https://github.com/PowerPointLabs/PowerPointLabs/pull/1215) |  Sync Lab: Add crash-prevention in Copy/Paste
++1 | R | [#1221](https://github.com/PowerPointLabs/PowerPointLabs/pull/1221) |  PasteLab: All other features
++1 | R | [#1226](https://github.com/PowerPointLabs/PowerPointLabs/pull/1226) |  Give an informative message when no cropping was done 
++1 | R | [#1234](https://github.com/PowerPointLabs/PowerPointLabs/pull/1234) |  Give an informative message when no cropping was done 
++1 | R | [#1244](https://github.com/PowerPointLabs/PowerPointLabs/pull/1244) |  Crop Lab: Implement Settings for anchor points
++1 | R | [#1252](https://github.com/PowerPointLabs/PowerPointLabs/pull/1252) |  Sync Lab: Copy should create multiple undo entries
++1 | D | [#1229](https://github.com/PowerPointLabs/PowerPointLabs/pull/1229) |  Improve text display in SyncLab
++4 | D | [#1250](https://github.com/PowerPointLabs/PowerPointLabs/pull/1250) |  Sync Lab: Default to shape name if name text box is empty 
++1 | D | [#1253](https://github.com/PowerPointLabs/PowerPointLabs/pull/1253) |  Sync Lab UI Revamp
++1 | | | User support
+
 ---
 ### Week 12
 
