@@ -78,9 +78,8 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- 4 | D | [`#338`](https://github.com/se-edu/addressbook-level4/pull/338) | Index is cut off when names are too long for PersonCard
- 1 | R | [`#345`](https://github.com/se-edu/addressbook-level4/pull/345) | Fix typo in LogsCenter#getLogger(...) header comment 
-
+4 | D | [`#338`](https://github.com/se-edu/addressbook-level4/pull/338) | Index is cut off when names are too long for PersonCard
+1 | R | [`#345`](https://github.com/se-edu/addressbook-level4/pull/345) | Fix typo in LogsCenter#getLogger(...) header comment 
 
 ---
 
@@ -88,7 +87,12 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#339`](https://github.com/se-edu/addressbook-level4/pull/339) | Cannot add a label called `location` in person card
+1 | R | [`#350`](https://github.com/se-edu/addressbook-level4/pull/350) | Add contributor guide for new contributors
+1 | R | [`#354](https://github.com/se-edu/addressbook-level4/pull/354) | All gui tests are failing
+1 | R | [`#320`](https://github.com/se-edu/addressbook-level4/pull/320) | ArgumentTokenizer: ensure tokenizing before getting values
+1 | R | [`#326`](https://github.com/se-edu/addressbook-level4/pull/326) | Make ReadOnlyPerson truly read-only
+
 
 ---
 
