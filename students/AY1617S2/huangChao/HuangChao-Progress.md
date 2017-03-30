@@ -91,6 +91,17 @@ Effort| Type | PR | Issue
 
 ### Week 12
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#369`](https://github.com/se-edu/addressbook-level4/pull/369) | Checkstyle: add EmptyCatchBlock rule
+1 | R | [`#367`](https://github.com/se-edu/addressbook-level4/pull/367) | Checkstyle: add DeclarationOrder rule
+1 | R | [`#363`](https://github.com/se-edu/addressbook-level4/pull/363) | Checkstyle: add ArrayTypeStyle rule
+1 | R | [`#356`](https://github.com/se-edu/addressbook-level4/pull/356) | Simplify FXML files
+1 | R | [`#6`](https://github.com/se-edu/se-edu.github.io/pull/6) | README.md: make project links relative
+1 | D | [`#82`](https://github.com/oss-generic/process/pull/82) | QuestionsIssuesPrs.md: make PR workflow steps linkable
+2 | D | [`#373`](https://github.com/se-edu/addressbook-level4/pull/373) | Remove TestPerson
+2 | O | [`slides`](https://goo.gl/xhKfAc) | co-create slides (flow, contents and narration) for 10th STEPS video
+
 ---
 
 ### Week 13
