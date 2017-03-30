@@ -63,6 +63,10 @@ Effort| Type | PR | Issue
 ---
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+ |  |  |
+
 ---
 ### Week 10
 
@@ -73,6 +77,13 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 11
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [#320](https://github.com/se-edu/addressbook-level4/pull/320) | ArgumentTokenizer: ensure tokenizing before getting values #312
+1 | R | [#339](https://github.com/se-edu/addressbook-level4/pull/339) | Cannot add a label called `location` in person card #336
+1 | R | [#350](https://github.com/se-edu/addressbook-level4/pull/350) | Add contributor guide for new contributors #346
+1 | R | [#354](https://github.com/se-edu/addressbook-level4/pull/354) | All gui tests are failing #353
 
 ---
 ### Week 12
