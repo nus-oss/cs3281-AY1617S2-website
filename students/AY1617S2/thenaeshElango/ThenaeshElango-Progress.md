@@ -78,6 +78,14 @@ Effort| Type | PR | Issue
 ---
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#6832`](https://github.com/TEAMMATES/teammates/pull/6832) | Convert all the remaining JS to ES6 #6831
+4 | D | [`#6967`](https://github.com/TEAMMATES/teammates/pull/6967) | Enforce no-use-before-define on everything not instructor\*.es6 #6965
+1 | R | [`#6895`](https://github.com/TEAMMATES/teammates/pull/6895) | Add instructions for building JS files #6875
+1 | R | [`#6905`](https://github.com/TEAMMATES/teammates/pull/6905) | Add checklist of things to do when submitting PR in the template #6904
+2 | R | [`#6968`](https://github.com/TEAMMATES/teammates/pull/6968) | Enforce no-use-before-define on instructor\*.es6 #6964
+
 ---
 ### Week 12
 
