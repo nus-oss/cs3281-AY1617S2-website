@@ -64,13 +64,28 @@ Effort| Type | PR | Issue
 
 ### Week 9
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+ |  |  |
+
 ---
 
 ### Week 10
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+ |  |  |
+
 ---
 
 ### Week 11
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#326`](https://github.com/se-edu/addressbook-level4/pull/326) | Make ReadOnlyPerson truly read-only #291
+1 | R | [`#347`](https://github.com/se-edu/addressbook-level4/pull/347) | Travis CI: cache dependencies #342
+1 | R | [`#350`](https://github.com/se-edu/addressbook-level4/pull/350) | Add contributor guide for new contributors #346
+1 | R | [`#352`](https://github.com/se-edu/addressbook-level4/pull/352) | Outdated prefixes in ArgumentTokenizer #351
 
 ---
 
