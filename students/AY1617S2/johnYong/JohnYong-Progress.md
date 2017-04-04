@@ -100,6 +100,15 @@
 
 ### Week 11
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  1   |  R   | [`#6876`](https://github.com/TEAMMATES/teammates/pull/6876) | Implement AdminEmailLogPageActionTest |
+|  2   |  R   | [`#6905`](https://github.com/TEAMMATES/teammates/pull/6905) | Add checklist of things to do when submitting PR in the template |
+|  1   |  R   | [`#6927`](https://github.com/TEAMMATES/teammates/pull/6927) | Add deploying instructions for outside Eclipse and IntelliJ |
+|  1   |  R   | [`#6928`](https://github.com/TEAMMATES/teammates/pull/6928) | Batch add documents |
+|  2   |  R   | [`#6933`](https://github.com/TEAMMATES/teammates/pull/6933) | TEAMMATES logo not transparent |
+|  2   |  D   | [`#6970`](https://github.com/TEAMMATES/teammates/pull/6970) | InstructorCourseDetailsPageUiTest failing on live server |
+
 ---
 
 ### Week 12
