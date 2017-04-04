@@ -79,6 +79,14 @@ Effort| Type | PR | Issue
 ---
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6852`](https://github.com/TEAMMATES/teammates/pull/6852) | [Update the rest of Instructor*.js to ES6 #6819](https://github.com/TEAMMATES/teammates/issues/6819)
+2 | R | [`#6832`](https://github.com/TEAMMATES/teammates/pull/6832) | [Convert all the remaining JS to ES6 #6831](https://github.com/TEAMMATES/teammates/issues/6831)
+1 | R | [`#6888`](https://github.com/TEAMMATES/teammates/pull/6888) | [Overflow of Request a free instructor Account outside of container #6879](https://github.com/TEAMMATES/teammates/issues/6879)
+1 | R | [`#6868`](https://github.com/TEAMMATES/teammates/pull/6868) | [Bind loop variable using closure rather than external variable #6712](https://github.com/TEAMMATES/teammates/issues/6712)
+1 | R | [`#6955`](https://github.com/TEAMMATES/teammates/pull/6955) | [Repurpose src/main/webapp/dev for front-end development #6954](https://github.com/TEAMMATES/teammates/issues/6954)
+
 ---
 ### Week 12
 
