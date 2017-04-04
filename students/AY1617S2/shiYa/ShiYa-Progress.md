@@ -87,12 +87,22 @@ Effort| Type | PR | Issue
  1 | R | [#1215](https://github.com/PowerPointLabs/PowerPointLabs/pull/1215) | Sync Lab: Add crash-prevention in Copy/Paste #1206
  1 | R | [#1212](https://github.com/PowerPointLabs/PowerPointLabs/pull/1212) | Context menu: empty menu item #1178
  1 | R | [#1225](https://github.com/PowerPointLabs/PowerPointLabs/pull/1225) | Sync Lab: Improve Sync Line #1208
- 4 | R | [#1231](https://github.com/PowerPointLabs/PowerPointLabs/pull/1231) | Sync Lab: Improve Sync Fill #1207
- 8 | D | [#1232](https://github.com/PowerPointLabs/PowerPointLabs/pull/1232) | Timer Lab: Allow changing of timer dimensions #1235
+ 1 | R | [#1232](https://github.com/PowerPointLabs/PowerPointLabs/pull/1232) | Sync Lab: Improve Sync Fill #1207
+ 4 | D | [#1231](https://github.com/PowerPointLabs/PowerPointLabs/pull/1231) | Timer Lab: Provide images for rough indication of timer size #1230
  
 ---
 ### Week 11
-
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+ 1 | R | [#1244](https://github.com/PowerPointLabs/PowerPointLabs/pull/1244) | Crop Lab: Implement Settings for anchor points #1244
+ 1 | R | [#1250](https://github.com/PowerPointLabs/PowerPointLabs/pull/1250) | Sync Lab: Default to shape name if name text box is empty #1239
+ 1 | R | [#1251](https://github.com/PowerPointLabs/PowerPointLabs/pull/1251) | Sync lab unit test #1251
+ 1 | R | [#1252](https://github.com/PowerPointLabs/PowerPointLabs/pull/1252) | Sync Lab: Copy should create multiple undo entries #1214
+ 1 | R | [#1254](https://github.com/PowerPointLabs/PowerPointLabs/pull/1254) | Sync Lab: Add Sync Gradient Fill #1254
+ 1 | R | [#1257](https://github.com/PowerPointLabs/PowerPointLabs/pull/1257) | Sync Lab: Darkness of colors not copied #1256
+ 8 | D | [#1236](https://github.com/PowerPointLabs/PowerPointLabs/pull/1236) | Timer Lab: Allow changing of timer dimensions #1235
+ 2 | D | [#1248](https://github.com/PowerPointLabs/PowerPointLabs/pull/1248) | Timer duration not syncing automatically #1241
+ 
 ---
 ### Week 12
 
