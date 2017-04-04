@@ -80,7 +80,9 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#6926`](https://github.com/TEAMMATES/teammates/pull/6926) | Remove ERROR_NULL_PARAMETER in Logic.java
+4 | R | [`#6608`](https://github.com/TEAMMATES/teammates/pull/6608) | Instructor view results: do not auto-load 3 questions
+2 | D | [`#6928`](https://github.com/TEAMMATES/teammates/pull/6928) | Batch add documents
 
 ---
 ### Week 12
