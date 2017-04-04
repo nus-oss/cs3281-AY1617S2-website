@@ -103,7 +103,13 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#326`](https://github.com/se-edu/addressbook-level4/pull/326) | ReadOnlyPerson is not truly read-only #291
+1 | R | [`#339`](https://github.com/se-edu/addressbook-level4/pull/339) | Cannot add a label called `location` in person card #336
+1 | R | [`#352`](https://github.com/se-edu/addressbook-level4/pull/352) | Outdated prefixes in ArgumentTokenizer #351
+1 | R | [`#347`](https://github.com/se-edu/addressbook-level4/pull/347) | Travis CI: cache dependencies #342
+1 | R | [`#345`](https://github.com/se-edu/addressbook-level4/pull/345) | Fix typo in LogsCenter#getLogger(...) header comment #344 
+1 | R | [`#354`](https://github.com/se-edu/addressbook-level4/pull/354) | All gui tests are failing #353
+1 | R | [`#188`](https://github.com/se-edu/addressbook-level2/pull/188) | ParserTest: fix naming standard violation #103
 
 ---
 
