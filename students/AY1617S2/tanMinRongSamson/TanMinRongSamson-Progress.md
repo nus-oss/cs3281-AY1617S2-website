@@ -113,6 +113,19 @@ Effort| Type | PR | Issue
 ---
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | D | [`#30`](https://github.com/samsontmr/oss-bot-js/pull/30) | Improve feedback given for non-conforming PR descriptions
+1 | R | [`#6676`](https://github.com/TEAMMATES/teammates/pull/6676) | Remove method createAndReturnEntities from EntitiesDb.java
+1 | R | [`#6675`](https://github.com/TEAMMATES/teammates/pull/6675) |  FeedbackRubricQuestionDetails: Refactor calculateRubricStats
+1 | R | [`#6670`](https://github.com/TEAMMATES/teammates/pull/6670) | Issue templates: remove the requirement for issue title prefixes
+1 | R | [`#6663`](https://github.com/TEAMMATES/teammates/pull/6663) |  Remove unused parameter in InstructorHomeAjaxCoursePageData.java
+1 | R | [`#6637`](https://github.com/TEAMMATES/teammates/pull/6637), [`#6679`](https://github.com/TEAMMATES/teammates/pull/6679) | AboutUs page: make the list numbering continuous
+1 | R | [`#6630`](https://github.com/TEAMMATES/teammates/pull/6630) | Current static analysis checks don't flag invalid JSON
+1 | R | [`#6618`](https://github.com/TEAMMATES/teammates/pull/6618) | Refactor testDatePickerScripts in instructorFeedbackPageUiTest.java
+4 | D | [`#34`](https://github.com/samsontmr/oss-bot-js/pull/34) | Hotfix
+8 | D | [`#26`](https://github.com/samsontmr/oss-bot-js/pull/26) |  Refactor Keyword Checker class
+1 | O | - | Interaction with new contributors
 ---
 ### Week 12
 
