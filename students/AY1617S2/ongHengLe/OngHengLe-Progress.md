@@ -115,7 +115,12 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#1226`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1226) | Give an informative message when no cropping was done #1219, #1181
+1 | R | [`#1231`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1231) | Timer Lab: Provide images for rough indication of timer size #1230
+2 | D | [`#1234`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1234) | Give an informative message when no cropping was done #1219
+1 | O | - | Update Crop Lab documentations
+4 | D | [`#1244`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1244) | Crop Lab: Implement Settings for anchor points
+1 | R | [`#1255`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1255) | User can still create multiple timers #1242
 
 ---
 
