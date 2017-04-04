@@ -105,6 +105,13 @@ Effort| Type | PR | Issue
 ---
 ### Week 11
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#1226`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1226) | Give an informative message when no cropping was done #1219, #1181
+1 | R | [`#1229`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1229) | Improve text display in SyncLab
+1 | R | [`#1233`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1233) | Crop Lab: Convert some functional tests to unit tests
+1 | R | [`#1232`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1232) | Sync Lab: Improve Sync Fill #1207
+
 ---
 ### Week 12
 
