@@ -128,7 +128,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#1258`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1258) | Rephrase error messages to make them more end-user friendly #1245
 
 ---
 
