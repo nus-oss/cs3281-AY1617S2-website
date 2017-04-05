@@ -115,6 +115,17 @@ Effort| Type | PR | Issue
 ---
 ### Week 12
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | D | [`#1258`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1258) | Rephrase error messages to make them more end-user friendly #1245
+1 | D | [`#56`](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/56) | Mention that we are an open source project based in a university #1184
+1 | R | [`#1254`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1254) | Sync Lab: Add Sync Gradient Fill
+1 | R | [`#1253`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1253) | Sync Lab UI Revamp
+1 | R | [`#1250`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1250) | Sync Lab: Default to shape name if name text box is empty #1239
+1 | R | [`#1234`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1234) | Give an informative message when no cropping was done #1219
+1 | R | [`#1244`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1244) | Crop Lab: Implement Settings for anchor points
+
+
 ---
 ### Week 13
 
