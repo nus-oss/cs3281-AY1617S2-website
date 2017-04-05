@@ -88,6 +88,14 @@ Effort| Type | PR | Issue
 ---
 ### Week 12
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | D | [#352](https://github.com/se-edu/addressbook-level4/pull/352) | Outdated prefixes in ArgumentTokenizer #351
+1 | D | [#6](https://github.com/se-edu/se-edu.github.io/pull/6) | README.md: make project links relative #5
+4 | R | [#356](https://github.com/se-edu/addressbook-level4/pull/356) | Simplify FXML files #231
+2 | R | [#375](https://github.com/se-edu/addressbook-level4/pull/375) | Remove uses of real domain names #371
+2 | O | - | Wrote project description, bug tested homepage for 10th STePS
+
 ---
 ### Week 13
 
