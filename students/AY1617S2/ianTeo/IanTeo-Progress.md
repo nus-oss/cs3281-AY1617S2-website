@@ -109,7 +109,10 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+4 | D | [#1281](https://github.com/PowerPointLabs/PowerPointLabs/pull/1281) | Improve sync fill tests
+1 | D | [#1284](https://github.com/PowerPointLabs/PowerPointLabs/pull/1284) | Improve icons for line dash and compound #1283
+1 | D | [#1286](https://github.com/PowerPointLabs/PowerPointLabs/pull/1284) | Improve icons for sync text #1285
+1 | R | [#1280](https://github.com/PowerPointLabs/PowerPointLabs/pull/1280) | Prevent text wrap when shrinking timer #1279
  
 ---
 ### Week 13
