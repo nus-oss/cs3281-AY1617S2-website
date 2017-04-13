@@ -144,3 +144,11 @@ Effort| Type | PR | Issue
 1 | O | - | Interaction with new contributors
 ---
 ### Week 13
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6970`](https://github.com/TEAMMATES/teammates/pull/6970) | InstructorCourseDetailsPageUiTest failing on live server
+1 | R | [`#6977`](https://github.com/TEAMMATES/teammates/pull/6977) | Add instructions for restoring IntelliJ run configurations
+2 | R | [`#6980`](https://github.com/TEAMMATES/teammates/pull/6980) Make IDE usage entirely optional
+2 | R | [`#6993`](https://github.com/TEAMMATES/teammates/pull/6993) | Delete only emails in bundle for removeDataBundle in BackDoorLogic
+1 | R | [`#7025`](https://github.com/TEAMMATES/teammates/pull/7025) Fix typo in creatAdminEmail in AdminEmailsDb
