@@ -70,3 +70,8 @@ Effort| Type | PR | Issue
 
 ### Week 13
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+8 | D | [`#7001`](https://github.com/TEAMMATES/teammates/pull/7001) | [Prevent expanding instructor feedback result pages during testing #6981](https://github.com/TEAMMATES/teammates/issues/6981)
+1 | R | [`#7100`](https://github.com/TEAMMATES/teammates/pull/7100) | [Instructor view results: initial direction question panels chevrons are wrong #7092](https://github.com/TEAMMATES/teammates/issues/7092)
+1 | R | [`#6994`](https://github.com/TEAMMATES/teammates/pull/6994) | [Refactor InstructorFeedbackResultsDownloadActionTest #6924](https://github.com/TEAMMATES/teammates/issues/6924)
