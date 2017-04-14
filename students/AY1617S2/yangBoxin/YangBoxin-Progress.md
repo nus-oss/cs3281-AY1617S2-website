@@ -66,7 +66,10 @@ Effort| Type | PR | Issue
 
 ### Week 12
 
----
+2 | R | [`#7031`](https://github.com/TEAMMATES/teammates/pull/7031) | [Instructor: sessions page: do not auto-load response rates #6585](https://github.com/TEAMMATES/teammates/issues/6585)
+2 | R | [`#6953`](https://github.com/TEAMMATES/teammates/pull/6953) | [Move putDocument to Task Queue in InstructorStudentCommentAddAction #6929](https://github.com/TEAMMATES/teammates/issues/6929)
+2 | R | [`#6928`](https://github.com/TEAMMATES/teammates/pull/6928) | [Batch add documents #6923](https://github.com/TEAMMATES/teammates/issues/6923)
+2 | Investigation | Solve bugs on InstructorFeedbackResultsPageUiTest failing on local dev server by tracing down the bug in commit history and providing instruction to solve the problem | [InstructorFeedbackResultsPageUiTest unstable on local dev server #7064](https://github.com/TEAMMATES/teammates/issues/7064)
 
 ### Week 13
 
