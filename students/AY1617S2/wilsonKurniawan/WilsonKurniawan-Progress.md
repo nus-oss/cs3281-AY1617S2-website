@@ -224,8 +224,13 @@ Effort| Description
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+1 | D | [7126](https://github.com/TEAMMATES/teammates/pull/7126) | Add more import rules to CheckStyle
+1 | R | [7083](https://github.com/TEAMMATES/teammates/pull/7083) | InstructorFeedbackResultsPageUiTest view photo test unstable
+1 | R | [7068](https://github.com/TEAMMATES/teammates/pull/7068) | InstructorFeedbackResultsPageUiTest unstable on local dev server
+8 | D | [6980](https://github.com/TEAMMATES/teammates/pull/6980) | Make IDE usage entirely optional
 
 Other works:
 
 Effort| Description
 :----:|:----
+2 | Final administrative duties: handing over to new group of core developers, showing the ropes
