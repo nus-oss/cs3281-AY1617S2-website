@@ -37,6 +37,7 @@ which has benefited more than 300,000 people* <br>
 * Developed new features (Crop Lab – to be released)
 * Upgraded existing features (Magnifier for color picker on cursor) 
 * Tested for and fixed bugs
+* Suggested improvements based on [observations from Visual Studio Code](https://github.com/nus-oss/cs3281-website/blob/master/students/AY1617S2/ongHengLe/Observations-VisualStudioCode.md)
 
 June 2012 - August 2012: <br>
 **Singapore - MIT GAMBIT Summer Programme** <br>
@@ -48,11 +49,20 @@ Interned as a programmer at the MIT Game Lab in Massachusetts Institute of Techn
 * Used Perforce (Revision Control System) in a production environment<br>
 * Practiced Scrum methodology daily in our team <br>
 
-# Computer Skills
+# Expert Areas
 
-**Performance Profiling**: Wrote a book chapter on [Performance Profiling](https://github.com/se-edu/learningresources/pull/10) <br>
-**Performance Profiling**: Gave a lightning talk on [Finding the Hot Path](https://github.com/nus-oss/lightningtalks/issues/11) <br>
-**UI Design**: Gave a lightning talk on [UI: Good Screen Design Principles](https://github.com/nus-oss/lightningtalks/issues/33) <br>
+**TypeScript** <br>
+Gave a lightning talk titled [TypeScript: JavaScript with optional Static Typing](https://github.com/nus-oss/lightningtalks/issues/48) <br>
+Contributed features and bug fixes to Visual Studio Code (100% TypeScript) <br>
+
+**Performance Profiling** <br>
+Wrote a book chapter on [Performance Profiling](https://github.com/se-edu/learningresources/pull/10) <br>
+Gave a lightning talk titled [Finding the Hot Path](https://github.com/nus-oss/lightningtalks/issues/11) <br>
+
+**UI Design** <br>
+Gave a lightning talk titled [UI: Good Screen Design Principles](https://github.com/nus-oss/lightningtalks/issues/33) <br>
+
+# Computer Skills
 
 Familiar with **C#** *(PowerPointLabs)*, **TypeScript** *(Visual Studio Code)* and **Java** <br>
 Worked with C++ and PHP <br>
