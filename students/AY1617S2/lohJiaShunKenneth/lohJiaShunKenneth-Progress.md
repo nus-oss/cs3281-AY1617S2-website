@@ -102,6 +102,8 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 12
+
+Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 +1 | R | [#1254](https://github.com/PowerPointLabs/PowerPointLabs/pull/1254) | Sync Lab: Add Sync Gradient Fill
 +1 | R | [#1255](https://github.com/PowerPointLabs/PowerPointLabs/pull/1255) | User can still create multiple timers
@@ -111,3 +113,11 @@ Effort| Type | PR | Issue
 ---
 ### Week 13
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
++1 | R | [#1258](https://github.com/PowerPointLabs/PowerPointLabs/pull/1258) | Rephrase error messages to make them more end-user friendly
++1 | R | [#1265](https://github.com/PowerPointLabs/PowerPointLabs/pull/1265) | Crop to same dimensions: give options for anchor points 
++1 | R | [#1289](https://github.com/PowerPointLabs/PowerPointLabs/pull/1289) | Merge Alpha release features to Development release
++1 | D | [#1291](https://github.com/PowerPointLabs/PowerPointLabs/pull/1291) | SyncLab revision
++2 | O | [`#257`](https://github.com/nus-oss/cs3281-website/pull/257) | Jamos & Kenneth: Add PowerPointLabs Discussion Summary
++8 | O | [SoC 10th STePS](http://isteps.comp.nus.edu.sg/event/10th-steps) | STePS: Promoted PowerPointLabs to audiences
