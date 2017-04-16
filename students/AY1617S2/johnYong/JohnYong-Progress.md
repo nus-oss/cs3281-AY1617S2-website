@@ -113,6 +113,17 @@
 
 ### Week 12
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  1   |  R   | [`#6953`](https://github.com/TEAMMATES/teammates/pull/6953) | Move putDocument to Task Queue in InstructorStudentCommentAddAction |
+|  1   |  R   | [`#7024`](https://github.com/TEAMMATES/teammates/pull/7024) | gradlew.bat staticAnalysis does not run on Windows |
+|  1   |  D   | [`#7028`](https://github.com/TEAMMATES/teammates/pull/7028) | AdminHomePageUiTest failing after April 2, 2017 23:59 UTC |
+|  1   |  R   | [`#7035`](https://github.com/TEAMMATES/teammates/pull/7035) | Remove inline javascript onclicks |
+|  1   |  R   | [`#7037`](https://github.com/TEAMMATES/teammates/pull/7037) | Add polyfill for String.prototype.includes |
+|  1   |  R   | [`#7053`](https://github.com/TEAMMATES/teammates/pull/7053) | about.jsp: Add photos for current committers |
+|  2   |  D   | [`#7068`](https://github.com/TEAMMATES/teammates/pull/7068) | InstructorFeedbackResultsPageUiTest unstable on local dev server |
+|  2   |  D   | [`#7083`](https://github.com/TEAMMATES/teammates/pull/7083) | InstructorFeedbackResultsPageUiTest view photo test unstable |
+
 ---
 
 ### Week 13
