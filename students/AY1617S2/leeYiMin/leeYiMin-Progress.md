@@ -90,3 +90,4 @@ Effort| Type | PR | Issue
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 8 | O | [`#6922`](https://github.com/TEAMMATES/teammates/pull/6922) | Remove HTML sanitization in StudentProfileAttributes #6891
+8 | O | - | STePS
