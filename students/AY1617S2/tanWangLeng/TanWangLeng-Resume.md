@@ -75,6 +75,22 @@ Information Systems Intern
 * Major Project (Temasek Polytechnic)
     * As a lead programmer, developed a top-down 3D game in Unity3D engine titled "Morality" with a team of 5 other fellow student developers.
     * Targeted towards youths aged 10 - 16, with the aim of teaching them good moral values and habits.
+    
+## Expert Areas
+
+### Java
+
+* Gave a lightning talk titled "Java 9: Modularised" to [CS3281](https://github.com/nus-oss/lightningtalks/issues/47) classmates on April 6, 2017.
+
+### Security
+
+* Gave a lightning talk titled "Cross Site Scripting":
+    * to [NUS Hackers](http://nushackers.org/) on Feburary 3, 2017.
+    * to [CS3281](https://github.com/nus-oss/lightningtalks/issues/9) classmates on January 23, 2017.
+
+### Garbage Collection
+
+* Gave a lightning talk titled "Garbage Collection" to [CS3281](https://github.com/nus-oss/lightningtalks/issues/27) classmates on February 27, 2017.
 
 ## Technical Skills
 
