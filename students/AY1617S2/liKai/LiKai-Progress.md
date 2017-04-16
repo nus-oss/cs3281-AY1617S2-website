@@ -92,4 +92,10 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 13
-
+4 | 0 | | STEPS poster
+2 | 0 | | STEPS movie
+1 | R | [`#7080`](https://github.com/TEAMMATES/teammates/pull/7080) | [Some useless code found in InstructorHelp.jsp #7078](https://github.com/TEAMMATES/teammates/issues/7078)
+1 | R | [`#7019`](https://github.com/TEAMMATES/teammates/pull/7019/) | [Layout of About us page should be improved #7017](https://github.com/TEAMMATES/teammates/issues/7017)
+1 | R | [`#7003`](https://github.com/TEAMMATES/teammates/pull/7003) | [Remove inline scripts #6995](https://github.com/TEAMMATES/teammates/issues/6995)
+1 | R | [`#6938`](https://github.com/TEAMMATES/teammates/pull/6938) | [In MobileView, text inside the menu is aligned on right side. #6864](https://github.com/TEAMMATES/teammates/issues/6864)
+1 | R | [`#6895`](https://github.com/TEAMMATES/teammates/pull/6895) | [Add instructions for building JS files #6875](https://github.com/TEAMMATES/teammates/issues/6875)
