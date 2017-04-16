@@ -96,9 +96,6 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-1 | R | [`#6863`](https://github.com/TEAMMATES/teammates/pull/6863) | Remove useless replacement of text in AdminActivityLogPageActionTest #6857
-1 | R | [`#6858`](https://github.com/TEAMMATES/teammates/pull/6858) | Make use of StringHelper.join() in ActivityLogEntry and AdminActivityLogPageData #6844
-2 | R | [`#6669`](https://github.com/TEAMMATES/teammates/pull/6669) | Failed to instantiate Feedback*QuestionDetails instance for CONTRIB question type #6619
 4 | O | [CS2103R Report](https://xpdavid.github.io/CS2103R-Report/) | Additional Static Analysis Rules for TEAMMATES
 
 ---
@@ -106,10 +103,19 @@ Effort| Type | PR | Issue
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 4 | D | [`#6876`](https://github.com/TEAMMATES/teammates/pull/6876) | Implement AdminEmailLogPageActionTest #6855
-1 | R | [`#7029`](https://github.com/TEAMMATES/teammates/pull/7029) Trivial formatting error in design.md #7009
+2 | R | [`#6669`](https://github.com/TEAMMATES/teammates/pull/6669) | Failed to instantiate Feedback*QuestionDetails instance for CONTRIB question type #6619
+2 | R | [`#7051`](https://github.com/TEAMMATES/teammates/pull/7051) | AdminEmailComposeSendAction has no log message on success #6699
+1 | R | [`#7029`](https://github.com/TEAMMATES/teammates/pull/7029) |Trivial formatting error in design.md #7009
+1 | R | [`#6863`](https://github.com/TEAMMATES/teammates/pull/6863) | Remove useless replacement of text in AdminActivityLogPageActionTest #6857
+1 | R | [`#6858`](https://github.com/TEAMMATES/teammates/pull/6858) | Make use of StringHelper.join() in ActivityLogEntry and AdminActivityLogPageData #6844
 2 | O | [CS2103R Report](https://xpdavid.github.io/CS2103R-Report/) | Revise Report: Technical Report: Static Analysis(Java) in TEAMMATES
 
 
 ---
 ### Week 13
-
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | R | [`#7126`](https://github.com/TEAMMATES/teammates/pull/7126) |Add more import rules to CheckStyle #7125
+4 | O | [SoC 10th STePS](http://isteps.comp.nus.edu.sg/event/10th-steps) | Attend 10th STePS project showcase
+4 | O | [`#7132`](https://github.com/TEAMMATES/teammates/pull/7132) | Fix some violations to boolean variable naming convention #7131
+2 | O | [`#7090`](https://github.com/TEAMMATES/teammates/pull/7090) | Add more rules to Macker to enforce architectural rules #7086
