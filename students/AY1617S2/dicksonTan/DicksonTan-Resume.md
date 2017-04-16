@@ -19,7 +19,7 @@ Email: [dickson@u.nus.edu](dickson@u.nus.edu)<br>
 ## Work Experience
 
 * Jan 2017 - present: commiter, TEAMMATES:
-	* TEAMMATES is a free online tool for managing peer evaluations and other types of feedback for students. It is used by 160,000 students from over 1,200 institutions worldwide.
+	* [TEAMMATES](https://github.com/TEAMMATES/teammates) is a free online tool for managing peer evaluations and other types of feedback for students. It is used by 160,000 students from over 1,200 institutions worldwide.
 	*Collaborated  on weekly releases by fixing bugs, providing code review and advising new contributors. 
 	* Contributions focused on paying technical debt. E.g migrating Javascript codebase from ES5 to ES6 to improve code quality and take advantage of new features.
 
