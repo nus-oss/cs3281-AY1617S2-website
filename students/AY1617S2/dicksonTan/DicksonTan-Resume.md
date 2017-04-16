@@ -35,7 +35,7 @@ Email: [dickson@u.nus.edu](dickson@u.nus.edu)<br>
 * Programming languages:
 	* Proficient in C++, Java, Lua and Regex
 	*  intermediate python
-	* familiar with HTML and Javascript
+	* familiar with D, HTML and Javascript
 * Applied cryptography
 * Laws related to information security in Singapore (CMCA, Electronic Commerce & Banking, data protection)
 * System Security
