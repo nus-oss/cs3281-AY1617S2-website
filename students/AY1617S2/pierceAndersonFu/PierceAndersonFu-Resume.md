@@ -28,12 +28,12 @@ Email: [pierceanderson.fu@gmail.com](pierceanderson.fu@gmail.com)<br>
 ## Skills
 
 #### Programming Languages
-* Proficient: _Python 2.7/3.5, Java, JavaScript, C++_
+* Proficient: _Java, Python 2.7/3.5, JavaScript, C++_
 * Familiar: _PHP, MySQL, HTML5, CSS3, R_
 
 #### Libraries and Frameworks
 * Proficient: _NLTK, Stanford CoreNLP, jQuery, JUnit_
-* Familiar: _Tensorflow, Bootstrap_
+* Familiar: _CUDA, Tensorflow, Bootstrap_
 
 #### Operating Systems
 * Proficient: _Windows_
@@ -104,3 +104,31 @@ Email: [pierceanderson.fu@gmail.com](pierceanderson.fu@gmail.com)<br>
 * Created command-line interface based task management tool using MVC framework 
 * Managed team and delegated tasks to members based on strengths, abilities, and potential  
 * Developed software with modern software practices such as unit development, automated unit testing, agile software development
+
+## Open Source Contributions
+
+#### se-edu/addressbook-level2 ([Source](https://github.com/se-edu/addressbook-level2), [List of PRs](https://github.com/se-edu/addressbook-level2/pulls?q=is%3Apr+is%3Aclosed+author%3APierceAndy%20is%3Amerged))
+Improved code quality by removing unused code based on YAGNI principle.
+
+#### se-edu/addressbook-level4 ([Source](https://github.com/se-edu/addressbook-level4), [List of PRs](https://github.com/se-edu/addressbook-level4/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aclosed%20author%3APierceAndy%20is%3Amerged))
+Improved code quality by
+- removing unnecessary usages of Java Optionals and regex,
+- restructuring code to simplify logic and avoid returning indistinguishable empty or non-existant values,
+- updating outdated comments and tests.
+
+#### se-edu/se-edu.github.io ([Source](https://github.com/se-edu/se-edu.github.io), [List of PRs](https://github.com/se-edu/se-edu.github.io/pulls?q=is%3Apr+author%3APierceAndy+is%3Aclosed%20is%3Amerged))
+Improved code quality by ensuring consistent code behaviour regardless of how webpage was accessed.
+
+#### coala/coala ([Source](https://github.com/coala/coala), [List of PRs](https://github.com/coala/coala/pulls?q=is%3Apr+is%3Aclosed+author%3APierceAndy%20is%3Amerged))
+Improved Git doumentation by
+- clarifying what remote names and URLs to use when rebasing,
+- making remote names consistent with common practices and less confusing for readers.
+
+#### se-edu/learning-resources ([Source](https://github.com/se-edu/learningresources), [PR](https://github.com/se-edu/learningresources/pull/22))
+Wrote up articles on GPGPU and CUDA.
+
+#### nus-oss/lightningtalks ([Source](https://github.com/se-edu/learningresources), [List of talks](https://github.com/nus-oss/lightningtalks/issues?utf8=%E2%9C%93&q=is%3Aissue%20author%3APierceAndy))
+Gave 7-minute lightning talks on
+- An Introduction to GPGPU
+- Learning CUDA with Python
+- Better Naming: How to come up with meaningful names
