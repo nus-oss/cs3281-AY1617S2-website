@@ -129,5 +129,26 @@ Effort| Type | PR | Issue
 ---
 ### Week 12
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6918`](https://github.com/TEAMMATES/teammates/pull/6918) | Add one step setting configuration at IntelliJ
+1 | R | [`#6905`](https://github.com/TEAMMATES/teammates/pull/6905) | Add checklist of things to do when submitting PR in the template
+1 | R | [`#6894`](https://github.com/TEAMMATES/teammates/pull/6894) | Spelling error in `testnames` program argument for Eclipse staging tests launch configuration
+2 | R | [`#6933`](https://github.com/TEAMMATES/teammates/pull/6933) | TEAMMATES logo not transparent
+1 | R | [`#6970`](https://github.com/TEAMMATES/teammates/pull/6970) | InstructorCourseDetailsPageUiTest failing on live server
+1 | R | [`#6993`](https://github.com/TEAMMATES/teammates/pull/6993) | Delete only emails in bundle for removeDataBundle in BackDoorLogic
+1 | R | [`#7025`](https://github.com/TEAMMATES/teammates/pull/7025) | Fix typo in creatAdminEmail in AdminEmailsDb
+2 | R | [`#6717`](https://github.com/TEAMMATES/teammates/pull/6717) | Bug: Display of Admin Email subject in logs is not sanitized
+2 | R | [`#6695`](https://github.com/TEAMMATES/teammates/pull/6695) | InstructorCourseView: 'send invite' should not reset the sort order
+1 | R | [`#6694`](https://github.com/TEAMMATES/teammates/pull/6694) | Remove unused methods in datepicker.js
+1 | O | - | Interaction with new contributors
 ---
 ### Week 13
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#6970`](https://github.com/TEAMMATES/teammates/pull/6970) | InstructorCourseDetailsPageUiTest failing on live server
+1 | R | [`#6977`](https://github.com/TEAMMATES/teammates/pull/6977) | Add instructions for restoring IntelliJ run configurations
+2 | R | [`#6980`](https://github.com/TEAMMATES/teammates/pull/6980) Make IDE usage entirely optional
+2 | R | [`#6993`](https://github.com/TEAMMATES/teammates/pull/6993) | Delete only emails in bundle for removeDataBundle in BackDoorLogic
+1 | R | [`#7025`](https://github.com/TEAMMATES/teammates/pull/7025) Fix typo in creatAdminEmail in AdminEmailsDb
