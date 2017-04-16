@@ -48,8 +48,13 @@ Email: [dickson@u.nus.edu](dickson@u.nus.edu)<br>
 * Security:
 	* Authored a [book chapter introducing cryptography](https://github.com/se-edu/learningresources/pull/6) to provide a working knowledge of the topic for students. The intention is for readers to be able to correctly use the tools provided by cryptographic libraries, and less so on its mathematical underpinnings.
 	* Relevant TEAMMATES PRs: [developed #6602](https://github.com/TEAMMATES/teammates/pull/6602) and [identified and reviewed #7057](https://github.com/TEAMMATES/teammates/pull/7057)
+	* Relevant modules:
+		* CS4236 Cryptography Theory and Practice: mathematical underpinnings of various symmetric and asymmetric crypto algorithms, implementing a smart contract on [Ethereum](https://www.ethereum.org/), a platform that uses blockchains for trusted computing.
+		* IFS4101 Legal Aspects of Information Security: laws in Singapore relevant for information security, responding to cyberattacks (emphasis on evidence collection and legal repercussions)
+		* CS3235 Computer Security: selected topics in system security, web security and cryptography. Gave a [lightning talk](https://www.dropbox.com/s/h051h9yqxgbj66f/sqrl.pptx?dl=0) on [SQRL](https://grc.com/sqrl), an elegant replacement for passwords using strong cryptography. It is in the public domain, and is nearing release.
+		* CS2107 Introduction to Information & System Security
 * Python:
-	* Made small contributions to [scikit-learn](https://github.com/scikit-learn/scikit-learn/pull/8390) and [python-telegram-bot library](https://github.com/python-telegram-bot/python-telegram-bot/pull/564) to learn the workflows of different projects and the tools used for large python projects.
+	* Made small contributions to [scikit-learn](https://github.com/scikit-learn/scikit-learn/pull/8390) and [python-telegram-bot library](https://github.com/python-telegram-bot/python-telegram-bot/pull/564) to learn the workflows of different projects and the tools used for large high-stakes python projects.
 	* Gave a lightning talk on [property-based testing](https://github.com/nus-oss/lightningtalks/issues/41), a technique where test cases are automatically generated, and a function's output verified against properties or assertions made about that function. Though it can be done in any language, Python was chosen for its conciseness and library support.
 * Functional programming, particularly ideas that can be applied to mainstream non-functional languages:
 	* Gave a lightning talk on [Phantom types](https://github.com/nus-oss/lightningtalks/issues/49), a technique where generics are creatively used to encode invariants into the type system for compile-time verification. It was first invented by functional programmers, but can be used in any statically typed language with generics. Some applications are compile-time enforcement of sanitization and proper usage of units of measure.
@@ -57,4 +62,4 @@ Email: [dickson@u.nus.edu](dickson@u.nus.edu)<br>
 * Javascript:
 	* Developed basic familiarity after developing/reviewing PRs for the TEAMMATES ES6 migration.
 * Java:
-	* Gained further experience from Java-related TEAMMATES contributions.
+	* Gained further experience from contributing tests for [SE-EDU AddressBook Level 2](https://github.com/se-edu/addressbook-level2) and Java-related TEAMMATES contributions, especially in improving code quality.
