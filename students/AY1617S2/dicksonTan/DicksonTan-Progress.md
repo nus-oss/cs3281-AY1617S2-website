@@ -122,3 +122,12 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+2 | R | [`#7077`](https://github.com/TEAMMATES/teammates/pull/7077) | Suppress repetitions of getInvalidityInfo in *Attributes
+2 | R | [`#7057`](https://github.com/TEAMMATES/teammates/pull/7057) | Explicitly specify mode and padding scheme when using Ciphers
+1 | R | [`#7051`](https://github.com/TEAMMATES/teammates/pull/7051) | AdminEmailComposeSendAction has no log message on success
+1 | R | [`#7003`](https://github.com/TEAMMATES/teammates/pull/7003) | Remove inline scripts
+1 | R | [`#7035`](https://github.com/TEAMMATES/teammates/pull/7035) | Remove inline javascript onclicks
+1 | R | [`#7137`](https://github.com/TEAMMATES/teammates/pull/7137) | Typos in FeedbackSessionsLogic, EntitiesDb and FeedbackSession
+1 | R | [`#7115`](https://github.com/TEAMMATES/teammates/pull/7115) | Typos in Instructor Help
+4 | O | | STEPS
+1 | O | | Interacted with new developers
