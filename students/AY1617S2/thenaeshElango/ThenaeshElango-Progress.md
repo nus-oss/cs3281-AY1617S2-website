@@ -89,6 +89,12 @@ Effort| Type | PR | Issue
 ---
 ### Week 12
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | O | [`#226`](https://github.com/nus-oss/cs3281-website/pull/226) | Dickson & Thenaesh: Compile Suggestions for Improvement for TEAMMATES
+2 | D | [`#7035`](https://github.com/TEAMMATES/teammates/pull/7035) | Remove inline javascript onclicks #6961
+1 | R | [`#7037`](https://github.com/TEAMMATES/teammates/pull/7037) | Add polyfill for String.prototype.includes #7036
+
 ---
 ### Week 13
 

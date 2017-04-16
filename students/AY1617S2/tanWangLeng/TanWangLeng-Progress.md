@@ -117,7 +117,13 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#315`](https://github.com/se-edu/addressbook-level4/pull/315) | Move all parsing from AddCommand to AddCommandParser #306
+1 | R | [`#367`](https://github.com/se-edu/addressbook-level4/pull/367) | Checkstyle: add DeclarationOrder rule #319
+1 | R | [`#361`](https://github.com/se-edu/addressbook-level4/pull/361) | Checkstyle: add CommentsIndentation rule #319
+1 | R | [`#366`](https://github.com/se-edu/addressbook-level4/pull/366) | Checkstyle: fix MethodName supplied expression #319
+1 | R | [`#60`](https://github.com/oss-generic/process/pull/60) | Formats: standardize commit message body format #53
+2 | R | [`#373`](https://github.com/se-edu/addressbook-level4/pull/373) | Remove TestPerson #310
+4 | O | [`video`](https://www.youtube.com/watch?v=wndszugQp6M) | 10th STEPS: Video (content preparation and rendering)
 
 ---
 

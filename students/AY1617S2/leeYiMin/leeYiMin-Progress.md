@@ -78,6 +78,11 @@ Effort| Type | PR | Issue
 ---
 ### Week 12
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | D | [`#6993`](https://github.com/TEAMMATES/teammates/pull/6993) | Delete only emails in bundle for removeDataBundle in BackDoorLogic #6982
+1 | R | [`#7032`](https://github.com/TEAMMATES/teammates/pull/7032) | Fix typos in CourseRoster, TeamEvalResult and FieldValidator #6983
+
 ---
 ### Week 13
 

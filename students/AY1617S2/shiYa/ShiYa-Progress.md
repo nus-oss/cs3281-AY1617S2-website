@@ -105,7 +105,14 @@ Effort| Type | PR | Issue
  
 ---
 ### Week 12
-
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+ 1 | R | [#1286](https://github.com/PowerPointLabs/PowerPointLabs/pull/1286) | Improve icons for sync text #1285
+ 1 | R | [#1284](https://github.com/PowerPointLabs/PowerPointLabs/pull/1284) | Improve icons for line dash and compound #1283
+ 1 | R | [#1281](https://github.com/PowerPointLabs/PowerPointLabs/pull/1281) | Improve sync fill tests #1281
+ 2 | D | [#1280](https://github.com/PowerPointLabs/PowerPointLabs/pull/1280) | Prevent text wrap when shrinking timer #1279
+ 8 | D | [#1255](https://github.com/PowerPointLabs/PowerPointLabs/pull/1255) | User can still create multiple timers #1242
+ 
 ---
 ### Week 13
 
