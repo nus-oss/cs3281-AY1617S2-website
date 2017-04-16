@@ -83,6 +83,8 @@ Effort| Type | PR | Issue
 1 | R | [`#6926`](https://github.com/TEAMMATES/teammates/pull/6926) | Remove ERROR_NULL_PARAMETER in Logic.java
 4 | R | [`#6608`](https://github.com/TEAMMATES/teammates/pull/6608) | Instructor view results: do not auto-load 3 questions
 2 | D | [`#6928`](https://github.com/TEAMMATES/teammates/pull/6928) | Batch add documents
+1 | R | [`#7076`](https://github.com/TEAMMATES/teammates/pull/7076) | Move putDocument to Task Queue in InstructorStudentCommentEditAction
+2 | R | [`#7001`](https://github.com/TEAMMATES/teammates/pull/7001) | Prevent expanding instructor feedback result pages during testing
 
 ---
 ### Week 12
@@ -96,4 +98,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+8 | O | STEPS | Man TEAMMATES Booth and explain what TEAMMATES is to those interested
+2 | D | [`#7031`](https://github.com/TEAMMATES/teammates/pull/7031) | Instructor: sessions page: do not auto-load response rates 
+2 | R | [`#6848`](https://github.com/TEAMMATES/teammates/pull/6848) | Use keys-only query for existence checks in *Db
+1 | R | [`#7131`](https://github.com/TEAMMATES/teammates/pull/7132) | Fix some violations to boolean variable naming convention 
