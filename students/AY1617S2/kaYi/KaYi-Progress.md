@@ -91,6 +91,12 @@ Effort| Type | PR | Issue
 
 ### Week 12
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#373`](https://github.com/se-edu/addressbook-level4/pull/373) | Remove TestPerson #310
+1 | R | [`#315`](https://github.com/se-edu/addressbook-level4/pull/315) | Move all parsing from AddCommand to AddCommandParser #306
+2 | D | [`poster`](http://www.comp.nus.edu.sg/~gohydj/poster.png) | Prepare se-edu poster for 10th STEPS
+
 ---
 
 ### Week 13

@@ -102,6 +102,11 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 12
+:----:|:----:|:-----------|:------
++1 | R | [#1254](https://github.com/PowerPointLabs/PowerPointLabs/pull/1254) | Sync Lab: Add Sync Gradient Fill
++1 | R | [#1255](https://github.com/PowerPointLabs/PowerPointLabs/pull/1255) | User can still create multiple timers
++1 | R | [#1257](https://github.com/PowerPointLabs/PowerPointLabs/pull/1257) | Sync Lab: Darkness of colors not copied
++16 | D | [#1277](https://github.com/PowerPointLabs/PowerPointLabs/pull/1277) | Sync Lab Updates
 
 ---
 ### Week 13

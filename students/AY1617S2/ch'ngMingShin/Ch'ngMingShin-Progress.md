@@ -89,7 +89,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+2 | D | [`#6953`](https://github.com/TEAMMATES/teammates/pull/6953) | Move putDocument to Task Queue in InstructorStudentCommentAddAction
 
 ---
 ### Week 13

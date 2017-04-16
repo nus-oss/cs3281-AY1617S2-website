@@ -112,6 +112,9 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+4 | D | [`#6602`](https://github.com/TEAMMATES/teammates/pull/6602) | Exception thrown trying to retrieve CourseStudent: IllegalBlockSizeException
+2 | R | [`#6832`](https://github.com/TEAMMATES/teammates/pull/6832) | Convert all the remaining JS to ES6
+2 | R | [`#6967`](https://github.com/TEAMMATES/teammates/pull/6967) | Enforce no-use-before-define on everything not instructor*.es6
 
 ---
 

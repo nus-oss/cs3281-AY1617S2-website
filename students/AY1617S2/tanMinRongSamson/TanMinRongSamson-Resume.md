@@ -22,18 +22,17 @@ Experience
 National University of Singapore | Singapore <br>
 January 2017 - Present
 
-*   Wrangled and analyzed data using seaborn, Stata
-*   Wrote academic report based on above data analyses
+*   Wrangled and analyzed data using pandas, seaborn, Stata
+*   Wrote report detailing data analyses for policy makers
 
 
 **Management Support Staff (Writer)** <br>
 Centre for Quantum Technologies | August 2016 - February 2017 (7 months)
 
 *   Wrote articles for the Quantum Shorts 2016 film festival on a part-time basis.
-
-*   [http://shorts2016.quantumlah.org/news/encrypted](http://shorts2016.quantumlah.org/news/encrypted)
-*   [http://shorts2016.quantumlah.org/news/about-time](http://shorts2016.quantumlah.org/news/about-time)
-*   [http://shorts2016.quantumlah.org/news/quantum-computing](http://shorts2016.quantumlah.org/news/quantum-computing)
+  *   [http://shorts2016.quantumlah.org/news/encrypted](http://shorts2016.quantumlah.org/news/encrypted)
+  *   [http://shorts2016.quantumlah.org/news/about-time](http://shorts2016.quantumlah.org/news/about-time)
+  *   [http://shorts2016.quantumlah.org/news/quantum-computing](http://shorts2016.quantumlah.org/news/quantum-computing)
 
 **Undergraduate Student Researcher (Software Engineering)** <br>
 Centre for Quantum Technologies | May 2016 - August 2016 (3 months)
@@ -51,8 +50,9 @@ Lighthouse Media International | April 2013 - August 2013 (5 months)
 **Visual Effects Intern** <br>
 Side Effects Software Inc | June 2012 - September 2012 (3 months)
 
-*   Completed a Houdini-based FX project under the guidance of an industry mentor.
-    *   [Procedural Jellyfish](https://vimeo.com/samsontmr/sesijellyfish)
+Created a [Procedural Jellyfish](https://vimeo.com/samsontmr/sesijellyfish) Digital Asset in Houdini under the guidance of an industry mentor from Method Studios.
+*   Procedurally generated mesh, textures, animation can be tweaked interactively by 3D artists
+*   Enables rapid population of a scene with unique jellyfish (traditionally requires manual modelling and animation)
 
 External OSS Contributions
 -----------------
@@ -85,6 +85,7 @@ Expert Areas
 *   [Create issue templates for TEAMMATES](https://github.com/TEAMMATES/teammates/pull/6351)
 *   [IntelliJ IDEA documentation for TEAMMATES](https://github.com/TEAMMATES/teammates/pull/6592)
 *   [Lightning talk on writing great documentation](https://github.com/nus-oss/lightningtalks/issues/24)
+*   [Add scalability/performance measures for overload-prone pages in TEAMMATES](https://github.com/TEAMMATES/teammates/pull/6837)
 
 **Machine Learning & Artificial Intelligence**
 *   [Blog on data science and Python libraries for data science](https://samsontmr.github.io)
@@ -96,8 +97,10 @@ Expert Areas
 *   [Quora Answer Classifier Challenge](https://github.com/samsontmr/quora-challenges/tree/master/answer-classifier)
     *   Walkthrough [here](https://samsontmr.github.io/Answer-Classifier-Pt1/) and [here](https://samsontmr.github.io/Answer-Classifier-Pt2/)
 *   CS3243 Artificial Intelligence
+*   Tetris AI agent using genetic algorithm
 *   Contribution to matplotlib (Python library for data visualizaion)
 *   Contribution to scikit-learn (Python library for general machine learning)
+*   [Lightning talk on data visualisation for machine learning](https://github.com/nus-oss/lightningtalks/issues/45)
 
 
 Skills
@@ -108,7 +111,7 @@ Skills
 *   **Familiar:** C++
 
 **Libraries**
-pandas, scikit-learn, openCV
+pandas, seaborn/matplotlib, openCV
 
 **Tools**
 
@@ -151,12 +154,3 @@ Awards
 *   NUS Undergraduate (Merit) Scholarship
 *   University Scholars Programme Honour Roll (2015/2016)
 *   Industry Preparation for Pre-graduate Programme (iPREP)
-
-Interests
----------
-
-*   Machine Learning, Artificial Intelligence
-*   Data Science / Engineering
-*   Natural Language Processing, Computer Vision
-*   Internet of Things
-*   Virtual / Augmented Reality
