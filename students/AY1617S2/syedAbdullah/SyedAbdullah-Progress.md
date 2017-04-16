@@ -138,3 +138,13 @@ Effort| Type | PR | Issue
 ---
 
 ### Week 13
+
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#1282`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1282) | PasteAndReplace: Ensure that it works for items in group
+4 | D | [`#1294`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1294) | Polish context menu text and icons #1271 (inclusive of icon design)
+2 | D | [`#1289`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1289) | Merge Alpha release features to Development release (merge conflict resolution)
+1 | R | [`#1280`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1280) | Prevent text wrap when shrinking timer #1279
+8 | O | - | STePS: PowerPointLabs booth
+8 | O | - | Poster design and printing for STePS
+1 | O | - | Deployed dev-release-2.8.8.17
