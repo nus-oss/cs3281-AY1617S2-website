@@ -103,6 +103,12 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 12
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | D | [`#6876`](https://github.com/TEAMMATES/teammates/pull/6876) | Implement AdminEmailLogPageActionTest #6855
+1 | R | [`#7029`](https://github.com/TEAMMATES/teammates/pull/7029) Trivial formatting error in design.md #7009
+2 | O | [CS2103R Report](https://xpdavid.github.io/CS2103R-Report/) | Revise Report: Technical Report: Static Analysis(Java) in TEAMMATES
+
 
 ---
 ### Week 13
