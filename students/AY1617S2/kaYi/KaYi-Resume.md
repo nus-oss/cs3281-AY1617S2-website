@@ -1,6 +1,5 @@
 ## Chua Ka Yi Ong 
 
-* Email: chua.kayi@yahoo.com.sg
 * Github: http://github.com/kychua
 
 ## Education
@@ -65,10 +64,32 @@ intuitive input formats e.g. "add Email John tmr about project", with command al
 
 ## Interest Area: Documentation
 
+Contributions to se-edu
+
 * Investigated suitable documentation toolchains for se-edu's addressbook-level4 repo: [merged PR](https://github.com/se-edu/addressbook-level4/pull/274)
+* Create deploy script for publishing AsciiDoc files to GitHub Pages: [PR](https://github.com/se-edu/addressbook-level4/pull/302)
 * Contributed to developer guide for se-edu's addressbook-level4 repo: [merged PR](https://github.com/se-edu/addressbook-level4/pull/288)
-* Gave [talk](https://github.com/nus-oss/lightningtalks/issues/17) on using Asciidoc for documentation
-* Contributed book chapter on documentation to se-edu's learningresources: [pending PR](https://github.com/se-edu/learningresources/pull/19)
+
+Learning resources
+
+* Gave talks on documentation:
+  * [Using Asciidoc for documentation](https://github.com/nus-oss/lightningtalks/issues/17)
+  * [Commits as Documentation](https://github.com/nus-oss/lightningtalks/issues/32)
+    * Created [checklist for commit messages](https://kychua.github.io/commit-message-guide)
+  * [Creating effective documentation](https://github.com/nus-oss/lightningtalks/issues/54)
+* Contributed article on documentation to se-edu's learningresources: [PR](https://github.com/se-edu/learningresources/pull/19)
+
+* Contributed to SymPy's documentation:
+  * [Fix typos](https://github.com/sympy/sympy/pull/12195)
+  * [Add details to guide](https://github.com/sympy/sympy/pull/12315)
+  * [Restructured "Development workflow" guide](https://github.com/sympy/sympy/wiki/Development-workflow/f1ba71b641692d58258524c39f679d6404866344) to improve readability and flow
+
+## Interest Area: Data Science
+
+* Completed machine learning and data mining modules
+  * CS3244 Machine Learning
+  * MA4270 Data Modeling and Computation
+  * ST4240 Data Mining
 
 ## Skills
 
