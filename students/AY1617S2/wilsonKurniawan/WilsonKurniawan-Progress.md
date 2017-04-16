@@ -213,11 +213,19 @@ Effort| Description
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+1 | R | [7028](https://github.com/TEAMMATES/teammates/pull/7028) | AdminHomePageUiTest failing after April 2, 2017 23:59 UTC
+2 | D | [7024](https://github.com/TEAMMATES/teammates/pull/7024) | gradlew.bat staticAnalysis does not run on Windows
+1 | R | [7008](https://github.com/TEAMMATES/teammates/pull/7008) | User Map not Loading
+2 | R | [6993](https://github.com/TEAMMATES/teammates/pull/6993) | Delete only emails in bundle for removeDataBundle in BackDoorLogic
+1 | R | [6933](https://github.com/TEAMMATES/teammates/pull/6933) | TEAMMATES logo not transparent
+1 | R | [6876](https://github.com/TEAMMATES/teammates/pull/6876) | Implement AdminEmailLogPageActionTest
 
 Other works:
 
 Effort| Description
 :----:|:----
+1 | Project lead duties: assigning reviewers, triaging issues, interacting with external developers
+2 | Release V5.101 management
 
 ---
 ### Week 13
