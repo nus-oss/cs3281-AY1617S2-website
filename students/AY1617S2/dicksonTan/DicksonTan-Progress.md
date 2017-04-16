@@ -99,11 +99,9 @@ Effort| Type | PR | Issue
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 4 | D | [`#6968`](https://github.com/TEAMMATES/teammates/pull/6968) | Enforce no-use-before-define on instructor*.es6
-1 | R | [`#6480`](https://github.com/TEAMMATES/teammates/pull/6480) | Refactor some duplicated methods in *action classes
+4 | D | [`#6602`](https://github.com/TEAMMATES/teammates/pull/6602) | Exception thrown trying to retrieve CourseStudent: IllegalBlockSizeException
 1 | R | [`#6905`](https://github.com/TEAMMATES/teammates/pull/6905) | Add checklist of things to do when submitting PR in the template
 1 | R | [`#6960`](https://github.com/TEAMMATES/teammates/pull/6960) | SettingUp.md: recommend Source Tree instead of GitHub for Windows
-1 | R | [`#6740`](https://github.com/TEAMMATES/teammates/pull/6740) | Instructor view results: increase responses limit to 8000
-1 | R | [`#6937`](https://github.com/TEAMMATES/teammates/pull/6937) | Instructor view results: increase responses limit to 8000
 1 | O | | Interacted with new developers
 
 ---
@@ -112,9 +110,13 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-4 | D | [`#6602`](https://github.com/TEAMMATES/teammates/pull/6602) | Exception thrown trying to retrieve CourseStudent: IllegalBlockSizeException
 2 | R | [`#6832`](https://github.com/TEAMMATES/teammates/pull/6832) | Convert all the remaining JS to ES6
 2 | R | [`#6967`](https://github.com/TEAMMATES/teammates/pull/6967) | Enforce no-use-before-define on everything not instructor*.es6
+1 | R | [`#6740`](https://github.com/TEAMMATES/teammates/pull/6740) | Instructor view results: increase responses limit to 8000
+1 | R | [`#6937`](https://github.com/TEAMMATES/teammates/pull/6937) | Instructor view results: increase responses limit to 8000
+1 | R | [`#6480`](https://github.com/TEAMMATES/teammates/pull/6480) | Refactor some duplicated methods in *action classes
+1 | R | [`#7003`](https://github.com/TEAMMATES/teammates/pull/7003) | Remove inline scripts
+1 | R | [`#7035`](https://github.com/TEAMMATES/teammates/pull/7035) | Remove inline javascript onclicks
 
 ---
 
@@ -125,8 +127,6 @@ Effort| Type | PR | Issue
 2 | R | [`#7077`](https://github.com/TEAMMATES/teammates/pull/7077) | Suppress repetitions of getInvalidityInfo in *Attributes
 2 | R | [`#7057`](https://github.com/TEAMMATES/teammates/pull/7057) | Explicitly specify mode and padding scheme when using Ciphers
 1 | R | [`#7051`](https://github.com/TEAMMATES/teammates/pull/7051) | AdminEmailComposeSendAction has no log message on success
-1 | R | [`#7003`](https://github.com/TEAMMATES/teammates/pull/7003) | Remove inline scripts
-1 | R | [`#7035`](https://github.com/TEAMMATES/teammates/pull/7035) | Remove inline javascript onclicks
 1 | R | [`#7137`](https://github.com/TEAMMATES/teammates/pull/7137) | Typos in FeedbackSessionsLogic, EntitiesDb and FeedbackSession
 1 | R | [`#7115`](https://github.com/TEAMMATES/teammates/pull/7115) | Typos in Instructor Help
 4 | O | | STEPS
