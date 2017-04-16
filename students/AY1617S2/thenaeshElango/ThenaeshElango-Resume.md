@@ -25,20 +25,49 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 #### GCE 'O' Level, L1R5: 2, _Victoria School_
 
+## Areas of Expertise
+
+* **Functional Programming**
+  * Wrote a book chapter on Haskell (for CS3281)
+  * Gave talks regarding functional programming more than once (including in CS3281)
+  * Made contributions to an open-source project (Pandoc) in Haskell
+  * Served as TA several times for a programming module (CS1101S) with heavy emphasis on functional programming
+* **JavaScript**
+  * Built an app from ground-up in ES6 for handling email blasts, learned how to use Electron to make desktop apps
+  * Built the MIDI and audio subsystem in JavaScript for a piano-simulation web app, became familiar with Node.js and npm
+  * Served as TA several times for a programming module (CS1101S) that taught students a useful and clean subset of JavaScript
+  * Made major contributions to the TEAMMATES project's JavaScript code (including a huge ES3 -> ES6 migration), gaining significant experience with industry-standard tools such as ESLint in the process
+  * Gave a talk regarding ES6 (for CS3281)
 
 ## Open-Source Contributions
 
+### [TEAMMATES](http://teammatesv4.appspot.com)
+
+[Made many contributions](ThenaeshElango-Progress) to TEAMMATES, currently serving as a committer.
+
 ### [Pandoc](http://pandoc.org/)
 
-[Implemented a feature](https://github.com/jgm/pandoc/pull/3421) that allows users to specify a User-Agent string when requesting a document from a URL using Pandoc. This solved the problem of web servers insisting on specific browsers and refusing to serve up pages in response to requests from Pandoc.
+[Implemented a feature](https://github.com/jgm/pandoc/pull/3421) that allows users to specify a User-Agent string when requesting a document from a URL using Pandoc. This solved the problem of web servers insisting on specific browsers and refusing to serve up pages in response to requests from Pandoc. _Implementation Language: Haskell_
+
+### [ESLint](http://eslint.org/)
+
+[Make minor documentation fix](https://github.com/eslint/eslint/pull/8468) to ensure that users that the `functions` option of the `comma-dangle` rule should not be used on JavaScript code prior to ECMAScript 2017. This solved a bug report from a user who was confused why ESLint, when run with trailing commas enforced for function parameter lists,  was producing JS code that resulted in errors when run.
 
 ### [SE-EDU Learning Resources](https://github.com/se-edu/learningresources)
 
-[Contributed a Haskell learning guide](https://github.com/se-edu/learningresources/pull/21) (WIP) to a repository of software engineering educational resources created by the National University of Singapore.
+[Contributed a Haskell learning guide](https://github.com/se-edu/learningresources/pull/21) to a repository of software engineering educational resources created by the National University of Singapore.
+
+### [SE-EDU AddressBook Level 2](https://github.com/se-edu/addressbook-level2)
+
+[Wrote tests](https://github.com/se-edu/addressbook-level2/pull/121) for an important part of the codebase.
 
 ### [NUSComputingDev](https://github.com/NUSComputingDev)
 
-[Created an intuitive GUI](https://github.com/NUSComputingDev/CompClubEmailBlast) for a previously command-line app to facilitate sending mass emails formatted in a given way to ease the workload of publicity personnel who would otherwise have to do it manually each time and have to worry about writing HTML and sending the email using the correct email server.
+[Created an intuitive GUI](https://github.com/NUSComputingDev/CompClubEmailBlast) for a previously command-line app to facilitate sending mass emails formatted in a given way to ease the workload of publicity personnel who would otherwise have to do it manually each time and have to worry about writing HTML and sending the email using the correct email server. _Implementation Language: JavaScript (ES6)_
+
+### [Rhythm](https://github.com/thenaesh/Rhythm)
+
+Built the MIDI and audio subsystem for an in-browser piano web app developed for Orbital in NUS SoC. Upon keystrokes, musical notes are played through a MIDI subsystem. Chords and multiple keys are also playable and supported by the MIDI system.
 
 
 ## Work Experience
@@ -49,6 +78,7 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 * _August 2015 - December 2015_
 * _August 2016 - December 2016_
 * Led a discussion group of 8 students, teaching them programming initially from a functional perspective and later from an imperative perspective.
+* Taught in JavaScript (initially severely restricted, more features allowed each week).
 * Graded programming assignments and midterm examinations.
 * Created and maintained teaching materials for the course.
 * Handled administrative work for various aspects of the course.
@@ -94,7 +124,7 @@ Email: [thenaeshelango@gmail.com](thenaeshelango@gmail.com)<br>
 
 ## Talks
 
-**_February 2017_ Gave a talk on Haskell as part of a talk series conducted in the NUS module CS3281**
+**_February 2017-April 2017_ Gave talks on Haskell, machine learning and ES6 as part of a talk series conducted in the NUS module CS3281**
 
 **_July 2015_ Gave a short introduction to Haskell in a seminar series conducted in the NUS School of Computing**
 
