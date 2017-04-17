@@ -134,6 +134,7 @@ Effort| Type | PR | Issue
 1 | R | [`#1286`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1286) | Improve icons for sync text #1285
 1 | R | [`#1282`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1282) | PasteAndReplace: Ensure that it works for items in group
 1 | O | - | Handle PowerPointLabs user support
+8 | O | - | STePS: PowerPointLabs website details and booth
 
 ---
 
