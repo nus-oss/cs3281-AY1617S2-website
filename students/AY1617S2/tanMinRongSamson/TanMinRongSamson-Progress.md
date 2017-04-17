@@ -147,6 +147,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+4 | O | - | STePS
 1 | R | [`#6970`](https://github.com/TEAMMATES/teammates/pull/6970) | InstructorCourseDetailsPageUiTest failing on live server
 1 | R | [`#6977`](https://github.com/TEAMMATES/teammates/pull/6977) | Add instructions for restoring IntelliJ run configurations
 2 | R | [`#6980`](https://github.com/TEAMMATES/teammates/pull/6980) Make IDE usage entirely optional
