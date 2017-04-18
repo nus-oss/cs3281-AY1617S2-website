@@ -11,6 +11,66 @@
 
 **GCE 'A' Levels** with 5 distinctions, *Hwa Chong Institution* | 2006 - 2011
 
+## Technical Skills
+
+*   Python, Java, PHP, SQL, C++, Swift
+*   JavaScript, Vue.js, Framework7, HTML, CSS
+*   Google App Engine, Linux server system administration
+
+## Notable Projects
+
+### Contributions to Open Source Software
+
+**[TEAMMATES](https://github.com/TEAMMATES/teammates)**
+
+*   Fixed multiple bugs, a few of which required non-trivial troubleshooting
+*   Worked on performance improvements by optimising the storage component that handles database calls
+*   Had a hand in managing the project - reviewing and assigning PRs, triaging issues, interacting with external developers
+*   Roles:
+    *   Core Team Member + Release Lead (April 2017 - present)
+    *   Committer (March - April 2017)
+    *   Contributor (January - March 2017)
+*   [[View all contributions]](https://github.com/TEAMMATES/teammates/issues?q=involves%3Awhipermr5)
+
+**[Webogram (Telegram Web)](https://github.com/zhukov/webogram)**
+
+*   Implemented [unsend messages](https://telegram.org/blog/unsend-and-usage)
+*   Fixed two UI bugs
+*   [[View all contributions]](https://github.com/zhukov/webogram/issues?q=involves%3Awhipermr5)
+
+### Sharing of Expertise
+
+**Lightning Talks**
+
+*   Gave three short presentations to classmates as part of [CS3281 module coursework](https://nus-oss.github.io/cs3281-website)
+    1. [The Ops in DevOps: What Every Dev Should Know](https://github.com/nus-oss/lightningtalks/issues/13)
+    2. [Writing Scalable Apps: Not As Scary As You Think](https://github.com/nus-oss/lightningtalks/issues/39)
+    3. [Vue.js: Painless Frontend Development](https://github.com/nus-oss/lightningtalks/issues/64)
+
+**Contribution to se-edu (Software Engineering Education - FOSS Resources)**
+
+*   Wrote initial version of [se-edu/learningresources](https://github.com/se-edu/learningresources) book chapter: [DevOps](https://github.com/se-edu/learningresources/pull/20)
+
+### Self-initiated
+
+**[CountMeIn Bot](https://github.com/whipermr5/countmeinbot)**
+
+> Telegram bot that helps create polls in group chats where users can easily add their names with one tap, eliminating the need to copy, paste, edit and send messages that function as lists (a chronic problem prevalent on WhatsApp). [@countmeinbot](https://t.me/countmeinbot) has 2,000 users who have created over 6,100 polls.
+
+**[RC Meal Bot](https://github.com/whipermr5/rcmealbot)**
+
+> Telegram bot that enables NUS Utown residents to easily check their meal credit balance and receive daily updates about the breakfast and dinner menus in the dining halls. [@rcmealbot](https://t.me/rcmealbot) has 1,700 users comprising residents of CAPT, RC4, Tembusu and Cinnamon colleges.
+
+**[LLJ Bot](https://github.com/whipermr5/lljbot), [BibleGateway Bot](https://github.com/whipermr5/biblegatewaybot)**
+
+> Telegram bots that enable daily delivery and quick retrieval of devotional material/ bible passages from web sources via Telegram text messages. [@lljbot](https://storebot.me/bot/lljbot) has 2,100 active users and is rated 4.55/5 from 532 reviews on the Telegram bot store, while [@biblegatewaybot](https://storebot.me/bot/biblegatewaybot) has 2,400 users and is rated 4.35/5 from 321 reviews.
+
+### Volunteer Work
+
+**[ZeoGen Rain](https://zg-rain.appspot.com)**
+
+> Progressive web app created for Faith Community Baptist Church's youth ministry to track event invitations, visitors and testimonies. Hosted on Google App Engine - Python backend uses Flask microframework with App Engine datastore and memcache APIs; frontend is a single page application implemented with Framework7 + Vue.js.
+
 ## Experience
 
 **Data Science Intern**, *[Kooki](https://kooki.co)* | June - July 2016
@@ -18,38 +78,6 @@
 *   Developed proof-of-concept web apps that demonstrate the use of AI in enterprise applications
 *   Managed a cluster of cloud servers and set up a server health monitoring system
 *   Proposed a version control system and workflow for source code management
-
-## Technical Skills
-
-*   Python, Java, C++, Swift
-*   PHP, SQL, JavaScript, HTML, CSS
-*   Google App Engine, Linux server system administration
-
-## Notable Projects
-
-### Self-initiated
-
-**RC Meal Bot**
-
-> Telegram bot that enables NUS Utown residents to easily check their meal credit balance and receive daily updates about the breakfast and dinner menus in the dining halls. [@rcmealbot](https://t.me/rcmealbot) has 1,600 users comprising residents of CAPT, RC4, Tembusu and Cinnamon colleges.
-
-**LLJ Bot, BibleGateway Bot**
-
-> Telegram bots that enable daily delivery and quick retrieval of devotional material/ bible passages from web sources via Telegram text messages. [@lljbot](https://storebot.me/bot/lljbot) has 1,700 active users and is rated 4.55/5 from 470 reviews on the Telegram bot store, while [@biblegatewaybot](https://storebot.me/bot/biblegatewaybot) has 1,500 users and is rated 4.28/5 from 238 reviews.
-
-**CountMeIn Bot**
-
-> Telegram bot that helps create polls in group chats where users can easily add their names with one tap, eliminating the need to copy, paste, edit and send messages that function as lists (a chronic problem prevalent on WhatsApp). [@countmeinbot](https://t.me/countmeinbot) has 600 users who have created over 1,600 polls.
-
-### Contributions to OSS
-
-**TEAMMATES**
-
-> *   Contributions: [link](https://github.com/TEAMMATES/teammates/issues?q=involves%3Awhipermr5)
-
-**se-edu**
-
-> *   Contributed to [learningresources](https://github.com/se-edu/learningresources) book chapters: [DevOps](https://github.com/se-edu/learningresources/pull/20)
 
 ## Awards
 

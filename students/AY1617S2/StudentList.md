@@ -265,8 +265,8 @@
 [[Github Profile](https://github.com/whipermr5)]
 [[Progress](johnYong/JohnYong-Progress.md)]
 
-* Expert areas: Python, DevOps, Google App Engine
-* Projects: TEAMMATES
+* Expert areas: DevOps, Google App Engine, Scalability
+* Projects: [TEAMMATES](https://github.com/TEAMMATES/teammates), [Webogram](https://github.com/zhukov/webogram)
 
 
 
