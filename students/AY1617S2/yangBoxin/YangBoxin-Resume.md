@@ -29,9 +29,15 @@
 
 ## Projects
 
-* **Contributor to Open Source Software TEAMMATES**<br>
-  *Student feedback web application*<br>
-  The website has served 160000 users and is a leading online feedback portal in the world.
+* **Major Contributor to Open Source Software TEAMMATES**<br>
+  *Student feedback web application with 160000 users*<br>
+  Main contributor to the projects and Senior Developer.
+
+* **Contributor to Zulip**<br>
+  *A group chat application*<br>
+
+* **An AI to play Tetrics with Reinforced learning**<br>
+  The agent learns with Genetic Algorithm and Particle Swamp with parallel threads. The best performing agent can clear 100000 lines
 
 * **A game with distributed servers and Primary-based protocal in Java**<br>
   *Distributed System Application*<br>
@@ -49,7 +55,10 @@
 ## Skills
 
 * **Programming Languages**<br>
-  Java, Python, C++, C
+  Java(Proficient), Python(Intermediate), C(Intermediate)
+
+* **Technology**<br>
+  JSP and Standard Tag Library(Intermediate), Jquery(Intermediate), CSS(Basic), Html(Basic)
 
 ## Links
 
