@@ -44,3 +44,12 @@ At beginning I started off with a bite size issue, however later as I discussed 
 3. Allow work in progress to help people who are stuck.
 4. Provide more tutorials and learning resources, especially for the technology we used such as JSP Standard Tag Library. Other materials specific to Teammates such as directory structure and walk-through of a big PR might be helpful for new contributors to learn about Teammates codebase
 5. Build Vagrant for development and testing. Running Teammates testings on my local Mac always have failing cases and bizzare behaviours. If Vagrant is build, we can enforce running test before trying to push to remote and run it on Travis.
+
+## Work Track
+
+### Attempted but failed issues
+[hotkeys: Left arrow in compose should not open last sent message if uneditable. #4259](https://github.com/zulip/zulip/issues/4259)
+[Change consider_bankruptcy to use UserPresence instead of pointer. #4120](https://github.com/zulip/zulip/issues/4120)
+
+### Pull Request
+[user setting: Update page_params when user uploads Avatar in setting. #4593](https://github.com/zulip/zulip/pull/4593)
