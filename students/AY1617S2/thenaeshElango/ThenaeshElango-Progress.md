@@ -81,20 +81,26 @@ Effort| Type | PR | Issue
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 4 | D | [`#6832`](https://github.com/TEAMMATES/teammates/pull/6832) | Convert all the remaining JS to ES6 #6831
-4 | D | [`#6967`](https://github.com/TEAMMATES/teammates/pull/6967) | Enforce no-use-before-define on everything not instructor\*.es6 #6965
+2 | R | [`#6968`](https://github.com/TEAMMATES/teammates/pull/6968) | Enforce no-use-before-define on instructor\*.es6 #6964
 1 | R | [`#6895`](https://github.com/TEAMMATES/teammates/pull/6895) | Add instructions for building JS files #6875
 1 | R | [`#6905`](https://github.com/TEAMMATES/teammates/pull/6905) | Add checklist of things to do when submitting PR in the template #6904
-2 | R | [`#6968`](https://github.com/TEAMMATES/teammates/pull/6968) | Enforce no-use-before-define on instructor\*.es6 #6964
 
 ---
 ### Week 12
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+4 | D | [`#6967`](https://github.com/TEAMMATES/teammates/pull/6967) | Enforce no-use-before-define on everything not instructor\*.es6 #6965
 2 | O | [`#226`](https://github.com/nus-oss/cs3281-website/pull/226) | Dickson & Thenaesh: Compile Suggestions for Improvement for TEAMMATES
-2 | D | [`#7035`](https://github.com/TEAMMATES/teammates/pull/7035) | Remove inline javascript onclicks #6961
+2 | O | [`#6480`](https://github.com/TEAMMATES/teammates/pull/6480) | Mentoring of new contributor
 1 | R | [`#7037`](https://github.com/TEAMMATES/teammates/pull/7037) | Add polyfill for String.prototype.includes #7036
 
 ---
 ### Week 13
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+4 | O | N/A | 10th SoC STePS
+2 | D | [`#7035`](https://github.com/TEAMMATES/teammates/pull/7035) | Remove inline javascript onclicks #6961
+2 | R | [`#7004`](https://github.com/TEAMMATES/teammates/pull/7004) | Move all document.ready functions to just one file per page #7002
+2 | O | [`#6859`](https://github.com/TEAMMATES/teammates/pull/6859) | Mentoring of new contributor
