@@ -128,4 +128,10 @@ Effort| Type | PR | Issue
 
 ---
 ### Week 13
-
+:----:|:----:|:-----------|:------
+4 | D | [`#1265`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1265) | Crop to same dimensions: give options for anchor points #1220
+1 | R | [`#1291`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1291) | SyncLab revision
+1 | R | [`#1284`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1284) | Improve icons for line dash and compound #1283
+1 | R | [`#1277`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1277) | Sync Lab Updates
+2 | O | [`#257`](https://github.com/nus-oss/cs3281-website/pull/257) | Jamos & Kenneth: Add PowerPointLabs Discussion Summary
+8 | O | - | STePS participation

@@ -45,7 +45,7 @@
 [[Github Profile](https://github.com/jamos-tay)]
 [[Progress](jamosTay/JamosTay-Progress.md)]
 
-* Expert areas: C#, Databases, Regex
+* Expert areas: C#, Scalability, Regex
 * Projects: PowerPointLabs
 
 
