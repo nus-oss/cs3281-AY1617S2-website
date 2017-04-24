@@ -99,3 +99,16 @@ Effort| Type | PR | Issue
 ---
 ### Week 13
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+2 | R | [`#360`](https://github.com/se-edu/addressbook-level4/pull/360) | Checkstyle: prevent upper case abbreviations in names #319
+1 | R | [`#361`](https://github.com/se-edu/addressbook-level4/pull/361) | Checkstyle: add CommentsIndentation rule #319
+2 | R | [`#362`](https://github.com/se-edu/addressbook-level4/pull/362) | Checkstyle: disallow single line conditional statements #319
+1 | R | [`#363`](https://github.com/se-edu/addressbook-level4/pull/363) | Checkstyle: add ArrayTypeStyle rule #319
+1 | R | [`#365`](https://github.com/se-edu/addressbook-level4/pull/365) | Checkstyle: enforce @clause order #319
+1 | R | [`#366`](https://github.com/se-edu/addressbook-level4/pull/366) | Checkstyle: fix MethodName supplied expression #319
+1 | R | [`#367`](https://github.com/se-edu/addressbook-level4/pull/367) | Checkstyle: add DeclarationOrder rule #319
+2 | R | [`#368`](https://github.com/se-edu/addressbook-level4/pull/368) | Checkstyle: enforce separators' placement in line wraps #319
+1 | R | [`#369`](https://github.com/se-edu/addressbook-level4/pull/369) | Checkstyle: add EmptyCatchBlock rule #319
+1 | R | [`#378`](https://github.com/se-edu/addressbook-level4/pull/378) | Checkstyle: require default branch in switch statements #319
+8 | O | - | 10th STePS: Exhibition
