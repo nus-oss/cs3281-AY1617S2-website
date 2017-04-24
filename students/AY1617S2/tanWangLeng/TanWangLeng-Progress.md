@@ -131,4 +131,14 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#362`](https://github.com/se-edu/addressbook-level4/pull/362) | Checkstyle: disallow single line conditional statements #319
+1 | R | [`#375`](https://github.com/se-edu/addressbook-level4/pull/375) | Remove uses of real domain names #371
+1 | R | [`#360`](https://github.com/se-edu/addressbook-level4/pull/360) | Checkstyle: prevent upper case abbreviations in names #319
+1 | R | [`#365`](https://github.com/se-edu/addressbook-level4/pull/365) | Checkstyle: enforce @clause order #319
+1 | R | [`#189`](https://github.com/se-edu/addressbook-level2/pull/189) | Run I/O tests in CI #146
+1 | R | [`#378`](https://github.com/se-edu/addressbook-level4/pull/378) | Checkstyle: require default branch in switch statements #319
+1 | R | [`#331`](https://github.com/se-edu/addressbook-level4/pull/331) | Implement a IndexUtil#oneToZeroIndex() abstraction #293
+1 | R | [`#364`](https://github.com/se-edu/addressbook-level4/pull/364) | Checkstyle: enforce final keyword or encapsulation for class variables #319
+1 | R | [`#192`](https://github.com/se-edu/addressbook-level2/pull/192) | runtest.sh: fix bug in deleting actual.txt from previous run #191
+1 | R | [`#317`](https://github.com/se-edu/addressbook-level4/pull/317) | Add Integration Tests for EditCommand #254
+8 | O | `nil` | 10th STEPS: Exhibition
