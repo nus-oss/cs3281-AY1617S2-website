@@ -120,7 +120,7 @@
 [[Github Profile](https://github.com/chao1995)]
 [[Progress](huangChao/HuangChao-Progress.md)]
 
-* Expert areas: Java, DevOps (Build, CI), Testing (Mocking)
+* Expert areas: JavaScript, DevOps (Build, CI), Testing (TestFx)
 * Projects: [zulip](https://github.com/zulip/zulip), [SE-EDU](https://github.com/se-edu)
 
 ## PIERCE ANDERSON FU

@@ -42,21 +42,39 @@
 
 ## Open Source Contributions
 
-* **SE-EDU addressbook-level4** ([Source](https://github.com/se-edu/addressbook-level4))
-  * Work on enforcing checkstyle rules, testing.
-  * [List of PRs](https://goo.gl/Au2E0A)
+* **SE-EDU addressbook-level2** ([Source](https://github.com/se-edu/addressbook-level2), [List of PRs](https://goo.gl/cukCV9))
+  * Work on DevOps, including:
+    * running I/O tests in Travis CI
+    * fixing a bug in testing scripts.
+
+* **SE-EDU addressbook-level4** ([Source](https://github.com/se-edu/addressbook-level4), [List of PRs](https://goo.gl/Au2E0A))
+  * Work on enforcing checkstyle rules, testing, DevOps (Travis CI), code quality.
+
+* **oss-generic/process** ([Source](https://github.com/oss-generic/process), [List of PRs](https://goo.gl/BpSCkz))
+  * Improve documentation on ordering of import statements in Java coding standard and QuestionsIssuesPrs.md.
 
 * **SE-EDU learning resources** ([Source](https://github.com/se-edu/learningresources))
-  * Author [an article on writing testable code](https://github.com/se-edu/learningresources/pull/13).
+  * Write [an article on writing testable code](https://github.com/se-edu/learningresources/pull/13).
 
-* **Zulip** ([Source](https://github.com/zulip/zulip))
+* **Zulip** ([Source](https://github.com/zulip/zulip), [List of PRs](https://goo.gl/0TjIyL))
   * Work on front-end bug-fixes.
   * Write [an observation of contributing to zulip](/Observations-Zulip.md).
-  * [List of PRs](https://goo.gl/0TjIyL)
 
-* **hexo-theme-hiero** ([Source](https://github.com/iTimeTraveler/hexo-theme-hiero))
+* **hexo-theme-hiero** ([Source](https://github.com/iTimeTraveler/hexo-theme-hiero), [List of PRs](https://goo.gl/Mx6ZXm))
   * Spot a front-end bug and submit bug-fixes.
-  * [List of PRs](https://goo.gl/Mx6ZXm)
+
+* **blog** ([Source](https://github.com/chao1995/blog), [URL](https://chao1995.github.io/blog/archives/))
+  * I write about computer science fundamentals, technologies and MOOC course reviews in my technical blog. It's hosted on GitHub Pages.
+  * Some ineresting topics covered include:
+    * writing testable code
+    * scope in JavaScript.
+    * object-oriented programming in JavaScript
+
+* **lightining talks** ([Source](https://github.com/nus-oss/lightningtalks))
+  * Give three 7-minute talks on following topics:
+    * [writing testable code](https://github.com/nus-oss/lightningtalks/issues/8)
+    * [modern build system for web development as of 2017](https://github.com/nus-oss/lightningtalks/issues/31)
+    * [hello, dotfiles!](https://github.com/nus-oss/lightningtalks/issues/63)
 
 ## Skills
 
@@ -75,6 +93,16 @@
 * **Web Development**
   * Front-end: work experience with AngularJS 1.
   * Back-end: work experience with LAMP and Node.js
+
+* **DevOps**
+  * Continuous Integration (CI): project experience on Travis CI.
+  * Continuous Delievery (CD): project experience on deploying documentation to GitHub Pages using Travis CI for every push to the master branch.
+  * Build Automation:
+    * project experience on Gradle (a Java build tool)
+    * give a talk on the modern build system for web development including npm, gulp and webpack.
+
+* **Testing**
+  * JUnit: project experience in developing unit tests, integration tests and GUI tests for a JavaFx application using JUnit together with TestFx.
 
 ## Contact Info
 
