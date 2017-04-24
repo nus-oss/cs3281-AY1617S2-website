@@ -115,12 +115,7 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-1 | R | [`#1226`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1226) | Give an informative message when no cropping was done #1219, #1181
-1 | R | [`#1231`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1231) | Timer Lab: Provide images for rough indication of timer size #1230
-2 | D | [`#1234`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1234) | Give an informative message when no cropping was done #1219
-1 | O | - | Update Crop Lab documentations
-4 | D | [`#1244`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1244) | Crop Lab: Implement Settings for anchor points
-1 | R | [`#1255`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1255) | User can still create multiple timers #1242
+ |  |  | 
 
 ---
 
@@ -128,9 +123,18 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
+1 | R | [`#1226`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1226) | Give an informative message when no cropping was done #1219, #1181
+1 | R | [`#1231`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1231) | Timer Lab: Provide images for rough indication of timer size #1230
+2 | D | [`#1234`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1234) | Give an informative message when no cropping was done #1219
+1 | O | - | Update Crop Lab documentations
+4 | D | [`#1244`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1244) | Crop Lab: Implement Settings for anchor points
+1 | R | [`#1255`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1255) | User can still create multiple timers #1242
 1 | R | [`#1258`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1258) | Rephrase error messages to make them more end-user friendly #1245
 1 | R | [`#1281`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1281) | Improve sync fill tests
 1 | R | [`#1286`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1286) | Improve icons for sync text #1285
+1 | R | [`#1282`](https://github.com/PowerPointLabs/PowerPointLabs/pull/1282) | PasteAndReplace: Ensure that it works for items in group
+1 | O | - | Handle PowerPointLabs user support
+8 | O | - | STePS: PowerPointLabs website details and booth
 
 ---
 
