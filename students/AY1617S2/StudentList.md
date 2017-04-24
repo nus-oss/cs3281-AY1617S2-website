@@ -241,8 +241,8 @@
 [[Github Profile](https://github.com/xpdavid)]
 [[Progress](xiaoPu/xiaoPu-Progress.md)]
 
-* Expert areas: Java, Static Analysis
-* Projects: Teammates, Checkstyle
+* Expert areas: Java, Code Quality, Static Analysis
+* Projects: Teammates, Checkstyle, freeCodeCamp
 
 
 ## YANG BOXIN
