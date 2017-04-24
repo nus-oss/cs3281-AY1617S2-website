@@ -128,3 +128,18 @@
 
 ### Week 13
 
+|Effort| Type | PR | Issue |
+|:---: |:---: |:---|:---   |
+|  2   |  R   | [`#6837`](https://github.com/TEAMMATES/teammates/pull/6837) | Add scalability/performance measures for overload-prone pages |
+|  2   |  R   | [`#6980`](https://github.com/TEAMMATES/teammates/pull/6980) | Make IDE usage entirely optional |
+|  1   |  R   | [`#7031`](https://github.com/TEAMMATES/teammates/pull/7031) | Instructor: sessions page: do not auto-load response rates |
+|  1   |  R   | [`#7048`](https://github.com/TEAMMATES/teammates/pull/7048) | Instructor view results, grouped by recipient: show spinner while loading panels |
+|  1   |  R   | [`#7067`](https://github.com/TEAMMATES/teammates/pull/7067) | Show a tick in success messages |
+|  2   |  R   | [`#7081`](https://github.com/TEAMMATES/teammates/pull/7081) | instructor remind students: allow even if the session is closed |
+|  1   |  R   | [`#7087`](https://github.com/TEAMMATES/teammates/pull/7087) | Show alerts in flat (not 3D) style |
+|  1   |  D   | [`#7098`](https://github.com/TEAMMATES/teammates/pull/7098) | StudentCourseJoinAuthenticatedAction: NullPointerException in live server |
+|  1   |  R   | [`#7106`](https://github.com/TEAMMATES/teammates/pull/7106) | Use stylelint to enforce selector-list-comma-newline-after |
+|  1   |  R   | [`#7123`](https://github.com/TEAMMATES/teammates/pull/7123) | ide-usage.md: Eclipse section assumes JDK 1.7 default |
+|  1   |  R   | [`#7149`](https://github.com/TEAMMATES/teammates/pull/7149) | Typos in AdminEmailComposeSendAction.java |
+|  1   |  R   | [`#7154`](https://github.com/TEAMMATES/teammates/pull/7154) | Typos in AdminSessionsPageData and InstructorFeedbackResponseCommentAjaxPageData |
+|  2   |  O   | - | Release V5.102 management
