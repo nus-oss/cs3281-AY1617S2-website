@@ -127,12 +127,12 @@
 
 <img src="pierceAndersonFu/PierceAndersonFu.png" width="100" /><br>
 [[Resume](pierceAndersonFu/PierceAndersonFu-Resume.md)]
-[[Website]()]
+[[Website](https://github.com/PierceAndy)]
 [[Github Profile](https://github.com/PierceAndy)]
 [[Progress](pierceAndersonFu/PierceAndersonFu-Progress.md)]
 
-* Expert areas: C++, GPGPU, CUDA
-* Projects: [SE-EDU](https://github.com/se-edu)
+* Expert areas: Java, Git, GPGPU (CUDA), Code Quality, Documentation
+* Projects: [se-edu](https://github.com/se-edu), [coala](https://github.com/coala/coala)
 
 ## TAN WANG LENG
 
