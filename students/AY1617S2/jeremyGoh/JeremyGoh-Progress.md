@@ -110,4 +110,5 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
+1 | R | [`#317`](https://github.com/se-edu/addressbook-level4/pull/317) | Add Integration Tests for EditCommand
+8 | O | `nil` | 10th STEPS: Exhibition
