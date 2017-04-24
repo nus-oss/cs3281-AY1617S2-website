@@ -82,7 +82,12 @@ Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
 2 | D | [`#6993`](https://github.com/TEAMMATES/teammates/pull/6993) | Delete only emails in bundle for removeDataBundle in BackDoorLogic #6982
 1 | R | [`#7032`](https://github.com/TEAMMATES/teammates/pull/7032) | Fix typos in CourseRoster, TeamEvalResult and FieldValidator #6983
+1 | R | [`#7021`](https://github.com/TEAMMATES/teammates/pull/7021) | Typos in StudentProfileAttributesTest, CoursesLogicTest and InstructorCoursesPageDataTest #6991
 
 ---
 ### Week 13
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+8 | O | [`#6922`](https://github.com/TEAMMATES/teammates/pull/6922) | Remove HTML sanitization in StudentProfileAttributes #6891
+8 | O | - | STePS
