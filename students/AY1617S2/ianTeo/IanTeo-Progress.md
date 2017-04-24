@@ -109,15 +109,21 @@ Effort| Type | PR | Issue
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
-4 | D | [#1281](https://github.com/PowerPointLabs/PowerPointLabs/pull/1281) | Improve sync fill tests
-1 | D | [#1284](https://github.com/PowerPointLabs/PowerPointLabs/pull/1284) | Improve icons for line dash and compound #1283
-1 | D | [#1286](https://github.com/PowerPointLabs/PowerPointLabs/pull/1284) | Improve icons for sync text #1285
-1 | R | [#1280](https://github.com/PowerPointLabs/PowerPointLabs/pull/1280) | Prevent text wrap when shrinking timer #1279
  
 ---
 ### Week 13
 
 Effort| Type | PR | Issue
 :----:|:----:|:-----------|:------
- |  |  | 
- 
+4 | D | [#1281](https://github.com/PowerPointLabs/PowerPointLabs/pull/1281) | Improve sync fill tests
+1 | D | [#1284](https://github.com/PowerPointLabs/PowerPointLabs/pull/1284) | Improve icons for line dash and compound #1283
+1 | D | [#1286](https://github.com/PowerPointLabs/PowerPointLabs/pull/1284) | Improve icons for sync text #1285
+1 | R | [#1280](https://github.com/PowerPointLabs/PowerPointLabs/pull/1280) | Prevent text wrap when shrinking timer #1279
+2 | D | [#1289](https://github.com/PowerPointLabs/PowerPointLabs/pull/1289) | Merge Alpha release features to Development release
+1 | R | [#1291](https://github.com/PowerPointLabs/PowerPointLabs/pull/1291) | SyncLab revision
+2 | R | [#1277](https://github.com/PowerPointLabs/PowerPointLabs/pull/1277) | Sync Lab Updates
+1 | D | [#1292](https://github.com/PowerPointLabs/PowerPointLabs/pull/1292) | Remove unused codes
+2 | O | - | Design for SyncLab portion of the Poster for STePS
+8 | O | - | Manned the STePS booth for PowerPointLabs and convinced passerbys to try PowerPointLabs
+1 | O | - | Set up PowerPointLabs booth for STePS (Sticking the Poster, preparing the computers for live demo)
+4 | O | - | SyncLab documentation
