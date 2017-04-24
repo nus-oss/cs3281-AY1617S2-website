@@ -85,6 +85,7 @@ Effort| Type | PR | Issue
 1 | D | [`#354`](https://github.com/se-edu/addressbook-level4/pull/354) | All gui tests are failing
 1 | R | [`#352`](https://github.com/se-edu/addressbook-level4/pull/352) | Outdated prefixes in ArgumentTokenizer
 2 | R | [`#320`](https://github.com/se-edu/addressbook-level4/pull/320) | ArgumentTokenizer: ensure tokenizing before getting values
+2 | D | [`#212`](https://github.com/se-edu/addressbook-level4/pull/212) | Let commands have access to Storage
 4 | D | [`#347`](https://github.com/se-edu/addressbook-level4/pull/347) | Travis CI: cache dependencies
 
 ---
@@ -106,3 +107,11 @@ Effort| Type | PR | Issue
 
 ### Week 13
 
+Effort| Type | PR | Issue
+:----:|:----:|:-----------|:------
+1 | R | [`#368`](https://github.com/se-edu/addressbook-level4/pull/368) | Checkstyle: enforce separators' placement in line wraps
+1 | D | [`#192`](https://github.com/se-edu/addressbook-level2/pull/192) | runtest.sh: fix bug in deleting actual.txt from previous run
+1 | D | [`#371`](https://github.com/se-edu/addressbook-level4/pull/371) | Remove uses of real domain names
+2 | D | [`#189`](https://github.com/se-edu/addressbook-level2/pull/189) | Run I/O tests in CI
+4 | D | [`#317`](https://github.com/se-edu/addressbook-level4/pull/317) | Add Integration Tests for EditCommand
+8 | O | `nil` | 10th STEPS: Exhibition
